@@ -15,9 +15,10 @@ Kita Situation Berlin
 ## Project Description
 Most of us have probably heard, that that it is very hard to find a kita spot in Berlin and other German major cities. Goal of this project was to gain more data driven insights on this situation.
 How many children are there in Berlins neighborhoods, that have a right on a kita spot? How many Kita spots are there? 
+
 Why should you be interested in the Kita Situation in Berlin if you dont have kids? 
 The kita situation is a great indictaor for a countries gender equality and is a major driver in work-family support. 
-Since its is mostly women who take maternal leave and stay away from work to care for the family. The availability of Kita Spots is important for womens chance to be involved  in paid labor. 
+Since its is mostly women who take maternal leave and stay away from work to care for the family, the availability of Kita Spots is important for womens chance to be involved  in paid labor. 
 
 ## Questions & Hypotheses
 Since its is mostly women who take maternal leave and stay away from work to care for the family. The availability of Kita Spots is important for womens chance to be involved  in paid labor. 
