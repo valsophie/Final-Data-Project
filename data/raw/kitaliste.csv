@@ -1,0 +1,2716 @@
+,area,kita_address,plz,kita_spots
+0,Mitte,Albrechtstr. 020,10117,69.0
+1,Mitte,An der Kolonnade 003-5,10117,155.0
+2,Mitte,Anklamer Str. 038,10115,69.0
+3,Mitte,Fehrbelliner Str. 080,10119,91.0
+4,Mitte,Fischerinsel 008,10179,234.0
+5,Mitte,Französische Str. 016,10117,180.0
+6,Mitte,Ziegelstr. 004- 9,10117,25.0
+7,Mitte,Friedrichstr. 129F,10117,190.0
+8,Mitte,Gartenstr. 107,10115,140.0
+9,Mitte,Habersaathstr. 013,10115,150.0
+10,Mitte,Lichtenberger Str. 032-33,10179,190.0
+11,Mitte,Jerusalemer Str. 010,10117,185.0
+12,Mitte,Kleine Auguststr. 011-10,10119,220.0
+13,Mitte,Max-Beer-Str. 024-26,10119,200.0
+14,Mitte,Mollstr. 007A,10178,260.0
+15,Mitte,Jägerstr. 025,10117,70.0
+16,Mitte,Leipziger Str. 047,10117,65.0
+17,Mitte,Rheinsberger Str. 034- 35,10435,103.0
+18,Mitte,Rückerstr. 002,10119,140.0
+19,Mitte,Schmidstr. 002,10179,90.0
+20,Mitte,Sebastianstr. 022,10179,94.0
+21,Mitte,Sebastianstr. 023,10179,86.0
+22,Mitte,Veteranenstr. 010,10119,133.0
+23,Mitte,Weydemeyerstr. 020/21,10178,138.0
+24,Mitte,Kastanienallee 063A,10119,95.0
+25,Mitte,Elisabethkirchstr. 021,10115,125.0
+26,Mitte,Griebenowstr. 016,10435,85.0
+27,Mitte,Große Hamburger Str. 028,10115,84.0
+28,Mitte,Mohrenstr. 007,10117,100.0
+29,Mitte,Habersaathstr. 005,10115,90.0
+30,Mitte,Eichendorffstr. 017,10115,25.0
+31,Mitte,Wolliner Str. 060,10435,19.0
+32,Mitte,Fürstenberger Str. 004,10435,180.0
+33,Mitte,Strelitzer Str. 071,10115,17.0
+34,Mitte,Krausnickstr. 003A,10115,21.0
+35,Mitte,Anklamer Str. 046,10115,30.0
+36,Mitte,Anklamer Str. 029(Seitenflügel/Quergebäude),10115,35.0
+37,Mitte,Voßstr. 012,10117,45.0
+38,Mitte,Zionskirchstr. 049,10119,43.0
+39,Mitte,Krausnickstr. 011,10115,19.0
+40,Mitte,Leipziger Str. 041,10117,135.0
+41,Mitte,Anklamer Str. 029,10115,25.0
+42,Mitte,Linienstr. 122-124,10115,140.0
+43,Mitte,Brunnenstr. 033,10115,70.0
+44,Mitte,Reinhardtstr. 031,10117,45.0
+45,Mitte,Torstr. 134,10119,86.0
+46,Mitte,Glinkastr. 024,10117,20.0
+47,Mitte,Brunnenstr. 030,10119,42.0
+48,Mitte,Anklamer Str. 022,10115,20.0
+49,Mitte,Adalbertstr. 024,10179,30.0
+50,Mitte,Borsigstr. 032/34,10115,200.0
+51,Mitte,Garnisonkirchplatz 002,10178,23.0
+52,Mitte,Wilhelmstr. 050,10117,18.0
+53,Mitte,Köpenicker Str. 045,10179,23.0
+54,Mitte,Invalidenstr. 130,10115,320.0
+55,Mitte,Wilhelmstr. 054,10117,15.0
+56,Mitte,Garnisonkirchplatz 002,10178,26.0
+57,Mitte,Ziegelstr. 027,10117,23.0
+58,Mitte,Rheinsberger Str. 056,10115,25.0
+59,Mitte,Chausseestr. 050B,10115,54.0
+60,Mitte,Fehrbelliner Str. 051,10119,65.0
+61,Mitte,Wilhelmine-Gemberg-Weg 010,10179,26.0
+62,Mitte,Ackerstr. 003,10115,25.0
+63,Mitte,Steinstr. 027,10119,25.0
+64,Mitte,Kapelle-Ufer 002,10117,12.0
+65,Mitte,Ziegelstr. 005- 7,10117,88.0
+66,Mitte,Mohrenstr. 011,10117,48.0
+67,Mitte,Wadzeckstr. 004,10178,100.0
+68,Mitte,Jacobystr. 004,10179,107.0
+69,Mitte,Brunnenstr. 033,10115,25.0
+70,Mitte,Wilhelmstr. 088,10117,20.0
+71,Mitte,An der Kolonnade 002,10117,42.0
+72,Mitte,Invalidenstr. 103a,10115,70.0
+73,Mitte,Chausseestr. 084,10115,29.0
+74,Mitte,Alexandrinenstr. 056,10179,48.0
+75,Mitte,Hirtenstr. 012,10178,13.0
+76,Mitte,Bredowstr. 027A,10551,135.0
+77,Mitte,Calvinstr. 016,10557,105.0
+78,Mitte,Emdener Str. 011-13,10551,220.0
+79,Mitte,Havelberger Str. 021,10559,55.0
+80,Mitte,Klopstockstr. 029,10557,93.0
+81,Mitte,Alt-Moabit 025,10559,75.0
+82,Mitte,Birkenstr. 060,10559,30.0
+83,Mitte,Pohlstr. 087,10785,140.0
+84,Mitte,Rathenower Str. 015,10559,200.0
+85,Mitte,Ottostr. 016,10555,45.0
+86,Mitte,Rostocker Str. 032A,10553,110.0
+87,Mitte,Wikingerufer 009,10555,60.0
+88,Mitte,Holsteiner Ufer 012,10557,115.0
+89,Mitte,Paulstr. 020D,10557,110.0
+90,Mitte,Bandelstr. 041,10559,65.0
+91,Mitte,Kluckstr. 029,10785,19.0
+92,Mitte,Alt-Moabit 117,10559,105.0
+93,Mitte,Lützowstr. 083- 85 (Zugang Pohlstraße 62),10785,100.0
+94,Mitte,Turmstr. 071,10551,65.0
+95,Mitte,Elberfelder Str. 018,10555,20.0
+96,Mitte,Otto-von-Bismarck-Allee 002,10557,176.0
+97,Mitte,Kirchstr. 022,10557,16.0
+98,Mitte,Quitzowstr. 136,10559,25.0
+99,Mitte,Lehrter Str. 040,10557,74.0
+100,Mitte,Stephanstr. 017,10559,30.0
+101,Mitte,Wilsnacker Str. 014,10559,21.0
+102,Mitte,Rostocker Str. 026,10553,20.0
+103,Mitte,Bochumer Str. 011,10555,25.0
+104,Mitte,Stromstr. 058,10551,18.0
+105,Mitte,Flemingstr. 011,10557,18.0
+106,Mitte,Waldstr. 015,10551,15.0
+107,Mitte,Calvinstr. 013,10557,18.0
+108,Mitte,Wilsnacker Str. 062,10559,26.0
+109,Mitte,Lübecker Str. 013,10559,25.0
+110,Mitte,Quitzowstr. 125,10559,18.0
+111,Mitte,Emdener Str. 028,10551,50.0
+112,Mitte,Huttenstr. 022A,10553,85.0
+113,Mitte,Lützowstr. 061,10785,115.0
+114,Mitte,Lüneburger Str. 014,10557,95.0
+115,Mitte,Huttenstr. 031,10553,32.0
+116,Mitte,Lübecker Str. 032,10559,40.0
+117,Mitte,Katharina-Heinroth-Ufer 001,10787,39.0
+118,Mitte,Bissingzeile 01519,10785,130.0
+119,Mitte,Emdener Str. 047,10551,35.0
+120,Mitte,Alt-Moabit 133B,10557,45.0
+121,Mitte,Waldstr. 042,10551,30.0
+122,Mitte,Birkenstr. 033,10551,17.0
+123,Mitte,Bochumer Str. 002,10555,28.0
+124,Mitte,Hansa-Ufer 003A,10555,100.0
+125,Mitte,Lützowplatz 001,10785,30.0
+126,Mitte,Siemensstr. 010,10551,25.0
+127,Mitte,Waldstr. 023,10551,126.0
+128,Mitte,Siegmunds Hof 017a,10555,70.0
+129,Mitte,Klopstockstr. 001,10557,38.0
+130,Mitte,Lützowstr. 106,10785,170.0
+131,Mitte,Wilsnacker Str. 040,10559,26.0
+132,Mitte,Elberfelder Str. 019,10555,20.0
+133,Mitte,Jagowstr. 028,10555,25.0
+134,Mitte,Emdener Str. 056,10551,26.0
+135,Mitte,Alt-Moabit 035,10555,21.0
+136,Mitte,Perleberger Str. 047,10559,50.0
+137,Mitte,Spenerstr. 037,10557,45.0
+138,Mitte,Huttenstr. 021,10553,35.0
+139,Mitte,Alt-Moabit 098,10559,40.0
+140,Mitte,Alt-Moabit 037,10555,15.0
+141,Mitte,Waldstr. 041,10551,12.0
+142,Mitte,Jagowstr. 010- 11,10555,60.0
+143,Mitte,Alt-Moabit 086,10555,50.0
+144,Mitte,Kaiserin-Augusta-Allee 101,10553,25.0
+145,Mitte,Elberfelder Str. 028,10555,27.0
+146,Mitte,Erasmusstr. 007A,10553,20.0
+147,Mitte,Havelberger Str. 012,10559,25.0
+148,Mitte,Heidestr. 003,10557,25.0
+149,Mitte,Lützowstr. 068,10785,26.0
+150,Mitte,Jagowstr. 018,10555,15.0
+151,Mitte,Stephanstr. 053,10559,20.0
+152,Mitte,Paulstr. 018,10557,25.0
+153,Mitte,Rostocker Str. 028,10553,25.0
+154,Mitte,Wiclefstr. 032,10551,130.0
+155,Mitte,Perleberger Str. 039,10559,17.0
+156,Mitte,Lydia-Rabinowitsch-Str. 005,10557,77.0
+157,Mitte,Klara-Franke-Str. 001,10557,25.0
+158,Mitte,Hedwig-Porschütz-Str. 006,10557,45.0
+159,Mitte,Ackerstr. 060,13355,138.0
+160,Mitte,Brüsseler Str. 030,13353,125.0
+161,Mitte,Ramlerstr. 009,13355,185.0
+162,Mitte,Edinburger Str. 038,13349,45.0
+163,Mitte,Ghanastr. 013,13351,75.0
+164,Mitte,Graunstr. 011A,13355,120.0
+165,Mitte,Gottschedstr. 027,13357,185.0
+166,Mitte,Reinickendorfer Str. 098,13347,130.0
+167,Mitte,Schönwalder Str. 019A,13347,123.0
+168,Mitte,Schwedenstr. 009A,13359,110.0
+169,Mitte,Nordbahnstr. 015,13359,130.0
+170,Mitte,Wattstr. 016,13355,75.0
+171,Mitte,Gottschedstr. 028,13357,185.0
+172,Mitte,Lynarstr. 012,13353,114.0
+173,Mitte,Freienwalder Str. 019C,13359,115.0
+174,Mitte,Togostr. 067,13351,160.0
+175,Mitte,Wiesenstr. 049-50,13357,147.0
+176,Mitte,Wolgaster Str. 004-2,13355,204.0
+177,Mitte,Koloniestr. 024A,13359,190.0
+178,Mitte,Dubliner Str. 029,13349,55.0
+179,Mitte,Ruheplatzstr. 013,13347,171.0
+180,Mitte,Afrikanische Str. 028,13351,150.0
+181,Mitte,Bornholmer Str. 044,13359,160.0
+182,Mitte,Stettiner Str. 021,13357,206.0
+183,Mitte,Petersallee 029,13351,160.0
+184,Mitte,Nazarethkirchstr. 050,13347,48.0
+185,Mitte,Seestr. 035,13353,70.0
+186,Mitte,Soldiner Str. 021,13359,80.0
+187,Mitte,Sprengelstr. 035,13353,85.0
+188,Mitte,Feldstr. 020,13355,55.0
+189,Mitte,Hochstädter Str. 014,13347,65.0
+190,Mitte,Reinickendorfer Str. 062,13347,130.0
+191,Mitte,Bastianstr. 018,13357,18.0
+192,Mitte,Eulerstr. 010,13357,18.0
+193,Mitte,Sprengelstr. 033,13353,25.0
+194,Mitte,Fehmarner Str. 014,13353,18.0
+195,Mitte,Glasgower Str. 026,13349,17.0
+196,Mitte,Grüntaler Str. 008,13357,27.0
+197,Mitte,Türkenstr. 005,13349,21.0
+198,Mitte,Lütticher Str. 005,13353,13.0
+199,Mitte,Brüsseler Str. 045,13353,18.0
+200,Mitte,Amsterdamer Str. 012,13347,19.0
+201,Mitte,Sparrstr. 019,13353,13.0
+202,Mitte,Sparrstr. 020,13353,15.0
+203,Mitte,Togostr. 078,13351,60.0
+204,Mitte,Türkenstr. 015,13349,20.0
+205,Mitte,Wiesenstr. 028,13357,20.0
+206,Mitte,Sparrstr. 021,13353,15.0
+207,Mitte,Amsterdamer Str. 013,13347,45.0
+208,Mitte,Wiesenstr. 025,13357,115.0
+209,Mitte,Afrikanische Str. 121,13351,150.0
+210,Mitte,Müllerstr. 008,13353,150.0
+211,Mitte,Schwedenstr. 003A,13357,26.0
+212,Mitte,Liebenwalder Str. 045,13347,135.0
+213,Mitte,Sparrstr. 022,13353,25.0
+214,Mitte,Stettiner Str. 056,13357,40.0
+215,Mitte,Stralsunder Str. 007,13355,76.0
+216,Mitte,Wollankstr. 061D,13359,32.0
+217,Mitte,Exerzierstr. 032A,13357,133.0
+218,Mitte,Swinemünder Str. 064,13355,18.0
+219,Mitte,Oudenarder Str. 001B,13347,17.0
+220,Mitte,Soldiner Str. 033,13359,19.0
+221,Mitte,Edinburger Str. 039,13349,23.0
+222,Mitte,Seestr. 090,13347,71.0
+223,Mitte,Grüntaler Str. 012,13357,30.0
+224,Mitte,Grüntaler Str. 034,13359,130.0
+225,Mitte,Neue Hochstr. 044,13347,135.0
+226,Mitte,Malplaquetstr. 024,13347,34.0
+227,Mitte,Amsterdamer Str. 019B,13347,24.0
+228,Mitte,Zingster Str. 012,13357,40.0
+229,Mitte,Malplaquetstr. 037,13347,22.0
+230,Mitte,Malplaquetstr. 010,13347,26.0
+231,Mitte,Antonstr. 019,13347,25.0
+232,Mitte,Swinemünder Str. 065,13355,41.0
+233,Mitte,Drontheimer Str. 023A,13359,135.0
+234,Mitte,Kurt-Schumacher-Damm 041,13405,50.0
+235,Mitte,Prinzenallee 024,13359,30.0
+236,Mitte,Osloer Str. 105D,13359,100.0
+237,Mitte,Liebenwalder Str. 044,13347,23.0
+238,Mitte,Sternstr. 009,13359,18.0
+239,Mitte,Gustav-Meyer-Allee 002,13355,70.0
+240,Mitte,Brüsseler Str. 038,13353,20.0
+241,Mitte,Türkenstr. 020,13349,20.0
+242,Mitte,Türkenstr. 004,13349,6.0
+243,Mitte,Tegeler Str. 006,13353,45.0
+244,Mitte,Grüntaler Str. 006,13357,20.0
+245,Mitte,Nazarethkirchstr. 049,13347,45.0
+246,Mitte,Augustenburger Platz 001,13353,125.0
+247,Mitte,Ofener Str. 004,13349,30.0
+248,Mitte,Ackerstr. 076,13355,160.0
+249,Mitte,Triftstr. 067,13353,48.0
+250,Mitte,Tegeler Str. 044,13353,13.0
+251,Mitte,Ackerstr. 104,13355,84.0
+252,Mitte,Groninger Str. 032,13347,20.0
+253,Mitte,Eulerstr. 019A,13357,36.0
+254,Mitte,Bastianstr. 021,13357,22.0
+255,Mitte,Malplaquetstr. 041,13347,30.0
+256,Mitte,Genter Str. 024,13353,29.0
+257,Mitte,Bristolstr. 019,13349,20.0
+258,Mitte,Plantagenstr. 009,13347,60.0
+259,Mitte,Groninger Str. 034,13347,13.0
+260,Mitte,Schulstr. 052-53,13347,40.0
+261,Mitte,Sparrstr. 026,13353,25.0
+262,Mitte,Glasgower Str. 025,13349,25.0
+263,Mitte,Brüsseler Str. 019,13353,18.0
+264,Mitte,Grüntaler Str. 030,13357,22.0
+265,Mitte,Wriezener Str. 043,13359,37.0
+266,Mitte,Prinzenallee 045C,13359,33.0
+267,Mitte,Zingster Str. 008- 10,13357,12.0
+268,Mitte,Eulerstr. 018,13357,21.0
+269,Mitte,Ofener Str. 003A,13349,20.0
+270,Mitte,Koloniestr. 007- 8,13357,36.0
+271,Mitte,Transvaalstr. 020,13351,25.0
+272,Mitte,Malplaquetstr. 035,13347,17.0
+273,Mitte,Stettiner Str. 008,13357,83.0
+274,Mitte,Burgsdorfstr. 013,13353,23.0
+275,Mitte,Exerzierstr. 026,13357,25.0
+276,Mitte,Tegeler Str. 013,13353,75.0
+277,Mitte,Brüsseler Str. 008,13353,15.0
+278,Mitte,Soldiner Str. 070/71,13359,25.0
+279,Mitte,Ofener Str. 003,13349,28.0
+280,Mitte,Stralsunder Str. 004,13355,14.0
+281,Mitte,Gerichtstr. 040,13347,30.0
+282,Mitte,Badstr. 012,13357,82.0
+283,Mitte,Rügener Str. 001- 3,13355,75.0
+284,Mitte,Seestr. 062,13347,45.0
+285,Mitte,Reinickendorfer Str. 030,13347,25.0
+286,Mitte,Reinickendorfer Str. 110A,13347,92.0
+287,Mitte,Soldiner Str. 065/66,13359,30.0
+288,Mitte,Usedomer Str. 023,13355,30.0
+289,Mitte,Barfusstr. 013,13349,25.0
+290,Mitte,Müllerstr. 056-58,13349,40.0
+291,Mitte,Lüderitzstr. 003,13351,25.0
+292,Mitte,Sparrstr. 003A,13353,25.0
+293,Mitte,Prinz-Eugen-Str. 008,13347,35.0
+294,Mitte,Demminer Str. 005,13355,63.0
+295,Mitte,Kongostr. 046,13351,41.0
+296,Mitte,Otawistr. 027,13351,66.0
+297,Mitte,Sparrstr. 025,13353,22.0
+298,Mitte,Reinickendorfer Str. 099,13347,45.0
+299,Mitte,Edinburger Str. 013,13349,25.0
+300,Mitte,Adolfstr. 021,13347,19.0
+301,Mitte,Schönwalder Str. 017,13347,50.0
+302,Mitte,Reinickendorfer Str. 032,13347,64.0
+303,Mitte,Brunnenstr. 085,13355,30.0
+304,Mitte,Brunnenstr. 085,13355,40.0
+305,Mitte,Bernauer Str. 115- 118,13355,64.0
+306,Mitte,Wriezener Str. 039,13359,25.0
+307,Mitte,Reinickendorfer Str. 063,13347,25.0
+308,Mitte,Kameruner Str. 055,13351,25.0
+309,Mitte,Dubliner Str. 008,13349,25.0
+310,Mitte,Transvaalstr. 046,13351,19.0
+311,Mitte,Prinz-Eugen-Str. 016,13347,20.0
+312,Mitte,Antwerpener Str. 040,13353,103.0
+313,Mitte,Osloer Str. 124,13359,23.0
+314,Mitte,Müllerstr. 061,13349,25.0
+315,Mitte,Badstr. 057/58,13357,60.0
+316,Mitte,Lichtburgring 011,13355,78.0
+317,Mitte,Burgsdorfstr. 013,13353,18.0
+318,Mitte,Genter Str. 074,13353,23.0
+319,Mitte,Barfusstr. 014,13349,13.0
+320,Mitte,Müllerstr. 064,13349,25.0
+321,Mitte,Transvaalstr. 043,13351,25.0
+322,Mitte,Badstr. 010,13357,24.0
+323,Mitte,Iranische Str. 006,13347,50.0
+324,Mitte,Müllerstr. 077-78,13349,60.0
+325,Mitte,Triftstr. 067,13353,180.0
+326,Mitte,Lynarstr. 039,13353,33.0
+327,Mitte,Soldiner Str. 031,13359,46.0
+328,Friedrichsh.-Kreuzb.,Andreasstr. 037,10243,248.0
+329,Friedrichsh.-Kreuzb.,Auerstr. 013-17,10249,210.0
+330,Friedrichsh.-Kreuzb.,Bänschstr. 078,10247,225.0
+331,Friedrichsh.-Kreuzb.,Stralauer Allee 001,10245,30.0
+332,Friedrichsh.-Kreuzb.,Colbestr. 009,10247,85.0
+333,Friedrichsh.-Kreuzb.,Fürstenwalder Str. 030,10243,120.0
+334,Friedrichsh.-Kreuzb.,Gryphiusstr. 034 - 35,10245,240.0
+335,Friedrichsh.-Kreuzb.,Dirschauer Str. 013,10245,20.0
+336,Friedrichsh.-Kreuzb.,Hildegard-Jadamowitz-Str. 001,10243,175.0
+337,Friedrichsh.-Kreuzb.,Ebertystr. 043,10249,36.0
+338,Friedrichsh.-Kreuzb.,Kinzigstr. 032,10247,140.0
+339,Friedrichsh.-Kreuzb.,Straßmannstr. 028,10249,21.0
+340,Friedrichsh.-Kreuzb.,Schreinerstr. 019,10247,20.0
+341,Friedrichsh.-Kreuzb.,Simon-Dach-Str. 024,10245,22.0
+342,Friedrichsh.-Kreuzb.,Travestr. 003,10247,30.0
+343,Friedrichsh.-Kreuzb.,Liebigstr. 030,10247,179.0
+344,Friedrichsh.-Kreuzb.,Eldenaer Str. 028A,10247,8.0
+345,Friedrichsh.-Kreuzb.,Palisadenstr. 030,10243,230.0
+346,Friedrichsh.-Kreuzb.,Palisadenstr. 033,10243,60.0
+347,Friedrichsh.-Kreuzb.,Rudolfstr. 014B,10245,160.0
+348,Friedrichsh.-Kreuzb.,Palmkernzeile 008,10245,155.0
+349,Friedrichsh.-Kreuzb.,Richard-Sorge-Str. 044,10249,130.0
+350,Friedrichsh.-Kreuzb.,Rigaer Str. 053-54,10247,256.0
+351,Friedrichsh.-Kreuzb.,Straßmannstr. 036,10249,22.0
+352,Friedrichsh.-Kreuzb.,Kreutzigerstr. 024,10247,21.0
+353,Friedrichsh.-Kreuzb.,Scharnweberstr. 060,10247,90.0
+354,Friedrichsh.-Kreuzb.,Simplonstr. 018,10245,226.0
+355,Friedrichsh.-Kreuzb.,Gubener Str. 051,10243,15.0
+356,Friedrichsh.-Kreuzb.,Strausberger Str. 049,10243,90.0
+357,Friedrichsh.-Kreuzb.,Fredersdorfer Str. 006,10243,185.0
+358,Friedrichsh.-Kreuzb.,Weidenweg 068,10247,87.0
+359,Friedrichsh.-Kreuzb.,Weidenweg 078,10247,165.0
+360,Friedrichsh.-Kreuzb.,Friedenstr. 001,10249,32.0
+361,Friedrichsh.-Kreuzb.,Diestelmeyerstr. 007,10249,50.0
+362,Friedrichsh.-Kreuzb.,Rigaer Str. 009,10247,70.0
+363,Friedrichsh.-Kreuzb.,Samariterstr. 027,10247,32.0
+364,Friedrichsh.-Kreuzb.,Niemannstr. 001,10245,110.0
+365,Friedrichsh.-Kreuzb.,Jungstr. 015-017,10247,30.0
+366,Friedrichsh.-Kreuzb.,Koppenstr. 015,10243,240.0
+367,Friedrichsh.-Kreuzb.,Scharnweberstr. 033,10247,20.0
+368,Friedrichsh.-Kreuzb.,Höchste Str. 011,10249,229.0
+369,Friedrichsh.-Kreuzb.,Müggelstr. 019B,10247,73.0
+370,Friedrichsh.-Kreuzb.,Scharnweberstr. 061,10247,75.0
+371,Friedrichsh.-Kreuzb.,Simon-Dach-Str. 025,10245,20.0
+372,Friedrichsh.-Kreuzb.,Ebertystr. 007,10249,25.0
+373,Friedrichsh.-Kreuzb.,Am Rudolfplatz 005,10245,20.0
+374,Friedrichsh.-Kreuzb.,Stralauer Allee 006,10245,35.0
+375,Friedrichsh.-Kreuzb.,Gryphiusstr. 025,10245,20.0
+376,Friedrichsh.-Kreuzb.,Mühsamstr. 073,10249,23.0
+377,Friedrichsh.-Kreuzb.,Karl-Marx-Allee 124,10243,30.0
+378,Friedrichsh.-Kreuzb.,Gubener Str. 058,10243,30.0
+379,Friedrichsh.-Kreuzb.,Strausberger Str. 038,10243,54.0
+380,Friedrichsh.-Kreuzb.,Seumestr. 031,10245,28.0
+381,Friedrichsh.-Kreuzb.,Warschauer Str. 079,10243,25.0
+382,Friedrichsh.-Kreuzb.,Eckertstr. 017,10249,30.0
+383,Friedrichsh.-Kreuzb.,Gryphiusstr. 021,10245,20.0
+384,Friedrichsh.-Kreuzb.,Kleine Markusstr. 009,10243,130.0
+385,Friedrichsh.-Kreuzb.,Gubener Str. 001A,10243,38.0
+386,Friedrichsh.-Kreuzb.,Revaler Str. 010,10245,45.0
+387,Friedrichsh.-Kreuzb.,Gubener Str. 046(Erdgeschoss),10243,27.0
+388,Friedrichsh.-Kreuzb.,Bahrfeldtstr. 009- 10,10245,120.0
+389,Friedrichsh.-Kreuzb.,Schreinerstr. 062,10247,22.0
+390,Friedrichsh.-Kreuzb.,Modersohnstr. 058,10245,17.0
+391,Friedrichsh.-Kreuzb.,Andreasstr. 051,10243,40.0
+392,Friedrichsh.-Kreuzb.,Kinzigstr. 011,10247,23.0
+393,Friedrichsh.-Kreuzb.,Bänschstr. 088,10247,33.0
+394,Friedrichsh.-Kreuzb.,Rigaer Str. 014,10247,22.0
+395,Friedrichsh.-Kreuzb.,Gubener Str. 046(Dachgeschoss),10243,22.0
+396,Friedrichsh.-Kreuzb.,Seumestr. 013/13 A,10245,37.0
+397,Friedrichsh.-Kreuzb.,Landsberger Allee 057,10249,25.0
+398,Friedrichsh.-Kreuzb.,Bänschstr. 024,10247,25.0
+399,Friedrichsh.-Kreuzb.,Kopernikusstr. 032,10243,22.0
+400,Friedrichsh.-Kreuzb.,Marchlewskistr. 050,10243,25.0
+401,Friedrichsh.-Kreuzb.,Gubener Str. 049,10243,17.0
+402,Friedrichsh.-Kreuzb.,Voigtstr. 026,10247,17.0
+403,Friedrichsh.-Kreuzb.,Scharnweberstr. 023,10247,50.0
+404,Friedrichsh.-Kreuzb.,Lenbachstr. 002,10245,20.0
+405,Friedrichsh.-Kreuzb.,Travestr. 002,10247,20.0
+406,Friedrichsh.-Kreuzb.,Rigaer Str. 096,10247,30.0
+407,Friedrichsh.-Kreuzb.,Jessnerstr. 037,10247,30.0
+408,Friedrichsh.-Kreuzb.,Oderstr. 034,10247,25.0
+409,Friedrichsh.-Kreuzb.,Barnimstr. 038,10249,25.0
+410,Friedrichsh.-Kreuzb.,Holteistr. 019,10245,42.0
+411,Friedrichsh.-Kreuzb.,Markgrafendamm 026,10245,35.0
+412,Friedrichsh.-Kreuzb.,Rigaer Str. 079,10247,32.0
+413,Friedrichsh.-Kreuzb.,Simplonstr. 052,10245,25.0
+414,Friedrichsh.-Kreuzb.,Richard-Sorge-Str. 069A,10249,21.0
+415,Friedrichsh.-Kreuzb.,Landsberger Allee 049Haus 6,10249,43.0
+416,Friedrichsh.-Kreuzb.,Frankfurter Allee 016A,10247,180.0
+417,Friedrichsh.-Kreuzb.,Bänschstr. 012,10247,28.0
+418,Friedrichsh.-Kreuzb.,Rigaer Str. 004,10247,26.0
+419,Friedrichsh.-Kreuzb.,Grünberger Str. 026,10245,25.0
+420,Friedrichsh.-Kreuzb.,Landsberger Allee 053Ecke Virchowstraße,10249,40.0
+421,Friedrichsh.-Kreuzb.,Weidenweg 053,10247,25.0
+422,Friedrichsh.-Kreuzb.,Scharnweberstr. 047,10247,25.0
+423,Friedrichsh.-Kreuzb.,Stralauer Allee 018,10245,35.0
+424,Friedrichsh.-Kreuzb.,Holzmarktstr. 025,10243,33.0
+425,Friedrichsh.-Kreuzb.,Am Speicher 006,10245,25.0
+426,Friedrichsh.-Kreuzb.,Haasestr. 009,10245,25.0
+427,Friedrichsh.-Kreuzb.,Hausburgstr. 012,10249,25.0
+428,Friedrichsh.-Kreuzb.,Haasestr. 014,10245,25.0
+429,Friedrichsh.-Kreuzb.,Dolziger Str. 039,10247,19.0
+430,Friedrichsh.-Kreuzb.,Weserstr. 043,10247,90.0
+431,Friedrichsh.-Kreuzb.,Scharnweberstr. 035,10247,19.0
+432,Friedrichsh.-Kreuzb.,Mildred-Harnack-Str. 010,10243,68.0
+433,Friedrichsh.-Kreuzb.,Simon-Dach-Str. 028,10245,25.0
+434,Friedrichsh.-Kreuzb.,Kinzigstr. 018,10247,50.0
+435,Friedrichsh.-Kreuzb.,Mehringdamm 116,10965,103.0
+436,Friedrichsh.-Kreuzb.,Planufer 077,10967,50.0
+437,Friedrichsh.-Kreuzb.,Pücklerstr. 012,10997,108.0
+438,Friedrichsh.-Kreuzb.,Reichenberger Str. 092,10999,142.0
+439,Friedrichsh.-Kreuzb.,Wartenburgstr. 006,10963,140.0
+440,Friedrichsh.-Kreuzb.,Solmsstr. 001,10961,131.0
+441,Friedrichsh.-Kreuzb.,Bethaniendamm 027,10997,40.0
+442,Friedrichsh.-Kreuzb.,Reichenberger Str. 040,10999,100.0
+443,Friedrichsh.-Kreuzb.,Lobeckstr. 011,10969,135.0
+444,Friedrichsh.-Kreuzb.,Urbanstr. 062,10967,90.0
+445,Friedrichsh.-Kreuzb.,Planufer 081,10967,135.0
+446,Friedrichsh.-Kreuzb.,Fontanepromenade 014,10967,200.0
+447,Friedrichsh.-Kreuzb.,Methfesselstr. 014,10965,92.0
+448,Friedrichsh.-Kreuzb.,Kochstr. 008,10969,185.0
+449,Friedrichsh.-Kreuzb.,Baerwaldstr. 018,10961,185.0
+450,Friedrichsh.-Kreuzb.,Lübbener Str. 006,10997,48.0
+451,Friedrichsh.-Kreuzb.,Paul-Lincke-Ufer 012,10999,130.0
+452,Friedrichsh.-Kreuzb.,Cuvrystr. 026AOppelner Str. 21,10997,152.0
+453,Friedrichsh.-Kreuzb.,Urbanstr. 048K,10967,136.0
+454,Friedrichsh.-Kreuzb.,Dresdener Str. 128,10999,150.0
+455,Friedrichsh.-Kreuzb.,Schlesische Str. 003,10997,130.0
+456,Friedrichsh.-Kreuzb.,Cuvrystr. 036,10997,112.0
+457,Friedrichsh.-Kreuzb.,Schwiebusser Str. 006,10965,36.0
+458,Friedrichsh.-Kreuzb.,Kreuzbergstr. 047,10965,115.0
+459,Friedrichsh.-Kreuzb.,Lausitzer Str. 029- 30,10999,75.0
+460,Friedrichsh.-Kreuzb.,Planufer 084,10967,50.0
+461,Friedrichsh.-Kreuzb.,Zossener Str. 022,10961,98.0
+462,Friedrichsh.-Kreuzb.,Wartenburgstr. 007,10963,65.0
+463,Friedrichsh.-Kreuzb.,Wassertorstr. 021A,10969,90.0
+464,Friedrichsh.-Kreuzb.,Dresdener Str. 029,10999,77.0
+465,Friedrichsh.-Kreuzb.,Dessauer Str. 027,10963,120.0
+466,Friedrichsh.-Kreuzb.,Reichenberger Str. 122,10999,63.0
+467,Friedrichsh.-Kreuzb.,Baerwaldstr. 056,10961,112.0
+468,Friedrichsh.-Kreuzb.,Blücherstr. 046-47,10961,93.0
+469,Friedrichsh.-Kreuzb.,Oranienstr. 192,10999,58.0
+470,Friedrichsh.-Kreuzb.,Alexandrinenstr. 001B,10969,36.0
+471,Friedrichsh.-Kreuzb.,Alte Jakobstr. 135-136,10969,62.0
+472,Friedrichsh.-Kreuzb.,Bergmannstr. 012,10961,16.0
+473,Friedrichsh.-Kreuzb.,Wrangelstr. 031,10997,70.0
+474,Friedrichsh.-Kreuzb.,Böckhstr. 021,10967,21.0
+475,Friedrichsh.-Kreuzb.,Dieffenbachstr. 07677,10967,25.0
+476,Friedrichsh.-Kreuzb.,Böcklerstr. 008,10969,25.0
+477,Friedrichsh.-Kreuzb.,Boppstr. 004,10967,36.0
+478,Friedrichsh.-Kreuzb.,Cuvrystr. 039,10997,25.0
+479,Friedrichsh.-Kreuzb.,Erkelenzdamm 049,10999,20.0
+480,Friedrichsh.-Kreuzb.,Dolziger Str. 051,10247,25.0
+481,Friedrichsh.-Kreuzb.,Falckensteinstr. 020,10997,17.0
+482,Friedrichsh.-Kreuzb.,Böckhstr. 045,10967,17.0
+483,Friedrichsh.-Kreuzb.,Glogauer Str. 022,10999,22.0
+484,Friedrichsh.-Kreuzb.,Johanniterstr. 017,10961,102.0
+485,Friedrichsh.-Kreuzb.,Graefestr. 039,10967,18.0
+486,Friedrichsh.-Kreuzb.,Heimstr. 015,10965,17.0
+487,Friedrichsh.-Kreuzb.,Mittenwalder Str. 047,10961,18.0
+488,Friedrichsh.-Kreuzb.,Großbeerenstr. 013,10963,16.0
+489,Friedrichsh.-Kreuzb.,Jahnstr. 007,10967,20.0
+490,Friedrichsh.-Kreuzb.,Kreuzbergstr. 045,10965,13.0
+491,Friedrichsh.-Kreuzb.,Lausitzer Platz 002,10997,30.0
+492,Friedrichsh.-Kreuzb.,Lausitzer Str. 022,10999,23.0
+493,Friedrichsh.-Kreuzb.,Cuvrystr. 024,10997,20.0
+494,Friedrichsh.-Kreuzb.,Fichtestr. 019A,10967,17.0
+495,Friedrichsh.-Kreuzb.,Lübbener Str. 026,10997,29.0
+496,Friedrichsh.-Kreuzb.,Mariannenstr. 047,10997,29.0
+497,Friedrichsh.-Kreuzb.,Mariannenstr. 048,10997,20.0
+498,Friedrichsh.-Kreuzb.,Markgrafenstr. 008,10969,15.0
+499,Friedrichsh.-Kreuzb.,Hagelberger Str. 052,10965,47.0
+500,Friedrichsh.-Kreuzb.,Möckernstr. 076,10965,30.0
+501,Friedrichsh.-Kreuzb.,Muskauer Str. 030,10997,14.0
+502,Friedrichsh.-Kreuzb.,Muskauer Str. 033,10997,20.0
+503,Friedrichsh.-Kreuzb.,Muskauer Str. 043,10997,25.0
+504,Friedrichsh.-Kreuzb.,Naunynstr. 072,10997,23.0
+505,Friedrichsh.-Kreuzb.,Fidicinstr. 032,10965,16.0
+506,Friedrichsh.-Kreuzb.,Heimstr. 007,10965,18.0
+507,Friedrichsh.-Kreuzb.,Oranienstr. 202,10999,15.0
+508,Friedrichsh.-Kreuzb.,Planufer 092,10967,18.0
+509,Friedrichsh.-Kreuzb.,Reichenberger Str. 090,10999,18.0
+510,Friedrichsh.-Kreuzb.,Reichenberger Str. 099,10999,33.0
+511,Friedrichsh.-Kreuzb.,Riemannstr. 017,10961,36.0
+512,Friedrichsh.-Kreuzb.,Grimmstr. 001A,10967,13.0
+513,Friedrichsh.-Kreuzb.,Görlitzer Str. 032,10997,40.0
+514,Friedrichsh.-Kreuzb.,Taborstr. 021,10997,20.0
+515,Friedrichsh.-Kreuzb.,Waldemarstr. 057,10997,86.0
+516,Friedrichsh.-Kreuzb.,Nostitzstr. 025,10961,18.0
+517,Friedrichsh.-Kreuzb.,Willibald-Alexis-Str. 043,10965,23.0
+518,Friedrichsh.-Kreuzb.,Wrangelstr. 063,10997,24.0
+519,Friedrichsh.-Kreuzb.,Hasenheide 056,10967,30.0
+520,Friedrichsh.-Kreuzb.,Forster Str. 056,10999,15.0
+521,Friedrichsh.-Kreuzb.,Alte Jakobstr. 010,10969,100.0
+522,Friedrichsh.-Kreuzb.,Adalbertstr. 087,10997,26.0
+523,Friedrichsh.-Kreuzb.,Dresdener Str. 014,10999,38.0
+524,Friedrichsh.-Kreuzb.,Eisenbahnstr. 021,10997,20.0
+525,Friedrichsh.-Kreuzb.,Obentrautstr. 052,10963,25.0
+526,Friedrichsh.-Kreuzb.,Oranienstr. 004,10997,93.0
+527,Friedrichsh.-Kreuzb.,Naunynstr. 069,10997,63.0
+528,Friedrichsh.-Kreuzb.,Görlitzer Str. 033,10997,17.0
+529,Friedrichsh.-Kreuzb.,Heimstr. 016,10965,15.0
+530,Friedrichsh.-Kreuzb.,Köpenicker Str. 174,10997,24.0
+531,Friedrichsh.-Kreuzb.,Monumentenstr. 016,10965,15.0
+532,Friedrichsh.-Kreuzb.,Fürbringerstr. 027,10961,14.0
+533,Friedrichsh.-Kreuzb.,Oranienstr. 056,10969,87.0
+534,Friedrichsh.-Kreuzb.,Yorckstr. 088H,10965,20.0
+535,Friedrichsh.-Kreuzb.,Köpenicker Str. 174,10997,24.0
+536,Friedrichsh.-Kreuzb.,Katzbachstr. 019,10965,23.0
+537,Friedrichsh.-Kreuzb.,Arndtstr. 042,10965,15.0
+538,Friedrichsh.-Kreuzb.,Leuschnerdamm 033,10999,123.0
+539,Friedrichsh.-Kreuzb.,Wilhelmstr. 014A,10963,139.0
+540,Friedrichsh.-Kreuzb.,Böckhstr. 012,10967,15.0
+541,Friedrichsh.-Kreuzb.,Ohlauer Str. 039/41,10999,40.0
+542,Friedrichsh.-Kreuzb.,Schwiebusser Str. 005,10965,90.0
+543,Friedrichsh.-Kreuzb.,Markgrafenstr. 080,10969,100.0
+544,Friedrichsh.-Kreuzb.,Boppstr. 009,10967,20.0
+545,Friedrichsh.-Kreuzb.,Graefestr. 084,10967,24.0
+546,Friedrichsh.-Kreuzb.,Adalbertstr. 088,10997,24.0
+547,Friedrichsh.-Kreuzb.,Adalbertstr. 023B,10997,22.0
+548,Friedrichsh.-Kreuzb.,Admiralstr. 020,10999,15.0
+549,Friedrichsh.-Kreuzb.,Mariannenplatz 002,10997,55.0
+550,Friedrichsh.-Kreuzb.,Waldemarstr. 057,10997,35.0
+551,Friedrichsh.-Kreuzb.,Großbeerenstr. 094,10963,22.0
+552,Friedrichsh.-Kreuzb.,Liegnitzer Str. 014,10999,19.0
+553,Friedrichsh.-Kreuzb.,Eisenbahnstr. 013,10997,25.0
+554,Friedrichsh.-Kreuzb.,Dieffenbachstr. 013,10967,20.0
+555,Friedrichsh.-Kreuzb.,Böckhstr. 011,10967,51.0
+556,Friedrichsh.-Kreuzb.,Hasenheide 051,10967,18.0
+557,Friedrichsh.-Kreuzb.,Alte Jakobstr. 172,10969,25.0
+558,Friedrichsh.-Kreuzb.,Jahnstr. 014,10967,30.0
+559,Friedrichsh.-Kreuzb.,Urbanstr. 021,10961,39.0
+560,Friedrichsh.-Kreuzb.,Friesenstr. 004,10965,25.0
+561,Friedrichsh.-Kreuzb.,Fidicinstr. 010,10965,15.0
+562,Friedrichsh.-Kreuzb.,Eisenbahnstr. 009,10997,27.0
+563,Friedrichsh.-Kreuzb.,Glogauer Str. 026,10999,35.0
+564,Friedrichsh.-Kreuzb.,Großbeerenstr. 056C,10965,23.0
+565,Friedrichsh.-Kreuzb.,Reichenberger Str. 156A,10999,80.0
+566,Friedrichsh.-Kreuzb.,Fidicinstr. 023,10965,15.0
+567,Friedrichsh.-Kreuzb.,Solmsstr. 022,10961,24.0
+568,Friedrichsh.-Kreuzb.,Böckhstr. 048,10967,26.0
+569,Friedrichsh.-Kreuzb.,Bergmannstr. 098,10961,30.0
+570,Friedrichsh.-Kreuzb.,Reichenberger Str. 062,10999,31.0
+571,Friedrichsh.-Kreuzb.,Kreuzbergstr. 043,10965,20.0
+572,Friedrichsh.-Kreuzb.,Zossener Str. 036,10961,15.0
+573,Friedrichsh.-Kreuzb.,Jüterboger Str. 008,10965,15.0
+574,Friedrichsh.-Kreuzb.,Graefestr. 043,10967,42.0
+575,Friedrichsh.-Kreuzb.,Markgrafenstr. 015A,10969,80.0
+576,Friedrichsh.-Kreuzb.,Graefestr. 006,10967,30.0
+577,Friedrichsh.-Kreuzb.,Glogauer Str. 032,10999,28.0
+578,Friedrichsh.-Kreuzb.,Liegnitzer Str. 017,10999,30.0
+579,Friedrichsh.-Kreuzb.,Stallschreiberstr. 013,10969,130.0
+580,Friedrichsh.-Kreuzb.,Muskauer Str. 055,10997,30.0
+581,Friedrichsh.-Kreuzb.,Dieffenbachstr. 027,10967,25.0
+582,Friedrichsh.-Kreuzb.,Wilhelmstr. 015,10963,20.0
+583,Friedrichsh.-Kreuzb.,Bergmannstr. 068,10961,25.0
+584,Friedrichsh.-Kreuzb.,Muskauer Str. 011A,10997,15.0
+585,Friedrichsh.-Kreuzb.,Ratiborstr. 008Reichenberger Str. 91,10999,76.0
+586,Friedrichsh.-Kreuzb.,Ohlauer Str. 001,10999,25.0
+587,Friedrichsh.-Kreuzb.,Bergmannstr. 003,10961,20.0
+588,Friedrichsh.-Kreuzb.,Wilhelmstr. 003,10963,43.0
+589,Friedrichsh.-Kreuzb.,Markgrafenstr. 020,10969,85.0
+590,Friedrichsh.-Kreuzb.,Ritterstr. 036,10969,105.0
+591,Friedrichsh.-Kreuzb.,Cuvrystr. 021,10997,20.0
+592,Friedrichsh.-Kreuzb.,Wiener Str. 001- 6,10999,30.0
+593,Friedrichsh.-Kreuzb.,Stresemannstr. 035,10963,13.0
+594,Friedrichsh.-Kreuzb.,Hedemannstr. 007,10963,24.0
+595,Friedrichsh.-Kreuzb.,Fontanepromenade 010,10967,22.0
+596,Friedrichsh.-Kreuzb.,Prinzenstr. 085D,10969,73.0
+597,Friedrichsh.-Kreuzb.,Reichenberger Str. 082,10999,15.0
+598,Friedrichsh.-Kreuzb.,Forster Str. 017,10999,19.0
+599,Friedrichsh.-Kreuzb.,Hornstr. 013,10963,31.0
+600,Friedrichsh.-Kreuzb.,Wilhelmstr. 116/117,10963,117.0
+601,Friedrichsh.-Kreuzb.,Oppelner Str. 020,10997,24.0
+602,Friedrichsh.-Kreuzb.,Ohlauer Str. 044,10999,20.0
+603,Friedrichsh.-Kreuzb.,Katzbachstr. 029,10965,25.0
+604,Friedrichsh.-Kreuzb.,Bergmannstr. 005,10961,18.0
+605,Friedrichsh.-Kreuzb.,Möckernstr. 113,10963,23.0
+606,Friedrichsh.-Kreuzb.,Urbanstr. 137,10967,25.0
+607,Friedrichsh.-Kreuzb.,Bethaniendamm 063- 65,10999,120.0
+608,Friedrichsh.-Kreuzb.,Ritterstr. 011,10969,51.0
+609,Friedrichsh.-Kreuzb.,Flottwellstr. 044,10785,32.0
+610,Friedrichsh.-Kreuzb.,Zeughofstr. 001,10997,50.0
+611,Friedrichsh.-Kreuzb.,Möckernstr. 139,10963,80.0
+612,Friedrichsh.-Kreuzb.,Eylauer Str. 013,10965,28.0
+613,Friedrichsh.-Kreuzb.,Möckernkiez 006,10963,20.0
+614,Friedrichsh.-Kreuzb.,Brandesstr. 001,10969,21.0
+615,Friedrichsh.-Kreuzb.,Muskauer Str. 044,10997,45.0
+616,Friedrichsh.-Kreuzb.,Blücherstr. 033,10961,28.0
+617,Friedrichsh.-Kreuzb.,Köpenicker Str. 175,10997,15.0
+618,Friedrichsh.-Kreuzb.,Blücherstr. 025,10961,80.0
+619,Pankow,Thaerstr. 028B,10249,23.0
+620,Pankow,Am Friedrichshain 018A,10407,80.0
+621,Pankow,Belforter Str. 011,10405,234.0
+622,Pankow,Conrad-Blenkle-Str. 046,10407,165.0
+623,Pankow,Dänenstr. 022,10439,60.0
+624,Pankow,Diesterwegstr. 010,10405,185.0
+625,Pankow,Gaudystr. 009,10437,20.0
+626,Pankow,Driesener Str. 024,10439,65.0
+627,Pankow,Eberswalder Str. 011,10437,120.0
+628,Pankow,Eldenaer Str. 046,10247,136.0
+629,Pankow,Erich-Weinert-Str. 033,10439,48.0
+630,Pankow,Schwedter Str. 029- 36,10435,37.0
+631,Pankow,Ella-Kay-Str. 006,10405,35.0
+632,Pankow,Wichertstr. 024,10439,85.0
+633,Pankow,Hans-Otto-Str. 040A,10407,216.0
+634,Pankow,Jablonskistr. 033,10405,195.0
+635,Pankow,John-Schehr-Str. 035,10407,200.0
+636,Pankow,Käthe-Niederkirchner-Str. 029,10407,55.0
+637,Pankow,Knaackstr. 027,10405,70.0
+638,Pankow,Kollwitzstr. 060,10435,61.0
+639,Pankow,Saarbrücker Str. 015,10405,19.0
+640,Pankow,Lychener Str. 055,10437,150.0
+641,Pankow,Mandelstr. 013,10409,120.0
+642,Pankow,Paul-Robeson-Str. 012,10439,60.0
+643,Pankow,Pieskower Weg 048/50,10409,135.0
+644,Pankow,Prenzlauer Allee 115,10409,128.0
+645,Pankow,Oderberger Str. 027,10435,24.0
+646,Pankow,Prenzlauer Berg 015,10405,200.0
+647,Pankow,Scherenbergstr. 001,10439,280.0
+648,Pankow,Kuglerstr. 040,10439,120.0
+649,Pankow,Lettestr. 004- 5,10437,72.0
+650,Pankow,Marienburger Str. 030A,10405,30.0
+651,Pankow,Schönhauser Allee 165,10435,75.0
+652,Pankow,Dänenstr. 008,10439,55.0
+653,Pankow,Dunckerstr. 014,10437,18.0
+654,Pankow,Stahlheimer Str. 027,10439,120.0
+655,Pankow,Stavangerstr. 006,10439,200.0
+656,Pankow,Syringenweg 023,10407,195.0
+657,Pankow,Thomas-Mann-Str. 017-19,10409,160.0
+658,Pankow,Schivelbeiner Str. 012,10439,195.0
+659,Pankow,Christinenstr. 030,10119,21.0
+660,Pankow,Conrad-Blenkle-Str. 064,10407,70.0
+661,Pankow,Schivelbeiner Str. 029,10439,60.0
+662,Pankow,Göhrener Str. 011,10437,46.0
+663,Pankow,Greifenhagener Str. 002,10437,63.0
+664,Pankow,Immanuelkirchstr. 001A,10405,80.0
+665,Pankow,Schönhauser Allee 104,10439,51.0
+666,Pankow,Winsstr. 024,10405,50.0
+667,Pankow,Choriner Str. 030,10435,19.0
+668,Pankow,Sonnenburger Str. 057,10437,24.0
+669,Pankow,Choriner Str. 025,10435,85.0
+670,Pankow,Dunckerstr. 021,10437,30.0
+671,Pankow,Lychener Str. 021,10437,30.0
+672,Pankow,Christburger Str. 041,10405,30.0
+673,Pankow,Gleimstr. 046,10437,220.0
+674,Pankow,Knaackstr. 053I/II,10435,240.0
+675,Pankow,Pappelallee 041A,10437,200.0
+676,Pankow,Schönhauser Allee 182,10119,40.0
+677,Pankow,Oderberger Str. 050,10435,24.0
+678,Pankow,Hufelandstr. 032,10407,30.0
+679,Pankow,Pasteurstr. 015,10407,30.0
+680,Pankow,Greifenhagener Str. 014,10437,21.0
+681,Pankow,Kollwitzstr. 016,10405,35.0
+682,Pankow,Hagenauer Str. 001B,10435,30.0
+683,Pankow,Lychener Str. 076,10437,30.0
+684,Pankow,Lychener Str. 066,10437,27.0
+685,Pankow,Schliemannstr. 033,10437,25.0
+686,Pankow,Pasteurstr. 038,10407,30.0
+687,Pankow,Stargarder Str. 062,10437,30.0
+688,Pankow,Bötzowstr. 006,10407,23.0
+689,Pankow,Sonnenburger Str. 054,10437,25.0
+690,Pankow,Liselotte-Herrmann-Str. 012,10407,30.0
+691,Pankow,Schliemannstr. 047,10437,25.0
+692,Pankow,Schliemannstr. 044,10437,19.0
+693,Pankow,Kopenhagener Str. 065,10437,26.0
+694,Pankow,Chodowieckistr. 035,10405,18.0
+695,Pankow,Lettestr. 008,10437,30.0
+696,Pankow,Mandelstr. 015,10409,110.0
+697,Pankow,Hanns-Eisler-Str. 082,10409,160.0
+698,Pankow,Gürtelstr. 025,10409,60.0
+699,Pankow,Esmarchstr. 024,10407,21.0
+700,Pankow,Preußstr. 005,10409,200.0
+701,Pankow,Käthe-Niederkirchner-Str. 026,10407,17.0
+702,Pankow,Husemannstr. 012,10435,34.0
+703,Pankow,Winsstr. 002,10405,19.0
+704,Pankow,Kopenhagener Str. 039,10437,18.0
+705,Pankow,Eldenaer Str. 044,10247,30.0
+706,Pankow,Kolmarer Str. 006,10405,25.0
+707,Pankow,Jablonskistr. 024,10405,22.0
+708,Pankow,Gleimstr. 056,10437,25.0
+709,Pankow,Esmarchstr. 015,10407,25.0
+710,Pankow,Korsörer Str. 010,10437,25.0
+711,Pankow,Gleimstr. 058,10437,30.0
+712,Pankow,Chodowieckistr. 035EG links,10405,18.0
+713,Pankow,Wichertstr. 057,10439,22.0
+714,Pankow,Dänenstr. 004,10439,20.0
+715,Pankow,Hufelandstr. 042,10407,17.0
+716,Pankow,Greifenhagener Str. 029,10437,25.0
+717,Pankow,Schivelbeiner Str. 043/44,10439,23.0
+718,Pankow,Chodowieckistr. 002,10405,27.0
+719,Pankow,Pasteurstr. 005,10407,20.0
+720,Pankow,Dunckerstr. 090A,10437,28.0
+721,Pankow,Greifenhagener Str. 033,10437,25.0
+722,Pankow,Paul-Robeson-Str. 008,10439,25.0
+723,Pankow,Göhrener Str. 003,10437,25.0
+724,Pankow,Kollwitzstr. 066,10435,53.0
+725,Pankow,Immanuelkirchstr. 014B,10405,27.0
+726,Pankow,Dunckerstr. 025,10437,20.0
+727,Pankow,Raumerstr. 019,10437,22.0
+728,Pankow,Thaerstr. 031,10249,94.0
+729,Pankow,Stargarder Str. 019,10437,35.0
+730,Pankow,Gaudystr. 010,10437,32.0
+731,Pankow,Ella-Kay-Str. 036,10405,25.0
+732,Pankow,Heinrich-Roller-Str. 020,10405,33.0
+733,Pankow,Thaerstr. 030A,10249,26.0
+734,Pankow,Ahlbecker Str. 011A,10437,23.0
+735,Pankow,Fehrbelliner Str. 097,10119,25.0
+736,Pankow,Thomas-Mann-Str. 063,10409,140.0
+737,Pankow,Paul-Robeson-Str. 030,10439,30.0
+738,Pankow,Cantianstr. 015,10437,21.0
+739,Pankow,Immanuelkirchstr. 014B,10405,50.0
+740,Pankow,Bernhard-Lichtenberg-Str. 009,10407,60.0
+741,Pankow,Walter-Friedländer-Str. 026,10249,25.0
+742,Pankow,Dunckerstr. 077,10437,40.0
+743,Pankow,Schliemannstr. 042,10437,25.0
+744,Pankow,Korsörer Str. 004,10437,25.0
+745,Pankow,Czarnikauer Str. 021,10439,25.0
+746,Pankow,Liselotte-Herrmann-Str. 006,10407,15.0
+747,Pankow,Winsstr. 069,10405,23.0
+748,Pankow,Preußstr. 007,10409,120.0
+749,Pankow,Gudvanger Str. 012,10439,26.0
+750,Pankow,Erich-Weinert-Str. 064,10439,22.0
+751,Pankow,Immanuelkirchstr. 014C,10405,25.0
+752,Pankow,Seelower Str. 021,10439,25.0
+753,Pankow,Gleimstr. 013,10437,22.0
+754,Pankow,Greifenhagener Str. 035,10437,25.0
+755,Pankow,Tegnerstr. 001Ecke Bornholmer Straße 11,10439,25.0
+756,Pankow,Eldenaer Str. 036,10247,90.0
+757,Pankow,Anton-Saefkow-Str. 064B,10407,55.0
+758,Pankow,Cantianstr. 023,10437,27.0
+759,Pankow,Christburger Str. 013,10405,30.0
+760,Pankow,Seelower Str. 003,10439,25.0
+761,Pankow,Chodowieckistr. 028,10405,20.0
+762,Pankow,Korsörer Str. 019,10437,22.0
+763,Pankow,Tegnerstr. 008,10439,25.0
+764,Pankow,Cotheniusstr. 016,10407,22.0
+765,Pankow,Danziger Str. 073,10405,42.0
+766,Pankow,Straßburger Str. 006B,10405,120.0
+767,Pankow,Agnes-Wabnitz-Str. 009,10249,120.0
+768,Pankow,Pappelallee 040,10437,120.0
+769,Pankow,Jablonskistr. 035,10405,20.0
+770,Pankow,Greifenhagener Str. 048,10437,15.0
+771,Pankow,Dunckerstr. 074,10437,26.0
+772,Pankow,Andersenstr. 003,10439,21.0
+773,Pankow,Christburger Str. 025,10405,25.0
+774,Pankow,Bötzowstr. 049,10407,25.0
+775,Pankow,Erich-Nehlhans-Str. 027/29,10247,50.0
+776,Pankow,Bornholmer Str. 018,10439,25.0
+777,Pankow,Bornholmer Str. 095,10439,25.0
+778,Pankow,Pfannschmidtstr. 070,13125,110.0
+779,Pankow,Bahnhofstr. 053,13125,85.0
+780,Pankow,Tino-Schwierzina-Str. 046C,13089,105.0
+781,Pankow,Bernkasteler Str. 009,13088,140.0
+782,Pankow,Langhansstr. 074B,13086,110.0
+783,Pankow,Else-Jahn-Str. 040,13088,140.0
+784,Pankow,Falkenberger Str. 013-14,13088,195.0
+785,Pankow,Gounodstr. 078,13088,105.0
+786,Pankow,Große Seestr. 005,13086,50.0
+787,Pankow,Liebermannstr. 020,13088,200.0
+788,Pankow,Lindenallee 048,13088,70.0
+789,Pankow,Priesterstege 006,13129,85.0
+790,Pankow,Roelckestr. 060,13086,75.0
+791,Pankow,Roelckestr. 117,13086,80.0
+792,Pankow,Bühringstr. 021,13086,182.0
+793,Pankow,Streustr. 041,13086,182.0
+794,Pankow,Behaimstr. 039,13086,85.0
+795,Pankow,Max-Steinke-Str. 022,13086,75.0
+796,Pankow,Romain-Rolland-Str. 052,13089,60.0
+797,Pankow,Amalienstr. 001-3,13086,41.0
+798,Pankow,Röländer Str. 046,13125,82.0
+799,Pankow,Albertinenstr. 020-23,13086,52.0
+800,Pankow,Pfannschmidtstr. 002,13125,110.0
+801,Pankow,Busonistr. 145,13125,110.0
+802,Pankow,Straße 43 013A,13125,87.0
+803,Pankow,Hofzeichendamm 001,13125,100.0
+804,Pankow,Münchehagenstr. 043,13125,110.0
+805,Pankow,Sägebockweg 107,13125,100.0
+806,Pankow,Hedwigstr. 006,13086,100.0
+807,Pankow,Berliner Allee 110,13088,78.0
+808,Pankow,Heinersdorfer Str. 200,13129,120.0
+809,Pankow,Rennbahnstr. 086,13086,70.0
+810,Pankow,Wigandstaler Str. 015,13086,95.0
+811,Pankow,Meyerbeerstr. 096,13088,135.0
+812,Pankow,Borodinstr. 011,13088,15.0
+813,Pankow,Charlottenburger Str. 007,13086,105.0
+814,Pankow,Herbert-Baum-Str. 034,13088,27.0
+815,Pankow,Charlottenburger Str. 141,13086,18.0
+816,Pankow,Smetanastr. 032,13088,26.0
+817,Pankow,Achillesstr. 068,13125,30.0
+818,Pankow,Alt-Karow 008,13125,75.0
+819,Pankow,Streustr. 121,13086,20.0
+820,Pankow,Charlottenburger Str. 001,13086,25.0
+821,Pankow,Pistoriusplatz 022,13086,22.0
+822,Pankow,Lehderstr. 062,13086,25.0
+823,Pankow,Streustr. 005,13086,17.0
+824,Pankow,Roelckestr. 024,13086,35.0
+825,Pankow,Gäblerstr. 018,13086,12.0
+826,Pankow,Roelckestr. 030/31,13086,64.0
+827,Pankow,Bizetstr. 051- 55,13088,30.0
+828,Pankow,Große Seestr. 008,13086,140.0
+829,Pankow,Langhansstr. 142,13086,25.0
+830,Pankow,Goethestr. 050- 54,13086,75.0
+831,Pankow,Schönstr. 005-7,13086,37.0
+832,Pankow,Naugarder Str. 015,10409,23.0
+833,Pankow,Charlottenburger Str. 003,13086,29.0
+834,Pankow,Falkenberger Str. 145,13088,30.0
+835,Pankow,Blankenburger Chaussee 088- 89,13125,130.0
+836,Pankow,Goethestr. 033,13086,22.0
+837,Pankow,Achillesstr. 059,13125,25.0
+838,Pankow,Pistoriusstr. 006,13086,60.0
+839,Pankow,Gatterweg 017,13125,100.0
+840,Pankow,Bahnhofstr. 033,13125,110.0
+841,Pankow,Triftstr. 012b,13127,93.0
+842,Pankow,Petitweg 020,13127,120.0
+843,Pankow,Wiesenwinkel 017,13158,110.0
+844,Pankow,Nantesstr. 069,13127,95.0
+845,Pankow,Eddastr. 046,13127,65.0
+846,Pankow,Fontanestr. 083,13158,120.0
+847,Pankow,Friedrich-Engels-Str. 045,13156,111.0
+848,Pankow,Nesselweg 011A,13158,36.0
+849,Pankow,Friedrich-Richter-Str. 036,13125,170.0
+850,Pankow,Görschstr. 015,13187,110.0
+851,Pankow,Granitzstr. 038,13189,90.0
+852,Pankow,Kreuzstr. 005,13187,20.0
+853,Pankow,Heinrich-Böll-Str. 001,13156,30.0
+854,Pankow,Klothildestr. 021,13156,75.0
+855,Pankow,Lindenberger Weg 026,13125,190.0
+856,Pankow,Mendelstr. 049-51,13187,183.0
+857,Pankow,Neumannstr. 007,13189,202.0
+858,Pankow,Schönholzer Str. 004D,13187,83.0
+859,Pankow,Pestalozzistr. 009-11,13187,180.0
+860,Pankow,Robert-Rössle-Str. 001A,13125,85.0
+861,Pankow,Cunistr. 034,13127,110.0
+862,Pankow,Zillertalstr. 038,13187,245.0
+863,Pankow,Matthieustr. 012,13127,86.0
+864,Pankow,Schweizer Tal 018,13127,110.0
+865,Pankow,Vesaliusstr. 068,13187,190.0
+866,Pankow,Elsa-Brändström-Str. 036,13189,47.0
+867,Pankow,Goethestr. 003,13158,60.0
+868,Pankow,Treskowstr. 005,13156,35.0
+869,Pankow,Breite Str. 038,13187,40.0
+870,Pankow,Gartenstr. 016,13127,55.0
+871,Pankow,Pradelstr. 011,13187,48.0
+872,Pankow,Majakowskiring 013- 15,13156,82.0
+873,Pankow,Eschengraben 049,13189,185.0
+874,Pankow,Schützenstr. 133,13127,85.0
+875,Pankow,Pankower Str. 013,13156,180.0
+876,Pankow,Walter-Friedrich-Str. 020-22,13125,180.0
+877,Pankow,Uhlandstr. 033,13158,210.0
+878,Pankow,Blumenthalstr. 018,13156,26.0
+879,Pankow,Eschengraben 037,13189,80.0
+880,Pankow,Neumannstr. 073,13189,26.0
+881,Pankow,Schildower Str. 020,13159,40.0
+882,Pankow,Spiekermannstr. 030,13189,28.0
+883,Pankow,Breite Str. 007,13187,26.0
+884,Pankow,Triftstr. 027B,13127,90.0
+885,Pankow,Benjamin-Vogelsdorff-Str. 003,13187,45.0
+886,Pankow,Neue Schönholzer Str. 025,13187,85.0
+887,Pankow,Dietzgenstr. 025,13156,65.0
+888,Pankow,Hermann-Hesse-Str. 055,13156,70.0
+889,Pankow,Schönholzer Weg 017,13158,70.0
+890,Pankow,Florapromenade 001,13187,21.0
+891,Pankow,Rosenthaler Weg 041- 45,13127,40.0
+892,Pankow,Toblacher Str. 042,13187,35.0
+893,Pankow,Achillesstr. 075,13125,24.0
+894,Pankow,Wolfshagener Str. 068,13187,15.0
+895,Pankow,Florastr. 068,13187,20.0
+896,Pankow,Schönhauser Str. 113,13127,25.0
+897,Pankow,Pichelswerderstr. 003,13187,55.0
+898,Pankow,Brehmestr. 060,13187,20.0
+899,Pankow,Asta-Nielsen-Str. 011,13189,240.0
+900,Pankow,"Neumannstr. 098B,C",13189,110.0
+901,Pankow,Dietzgenstr. 066,13156,35.0
+902,Pankow,Dietzgenstr. 033,13156,120.0
+903,Pankow,Lindenberger Str. 024,13156,130.0
+904,Pankow,Dietzgenstr. 104,13158,90.0
+905,Pankow,Elsa-Brändström-Str. 015,13189,28.0
+906,Pankow,Waldemarstr. 036,13156,100.0
+907,Pankow,Robert-Rössle-Str. 010Haus 61,13125,60.0
+908,Pankow,Gaillardstr. 001,13187,24.0
+909,Pankow,Hauptstr. 016,13159,75.0
+910,Pankow,Ötztaler Str. 006,13187,225.0
+911,Pankow,Dusekestr. 014,13187,140.0
+912,Pankow,Hauptstr. 062,13159,46.0
+913,Pankow,Kreuzgraben 013,13156,102.0
+914,Pankow,Tschaikowskistr. 012,13156,156.0
+915,Pankow,Breite Str. 044,13187,65.0
+916,Pankow,Boris-Pasternak-Weg 016- 20,13156,80.0
+917,Pankow,Wilhelm-Kuhr-Str. 083,13187,16.0
+918,Pankow,Wolfshagener Str. 081,13187,25.0
+919,Pankow,Hielscherstr. 002,13158,40.0
+920,Pankow,Binzstr. 051,13189,13.0
+921,Pankow,Dettelbacher Weg 028,13189,53.0
+922,Pankow,Schulstr. 030,13187,85.0
+923,Pankow,Rettigweg 004,13187,20.0
+924,Pankow,Selma-Lagerlöf-Str. 004,13189,22.0
+925,Pankow,Waldstr. 034,13156,23.0
+926,Pankow,Thulestr. 042,13189,40.0
+927,Pankow,Dietzgenstr. 071,13156,25.0
+928,Pankow,Tschaikowskistr. 013,13156,24.0
+929,Pankow,Blankenburger Str. 009,13156,50.0
+930,Pankow,Hobrechtsfelder Chaussee 150A,13125,50.0
+931,Pankow,Damerowstr. 064,13187,40.0
+932,Pankow,Berliner Str. 128,13187,60.0
+933,Pankow,Wollankstr. 119,13187,26.0
+934,Pankow,Hermann-Hesse-Str. 045- 47,13156,136.0
+935,Pankow,Grabbeallee 044,13156,40.0
+936,Pankow,Mendelstr. 042,13187,30.0
+937,Pankow,Wilhelm-Wolff-Str. 015,13156,84.0
+938,Pankow,Berliner Str. 007,13127,75.0
+939,Pankow,Brehmestr. 025,13187,24.0
+940,Pankow,Maximilianstr. 006,13187,23.0
+941,Pankow,Schillerstr. 021- 22,13156,60.0
+942,Pankow,Wiltbergstr. 029AAm Sportplatz,13125,18.0
+943,Pankow,Siegfriedstr. 011C,13156,25.0
+944,Pankow,Wiltbergstr. 050/Haus 23,13125,100.0
+945,Pankow,Trelleborger Str. 005,13189,24.0
+946,Pankow,Wisbyer Str. 036- 37,13189,32.0
+947,Pankow,Ossietzkystr. 009,13187,25.0
+948,Pankow,Kissingenstr. 048A,13189,36.0
+949,Pankow,Schillerstr. 009- 10,13156,25.0
+950,Pankow,Herthastr. 006,13189,35.0
+951,Pankow,Wiltbergstr. 030,13125,50.0
+952,Pankow,Görschstr. 011,13187,26.0
+953,Pankow,Dietzgenstr. 055,13156,24.0
+954,Pankow,Wolfshagener Str. 068Ecke Eintrachtstraße,13187,20.0
+955,Pankow,Dietzgenstr. 066,13156,33.0
+956,Pankow,Pichelswerderstr. 004,13187,35.0
+957,Pankow,Schönholzer Str. 002,13187,18.0
+958,Pankow,Parkstr. 001,13187,30.0
+959,Pankow,Benjamin-Vogelsdorff-Str. 001,13187,72.0
+960,Pankow,Ossietzkystr. 006-8,13187,18.0
+961,Pankow,Hauptstr. 013,13127,120.0
+962,Pankow,Körnerstr. 040,13156,19.0
+963,Pankow,Dietzgenstr. 081,13156,25.0
+964,Pankow,Goethestr. 061,13158,100.0
+965,Pankow,Dietzgenstr. 043,13156,25.0
+966,Pankow,Eintrachtstr. 001,13187,33.0
+967,Pankow,Grabbeallee 045,13156,97.0
+968,Pankow,Brehmestr. 035,13187,26.0
+969,Pankow,Neue Schönholzer Str. 012,13187,27.0
+970,Pankow,Hertzstr. 015,13158,30.0
+971,Pankow,Karower Chaussee 169B,13125,75.0
+972,Pankow,Bahnhofstr. 001,13127,45.0
+973,Pankow,Schulstr. 002,13187,54.0
+974,Pankow,Pankower Str. 001,13127,22.0
+975,Pankow,Buchholzer Str. 087,13156,60.0
+976,Pankow,Herthastr. 005- 6,13189,30.0
+977,Pankow,Eichenstr. 010,13156,25.0
+978,Pankow,Wiltbergstr. 050- Haus 25,13125,82.0
+979,Pankow,Pankgrafenstr. 012d,13125,26.0
+980,Pankow,Marthastr. 012,13156,60.0
+981,Pankow,Goethestr. 041,13158,60.0
+982,Pankow,Lindenberger Weg 057,13125,72.0
+983,Pankow,Kurze Str. 005- 7,13158,50.0
+984,Pankow,Güllweg 003,13156,45.0
+985,Pankow,Niederstr. 001c-k,13158,78.0
+986,Pankow,Wiltbergstr. 090,13125,54.0
+987,Pankow,Edelweißstr. 027,13158,55.0
+988,Pankow,Hauptstr. 027,13158,16.0
+989,Pankow,Hauptstr. 026,13158,21.0
+990,Pankow,Kurze Str. 005-7,13158,32.0
+991,Pankow,Blankenburger Str. 076,13156,50.0
+992,Charlbg.-Wilmersd.,Rominter Allee 002,14053,
+993,Charlbg.-Wilmersd.,Nordhauser Str. 022,10589,81.0
+994,Charlbg.-Wilmersd.,Halemweg 022,13627,120.0
+995,Charlbg.-Wilmersd.,Länderallee 007-5,14052,95.0
+996,Charlbg.-Wilmersd.,Württembergallee 017,14052,125.0
+997,Charlbg.-Wilmersd.,Kuno-Fischer-Str. 004-5,14057,155.0
+998,Charlbg.-Wilmersd.,Walter-Benjamin-Platz 007,10629,130.0
+999,Charlbg.-Wilmersd.,Goethestr. 012,10623,195.0
+1000,Charlbg.-Wilmersd.,Richard-Wagner-Str. 020,10585,240.0
+1001,Charlbg.-Wilmersd.,Schloßstr. 04547,14059,160.0
+1002,Charlbg.-Wilmersd.,Haubachstr. 045,10585,60.0
+1003,Charlbg.-Wilmersd.,Kastanienallee 004,14050,140.0
+1004,Charlbg.-Wilmersd.,Olbersstr. 040,10589,76.0
+1005,Charlbg.-Wilmersd.,Pestalozzistr. 040,10627,93.0
+1006,Charlbg.-Wilmersd.,Schillerstr. 061,10627,115.0
+1007,Charlbg.-Wilmersd.,Eichenallee 047,14050,45.0
+1008,Charlbg.-Wilmersd.,Gierkeplatz 002,10585,60.0
+1009,Charlbg.-Wilmersd.,Heckerdamm 226,13627,65.0
+1010,Charlbg.-Wilmersd.,Herbartstr. 004- 6,14057,50.0
+1011,Charlbg.-Wilmersd.,Knobelsdorffstr. 074,14059,50.0
+1012,Charlbg.-Wilmersd.,Leibnizstr. 079,10625,35.0
+1013,Charlbg.-Wilmersd.,Maikäferpfad 028,14055,60.0
+1014,Charlbg.-Wilmersd.,Olbersstr. 015,10589,63.0
+1015,Charlbg.-Wilmersd.,Toeplerstr. 005,13627,57.0
+1016,Charlbg.-Wilmersd.,Alt-Lietzow 031,10587,85.0
+1017,Charlbg.-Wilmersd.,Klausenerplatz 012,14059,50.0
+1018,Charlbg.-Wilmersd.,Preußenallee 025,14052,55.0
+1019,Charlbg.-Wilmersd.,Witzlebenstr. 027,14057,75.0
+1020,Charlbg.-Wilmersd.,Alt-Lietzow 007,10587,15.0
+1021,Charlbg.-Wilmersd.,Brauhofstr. 002A,10587,13.0
+1022,Charlbg.-Wilmersd.,Roscherstr. 014,10629,81.0
+1023,Charlbg.-Wilmersd.,Eichkatzweg 011,14055,14.0
+1024,Charlbg.-Wilmersd.,Fredericiastr. 030,14059,20.0
+1025,Charlbg.-Wilmersd.,Friedbergstr. 005,14057,20.0
+1026,Charlbg.-Wilmersd.,Fritschestr. 058,10627,52.0
+1027,Charlbg.-Wilmersd.,Sophie-Charlotten-Str. 084,14059,21.0
+1028,Charlbg.-Wilmersd.,Galvanistr. 014,10587,30.0
+1029,Charlbg.-Wilmersd.,Galvanistr. 015,10587,17.0
+1030,Charlbg.-Wilmersd.,Spandauer Damm 065,14059,17.0
+1031,Charlbg.-Wilmersd.,Goethestr. 013,10623,14.0
+1032,Charlbg.-Wilmersd.,Haeselerstr. 007A,14050,18.0
+1033,Charlbg.-Wilmersd.,Harbigstr. 014,14055,18.0
+1034,Charlbg.-Wilmersd.,Holtzendorffstr. 014,14057,20.0
+1035,Charlbg.-Wilmersd.,Nehringstr. 019,14059,25.0
+1036,Charlbg.-Wilmersd.,Kaiser-Friedrich-Str. 060,10627,27.0
+1037,Charlbg.-Wilmersd.,Sophie-Charlotten-Str. 083B,14059,30.0
+1038,Charlbg.-Wilmersd.,Knobelsdorffstr. 024,14059,18.0
+1039,Charlbg.-Wilmersd.,Nehringstr. 016A,14059,30.0
+1040,Charlbg.-Wilmersd.,Suarezstr. 054,14057,20.0
+1041,Charlbg.-Wilmersd.,Neufertstr. 012,14059,22.0
+1042,Charlbg.-Wilmersd.,Rönnestr. 018,14057,16.0
+1043,Charlbg.-Wilmersd.,Schillerstr. 021,10625,18.0
+1044,Charlbg.-Wilmersd.,Schillerstr. 084,10627,15.0
+1045,Charlbg.-Wilmersd.,Sophie-Charlotten-Str. 084A,14059,26.0
+1046,Charlbg.-Wilmersd.,Stuttgarter Platz 020,10627,15.0
+1047,Charlbg.-Wilmersd.,Waldschulallee 075,14055,53.0
+1048,Charlbg.-Wilmersd.,Fraunhoferstr. 026,10587,19.0
+1049,Charlbg.-Wilmersd.,Angerburger Allee 056,14055,35.0
+1050,Charlbg.-Wilmersd.,Bernhard-Lichtenberg-Str. 020,13627,160.0
+1051,Charlbg.-Wilmersd.,Eichenallee 053,14050,30.0
+1052,Charlbg.-Wilmersd.,Rominter Allee 002,14053,40.0
+1053,Charlbg.-Wilmersd.,Gierkezeile 042,10585,23.0
+1054,Charlbg.-Wilmersd.,Holtzendorffstr. 003,14057,15.0
+1055,Charlbg.-Wilmersd.,Mierendorffstr. 021,10589,36.0
+1056,Charlbg.-Wilmersd.,Schlüterstr. 025,10629,145.0
+1057,Charlbg.-Wilmersd.,Eosanderstr. 013,10587,50.0
+1058,Charlbg.-Wilmersd.,Witzlebenstr. 037EG rechts,14057,15.0
+1059,Charlbg.-Wilmersd.,Marchstr. 008,10587,120.0
+1060,Charlbg.-Wilmersd.,Lohmeyerstr. 021,10587,22.0
+1061,Charlbg.-Wilmersd.,Warburgzeile 008,10587,135.0
+1062,Charlbg.-Wilmersd.,Knobelsdorffstr. 020,14059,20.0
+1063,Charlbg.-Wilmersd.,Lohmeyerstr. 012,10587,25.0
+1064,Charlbg.-Wilmersd.,Gierkezeile 042,10585,12.0
+1065,Charlbg.-Wilmersd.,Schloßstr. 016C,14059,30.0
+1066,Charlbg.-Wilmersd.,Dernburgstr. 057,14057,25.0
+1067,Charlbg.-Wilmersd.,Kaiserin-Augusta-Allee 041,10589,65.0
+1068,Charlbg.-Wilmersd.,Schillerstr. 064,10627,25.0
+1069,Charlbg.-Wilmersd.,Saatwinkler Damm 042,13627,70.0
+1070,Charlbg.-Wilmersd.,Wielandstr. 040,10629,61.0
+1071,Charlbg.-Wilmersd.,Oldenburgallee 044,14052,45.0
+1072,Charlbg.-Wilmersd.,Sophie-Charlotten-Str. 113,14059,222.0
+1073,Charlbg.-Wilmersd.,Fritschestr. 058,10627,15.0
+1074,Charlbg.-Wilmersd.,Friedbergstr. 047,14057,25.0
+1075,Charlbg.-Wilmersd.,Lyckallee 030,14055,46.0
+1076,Charlbg.-Wilmersd.,Spandauer Damm 220,14052,58.0
+1077,Charlbg.-Wilmersd.,Danckelmannstr. 038,14059,15.0
+1078,Charlbg.-Wilmersd.,Goethestr. 013,10623,20.0
+1079,Charlbg.-Wilmersd.,Nußbaumallee 003,14050,60.0
+1080,Charlbg.-Wilmersd.,Flatowallee 016-24,14055,55.0
+1081,Charlbg.-Wilmersd.,Olympischer Platz 005,14053,30.0
+1082,Charlbg.-Wilmersd.,Brahestr. 013,10589,17.0
+1083,Charlbg.-Wilmersd.,Kaiser-Friedrich-Str. 100,10585,30.0
+1084,Charlbg.-Wilmersd.,Kaiser-Friedrich-Str. 013,10585,57.0
+1085,Charlbg.-Wilmersd.,Kuno-Fischer-Str. 015,14057,20.0
+1086,Charlbg.-Wilmersd.,Gierkezeile 030,10585,25.0
+1087,Charlbg.-Wilmersd.,Gervinusstr. 017,10629,30.0
+1088,Charlbg.-Wilmersd.,Wielandstr. 013,10629,41.0
+1089,Charlbg.-Wilmersd.,Danckelmannstr. 038,14059,25.0
+1090,Charlbg.-Wilmersd.,Mierendorffplatz 014,10589,21.0
+1091,Charlbg.-Wilmersd.,Witzlebenstr. 017,14057,18.0
+1092,Charlbg.-Wilmersd.,Mindener Str. 011,10589,17.0
+1093,Charlbg.-Wilmersd.,Sophie-Charlotten-Str. 085,14059,14.0
+1094,Charlbg.-Wilmersd.,Dahlmannstr. 009,10629,25.0
+1095,Charlbg.-Wilmersd.,Pestalozzistr. 006,10625,25.0
+1096,Charlbg.-Wilmersd.,Friedbergstr. 041,14057,17.0
+1097,Charlbg.-Wilmersd.,Wundtstr. 040-044,14057,80.0
+1098,Charlbg.-Wilmersd.,Akazienallee 034,14050,25.0
+1099,Charlbg.-Wilmersd.,Kaiser-Friedrich-Str. 018,10585,25.0
+1100,Charlbg.-Wilmersd.,Wegelystr. 010- 12,10623,55.0
+1101,Charlbg.-Wilmersd.,Goslarer Platz 006,10589,23.0
+1102,Charlbg.-Wilmersd.,Bismarckstr. 025,10625,54.0
+1103,Charlbg.-Wilmersd.,Laubacher Str. 035,14197,21.0
+1104,Charlbg.-Wilmersd.,Nordhauser Str. 030,10589,150.0
+1105,Charlbg.-Wilmersd.,Eosanderstr. 024,10587,15.0
+1106,Charlbg.-Wilmersd.,Reichsstr. 015,14052,128.0
+1107,Charlbg.-Wilmersd.,Spandauer Damm 046,14059,65.0
+1108,Charlbg.-Wilmersd.,Haubachstr. 024,10585,22.0
+1109,Charlbg.-Wilmersd.,Kastanienallee 011,14050,37.0
+1110,Charlbg.-Wilmersd.,Havelchaussee 104,14055,94.0
+1111,Charlbg.-Wilmersd.,Akazienallee 014,14050,35.0
+1112,Charlbg.-Wilmersd.,Sophie-Charlotten-Str. 088,14059,35.0
+1113,Charlbg.-Wilmersd.,Waldschulallee 031,14055,70.0
+1114,Charlbg.-Wilmersd.,Popitzweg 001- 3,13627,130.0
+1115,Charlbg.-Wilmersd.,Pestalozzistr. 088,10625,22.0
+1116,Charlbg.-Wilmersd.,Kamminer Str. 009,10589,25.0
+1117,Charlbg.-Wilmersd.,Waldschulallee 073/75,14055,55.0
+1118,Charlbg.-Wilmersd.,Spandauer Damm 130,14050,60.0
+1119,Charlbg.-Wilmersd.,Mierendorffstr. 007,10589,25.0
+1120,Charlbg.-Wilmersd.,Dickensweg 017-19,14055,0.0
+1121,Charlbg.-Wilmersd.,Helmholtzstr. 034- 36,10587,70.0
+1122,Charlbg.-Wilmersd.,Nehringstr. 032,14059,24.0
+1123,Charlbg.-Wilmersd.,Königin-Elisabeth-Str. 057,14059,18.0
+1124,Charlbg.-Wilmersd.,Marie-Elisabeth-Lüders-Str. 008,10625,54.0
+1125,Charlbg.-Wilmersd.,Nordhauser Str. 026,10589,100.0
+1126,Charlbg.-Wilmersd.,Eschenallee 003,14050,35.0
+1127,Charlbg.-Wilmersd.,Akazienallee 036,14050,140.0
+1128,Charlbg.-Wilmersd.,Uhlandstr. 019,10623,40.0
+1129,Charlbg.-Wilmersd.,Zauritzweg 009,10585,25.0
+1130,Charlbg.-Wilmersd.,Herbartstr. 024,14057,44.0
+1131,Charlbg.-Wilmersd.,Weimarer Str. 029,10625,18.0
+1132,Charlbg.-Wilmersd.,Kaiserin-Augusta-Allee 088a,10589,25.0
+1133,Charlbg.-Wilmersd.,Dovestr. 001-5,10587,45.0
+1134,Charlbg.-Wilmersd.,Kaiserdamm 008,14057,25.0
+1135,Charlbg.-Wilmersd.,Heydenstr. 009,14199,110.0
+1136,Charlbg.-Wilmersd.,Prager Str. 00610,10779,128.0
+1137,Charlbg.-Wilmersd.,Wilhelmsaue 122123,10715,105.0
+1138,Charlbg.-Wilmersd.,Siegburger Str. 001,14197,85.0
+1139,Charlbg.-Wilmersd.,Livländische Str. 021,10715,190.0
+1140,Charlbg.-Wilmersd.,Binger Str. 073,14197,60.0
+1141,Charlbg.-Wilmersd.,Elgersburger Str. 002,14193,68.0
+1142,Charlbg.-Wilmersd.,Kirchstr. 01516,14199,47.0
+1143,Charlbg.-Wilmersd.,Koenigsallee 010A,14193,120.0
+1144,Charlbg.-Wilmersd.,Lietzenburger Str. 039,10789,60.0
+1145,Charlbg.-Wilmersd.,Münstersche Str. 008,10709,115.0
+1146,Charlbg.-Wilmersd.,Paulsborner Str. 086,10709,60.0
+1147,Charlbg.-Wilmersd.,Spessartstr. 003,14197,70.0
+1148,Charlbg.-Wilmersd.,Wilhelmsaue 118,10715,73.0
+1149,Charlbg.-Wilmersd.,Delbrückstr. 033,14193,50.0
+1150,Charlbg.-Wilmersd.,Am Volkspark 041,10715,70.0
+1151,Charlbg.-Wilmersd.,Johann-Georg-Str. 008,10709,52.0
+1152,Charlbg.-Wilmersd.,Ludwigkirchplatz 010,10719,100.0
+1153,Charlbg.-Wilmersd.,Delbrückstr. 008,14193,152.0
+1154,Charlbg.-Wilmersd.,Aachener Str. 042,10713,14.0
+1155,Charlbg.-Wilmersd.,Am Volkspark 083,10715,40.0
+1156,Charlbg.-Wilmersd.,Zähringerstr. 014,10707,46.0
+1157,Charlbg.-Wilmersd.,Binger Str. 065,14197,40.0
+1158,Charlbg.-Wilmersd.,Fechnerstr. 013,10717,20.0
+1159,Charlbg.-Wilmersd.,Gasteiner Str. 014,10717,35.0
+1160,Charlbg.-Wilmersd.,Sigmaringer Str. 016EG rechts,10713,20.0
+1161,Charlbg.-Wilmersd.,Gieselerstr. 025,10713,23.0
+1162,Charlbg.-Wilmersd.,Hildegardstr. 013,10715,17.0
+1163,Charlbg.-Wilmersd.,Schlangenbader Str. 099,14197,30.0
+1164,Charlbg.-Wilmersd.,Pariser Str. 003,10719,25.0
+1165,Charlbg.-Wilmersd.,Weimarische Str. 020,10715,50.0
+1166,Charlbg.-Wilmersd.,Furtwänglerstr. 005,14193,19.0
+1167,Charlbg.-Wilmersd.,Mainzer Str. 025,10715,15.0
+1168,Charlbg.-Wilmersd.,Mehlitzstr. 008,10715,18.0
+1169,Charlbg.-Wilmersd.,Nassauische Str. 020,10717,18.0
+1170,Charlbg.-Wilmersd.,Straße am Schoelerpark 032,10715,82.0
+1171,Charlbg.-Wilmersd.,Nikolsburger Platz 006,10717,50.0
+1172,Charlbg.-Wilmersd.,Nikolsburger Str. 008,10717,18.0
+1173,Charlbg.-Wilmersd.,Prinzregentenstr. 090,10717,23.0
+1174,Charlbg.-Wilmersd.,Rudolf-Mosse-Str. 009,14197,40.0
+1175,Charlbg.-Wilmersd.,Ringbahnstr. 013,10711,18.0
+1176,Charlbg.-Wilmersd.,Sigmaringer Str. 016,10713,25.0
+1177,Charlbg.-Wilmersd.,Schweidnitzer Str. 003,10709,30.0
+1178,Charlbg.-Wilmersd.,Weimarische Str. 005,10715,32.0
+1179,Charlbg.-Wilmersd.,Wexstr. 023,10715,25.0
+1180,Charlbg.-Wilmersd.,Wilhelmsaue 018,10715,18.0
+1181,Charlbg.-Wilmersd.,Mainzer Str. 026A,10715,15.0
+1182,Charlbg.-Wilmersd.,Wexstr. 020,10715,19.0
+1183,Charlbg.-Wilmersd.,Bismarckallee 023,14193,105.0
+1184,Charlbg.-Wilmersd.,Mansfelder Str. 037,10709,75.0
+1185,Charlbg.-Wilmersd.,Ravensberger Str. 005B,10709,62.0
+1186,Charlbg.-Wilmersd.,Prinzregentenstr. 097,10717,35.0
+1187,Charlbg.-Wilmersd.,Brandenburgische Str. 075,10713,22.0
+1188,Charlbg.-Wilmersd.,Koblenzer Str. 007,10715,18.0
+1189,Charlbg.-Wilmersd.,Hildegardstr. 016,10715,21.0
+1190,Charlbg.-Wilmersd.,Hildegardstr. 016A,10715,20.0
+1191,Charlbg.-Wilmersd.,Koenigsallee 035,14193,18.0
+1192,Charlbg.-Wilmersd.,Pfalzburger Str. 009,10719,25.0
+1193,Charlbg.-Wilmersd.,Homburger Str. 019-13,14197,156.0
+1194,Charlbg.-Wilmersd.,Johann-Georg-Str. 026,10709,39.0
+1195,Charlbg.-Wilmersd.,Durlacher Str. 027,10715,32.0
+1196,Charlbg.-Wilmersd.,Cunostr. 001,14199,42.0
+1197,Charlbg.-Wilmersd.,Orber Str. 013,14193,143.0
+1198,Charlbg.-Wilmersd.,Badensche Str. 029,10715,34.0
+1199,Charlbg.-Wilmersd.,Düsseldorfer Str. 053A,10707,110.0
+1200,Charlbg.-Wilmersd.,Bundesallee 186187,10717,85.0
+1201,Charlbg.-Wilmersd.,Babelsberger Str. 040,10715,12.0
+1202,Charlbg.-Wilmersd.,Landhausstr. 026,10717,19.0
+1203,Charlbg.-Wilmersd.,Lentzeallee 008,14195,180.0
+1204,Charlbg.-Wilmersd.,Kaubstr. 002,10713,38.0
+1205,Charlbg.-Wilmersd.,Eislebener Str. 004,10789,51.0
+1206,Charlbg.-Wilmersd.,Prinzregentenstr. 090,10717,20.0
+1207,Charlbg.-Wilmersd.,Pfalzburger Str. 014,10719,45.0
+1208,Charlbg.-Wilmersd.,Paulsborner Str. 020,10709,16.0
+1209,Charlbg.-Wilmersd.,Wiesbadener Str. 018,14197,30.0
+1210,Charlbg.-Wilmersd.,Cicerostr. 063,10709,25.0
+1211,Charlbg.-Wilmersd.,Schlangenbader Str. 034,14197,75.0
+1212,Charlbg.-Wilmersd.,Babelsberger Str. 040,10715,15.0
+1213,Charlbg.-Wilmersd.,Pfalzburger Str. 062,10719,30.0
+1214,Charlbg.-Wilmersd.,Aachener Str. 045,10713,30.0
+1215,Charlbg.-Wilmersd.,Holsteinische Str. 054,10717,26.0
+1216,Charlbg.-Wilmersd.,Johann-Georg-Str. 010,10709,10.0
+1217,Charlbg.-Wilmersd.,Westfälische Str. 057,10711,10.0
+1218,Charlbg.-Wilmersd.,Blissestr. 045,10713,69.0
+1219,Charlbg.-Wilmersd.,Holsteinische Str. 055,10717,20.0
+1220,Charlbg.-Wilmersd.,Nestorstr. 020,10709,16.0
+1221,Charlbg.-Wilmersd.,Koblenzer Str. 021,10715,25.0
+1222,Charlbg.-Wilmersd.,Eichhörnchensteig 003,14193,30.0
+1223,Charlbg.-Wilmersd.,Nachodstr. 019,10779,30.0
+1224,Charlbg.-Wilmersd.,Johann-Georg-Str. 009,10709,20.0
+1225,Charlbg.-Wilmersd.,Fechnerstr. 018,10717,31.0
+1226,Charlbg.-Wilmersd.,Nestorstr. 007,10709,65.0
+1227,Charlbg.-Wilmersd.,Eislebener Str. 004,10789,36.0
+1228,Charlbg.-Wilmersd.,Pfalzburger Str. 040,10717,25.0
+1229,Charlbg.-Wilmersd.,Eisenzahnstr. 062,10709,23.0
+1230,Charlbg.-Wilmersd.,Tübinger Str. 009,10715,15.0
+1231,Charlbg.-Wilmersd.,Babelsberger Str. 043,10715,25.0
+1232,Charlbg.-Wilmersd.,Westfälische Str. 017,10709,100.0
+1233,Charlbg.-Wilmersd.,Münstersche Str. 006,10709,48.0
+1234,Charlbg.-Wilmersd.,Tübinger Str. 001,10715,25.0
+1235,Charlbg.-Wilmersd.,Cunostr. 059A,14193,45.0
+1236,Charlbg.-Wilmersd.,Trautenaustr. 018,10717,25.0
+1237,Charlbg.-Wilmersd.,Blissestr. 060,10713,21.0
+1238,Charlbg.-Wilmersd.,Weinheimer Str. 011,14199,43.0
+1239,Charlbg.-Wilmersd.,Katharinenstr. 01920,10711,25.0
+1240,Charlbg.-Wilmersd.,Kudowastr. 021,14193,42.0
+1241,Charlbg.-Wilmersd.,Güntzelstr. 030,10717,38.0
+1242,Charlbg.-Wilmersd.,Nikolsburger Platz 006,10717,26.0
+1243,Charlbg.-Wilmersd.,Brandenburgische Str. 084/85,10713,25.0
+1244,Charlbg.-Wilmersd.,Bundesallee 038,10717,48.0
+1245,Charlbg.-Wilmersd.,Schaperstr. 010,10719,25.0
+1246,Charlbg.-Wilmersd.,Seesener Str. 044- 46,10711,25.0
+1247,Charlbg.-Wilmersd.,Cunostr. 009,14199,70.0
+1248,Charlbg.-Wilmersd.,Wexstr. 022,10715,16.0
+1249,Charlbg.-Wilmersd.,Prager Str. 002,10779,19.0
+1250,Charlbg.-Wilmersd.,Paulsborner Str. 010,10709,25.0
+1251,Charlbg.-Wilmersd.,Westfälische Str. 016,10709,21.0
+1252,Charlbg.-Wilmersd.,Hohenzollerndamm 053,14199,25.0
+1253,Charlbg.-Wilmersd.,Motzstr. 087,10779,25.0
+1254,Spandau,Seeburger Str. 065,13581,56.0
+1255,Spandau,Falkenseer Chaussee 008,13583,195.0
+1256,Spandau,Hakenfelder Str. 034,13587,120.0
+1257,Spandau,Elsflether Weg 032,13581,150.0
+1258,Spandau,Blumenstr. 014,13585,160.0
+1259,Spandau,Germersheimer Weg 093,13583,80.0
+1260,Spandau,Götelstr. 062,13595,100.0
+1261,Spandau,Lünette 020,13599,175.0
+1262,Spandau,Seeburger Weg 035,13581,155.0
+1263,Spandau,Jaczostr. 051,13595,135.0
+1264,Spandau,Jungfernheideweg 077A,13629,140.0
+1265,Spandau,Münsingerstr. 003,13597,103.0
+1266,Spandau,Wasserwerkstr. 003,13589,150.0
+1267,Spandau,Hermann-Schmidt-Weg 007,13589,145.0
+1268,Spandau,Wichernstr. 057,13587,140.0
+1269,Spandau,Stadtrandstr. 493-499,13589,140.0
+1270,Spandau,Spekteweg 063,13583,125.0
+1271,Spandau,Pillnitzer Weg 006,13593,145.0
+1272,Spandau,Leubnitzer Weg 002,13593,156.0
+1273,Spandau,Kirchhofstr. 035,13585,135.0
+1274,Spandau,Gatower Str. 231,14089,205.0
+1275,Spandau,Räcknitzer Steig 006,13593,155.0
+1276,Spandau,Griesingerstr. 011,13589,90.0
+1277,Spandau,Götelstr. 068,13595,108.0
+1278,Spandau,Baumertweg 005,13595,55.0
+1279,Spandau,Behnitz 003,13597,75.0
+1280,Spandau,Beim Pfarrhof 042,13591,42.0
+1281,Spandau,Stieglakeweg 011,13591,73.0
+1282,Spandau,Lenther Steig 004,13629,80.0
+1283,Spandau,Gorgasring 012,13599,120.0
+1284,Spandau,Haselhorster Damm 054- 58,13599,45.0
+1285,Spandau,Heerstr. 367,13593,110.0
+1286,Spandau,Lenther Steig 004,13629,180.0
+1287,Spandau,Schlehenweg 006,13587,48.0
+1288,Spandau,Schönwalder Allee 026Haus 35a,13587,180.0
+1289,Spandau,Obstallee 022B,13593,47.0
+1290,Spandau,Seegefelder Str. 116,13583,60.0
+1291,Spandau,Westerwaldstr. 016,13589,65.0
+1292,Spandau,Am Kiesteich 050,13589,60.0
+1293,Spandau,Gorgasring 009,13599,68.0
+1294,Spandau,Hasenmark 002,13585,55.0
+1295,Spandau,Ackerstr. 023,13585,130.0
+1296,Spandau,Galenstr. 029,13597,120.0
+1297,Spandau,Mascha-Kaléko-Weg 003,14089,90.0
+1298,Spandau,Földerichstr. 067,13595,30.0
+1299,Spandau,Krowelstr. 033,13581,15.0
+1300,Spandau,Wilhelmstr. 025,13593,43.0
+1301,Spandau,Weißenburger Str. 022,13595,17.0
+1302,Spandau,Weißenburger Str. 030,13595,24.0
+1303,Spandau,Jagowstr. 016,13585,20.0
+1304,Spandau,Gößweinsteiner Gang 021,14089,56.0
+1305,Spandau,Neuendorfer Str. 072,13585,24.0
+1306,Spandau,Plantage 008,13597,26.0
+1307,Spandau,Saatwinkler Damm 143,13629,17.0
+1308,Spandau,Seeburger Str. 041,13581,18.0
+1309,Spandau,Grimnitzstr. 005B,13595,45.0
+1310,Spandau,Neuendorfer Str. 056,13585,142.0
+1311,Spandau,Ritterfelddamm 027,14089,160.0
+1312,Spandau,Neuendorfer Str. 003,13585,159.0
+1313,Spandau,Sakrower Landstr. 056,14089,85.0
+1314,Spandau,Jagowstr. 016A,13585,24.0
+1315,Spandau,Grunewaldstr. 007,13597,75.0
+1316,Spandau,Finkenkruger Weg 070,13591,17.0
+1317,Spandau,Wernerwerkdamm 027A,13629,27.0
+1318,Spandau,Neuendorfer Str. 073,13585,17.0
+1319,Spandau,Brunsbütteler Damm 413,13591,85.0
+1320,Spandau,Brunsbütteler Damm 409,13591,110.0
+1321,Spandau,Sakrower Landstr. 100,14089,50.0
+1322,Spandau,Mareyzeile 022,13593,180.0
+1323,Spandau,Am Maselakepark 006,13587,75.0
+1324,Spandau,Ruppiner-See-Str. 074,13599,170.0
+1325,Spandau,Falkenhagener Str. 010,13585,18.0
+1326,Spandau,Remscheider Str. 039,13583,130.0
+1327,Spandau,Wilhelmstr. 148,13595,16.0
+1328,Spandau,Rothenbücherweg 027,14089,37.0
+1329,Spandau,Neukladower Allee 001,14089,75.0
+1330,Spandau,Alt-Gatow 032- 34,14089,18.0
+1331,Spandau,Kladower Damm 369,14089,15.0
+1332,Spandau,Im Spektefeld 026,13589,30.0
+1333,Spandau,Schuckertdamm 336,13629,17.0
+1334,Spandau,Wichernstr. 014,13587,28.0
+1335,Spandau,An der Havelspitze 019,13587,110.0
+1336,Spandau,Spandauer Str. 084,13591,135.0
+1337,Spandau,Jaczostr. 052,13595,15.0
+1338,Spandau,Westerwaldstr. 016,13589,35.0
+1339,Spandau,Wiesenweg 020,13591,130.0
+1340,Spandau,Richard-Münch-Str. 001,13591,150.0
+1341,Spandau,Richard-Münch-Str. 069,13591,100.0
+1342,Spandau,Olga-Tschechowa-Str. 015,13599,90.0
+1343,Spandau,Brauereihof 001,13585,110.0
+1344,Spandau,Saint-Exupéry-Str. 010,14089,140.0
+1345,Spandau,Gatower Str. 274,14089,16.0
+1346,Spandau,Zweiwinkelweg 012,13591,142.0
+1347,Spandau,Waldallee 003,14089,20.0
+1348,Spandau,Wilhelmstr. 025-30,13593,106.0
+1349,Spandau,Pulvermühlenweg 008,13599,93.0
+1350,Spandau,Reimerweg 011,13593,55.0
+1351,Spandau,Wohlrabedamm 010,13629,115.0
+1352,Spandau,Heidereuterstr. 031,13597,170.0
+1353,Spandau,Metzer Str. 004,13595,33.0
+1354,Spandau,Hohenzollernring 104,13585,16.0
+1355,Spandau,Pichelsdorfer Str. 079,13595,25.0
+1356,Spandau,Lasiuszeile 006,13585,87.0
+1357,Spandau,Straße 264 012,14089,35.0
+1358,Spandau,Goebelstr. 139,13629,100.0
+1359,Spandau,Germersheimer Weg 027- 29,13583,40.0
+1360,Spandau,Klosterstr. 003,13581,100.0
+1361,Spandau,Flankenschanze 048,13585,101.0
+1362,Spandau,Seeburger Str. 009- 11,13581,95.0
+1363,Spandau,Streitstr. 074,13587,25.0
+1364,Spandau,Staakener Str. 016,13581,25.0
+1365,Spandau,Mertensstr. 010- 14,13587,100.0
+1366,Spandau,Am Maselakepark 021,13587,150.0
+1367,Spandau,Streitstr. 009- 11,13587,50.0
+1368,Spandau,Pichelsdorfer Str. 053,13595,50.0
+1369,Spandau,Heerstr. 570,13591,190.0
+1370,Spandau,Brunsbütteler Damm 077,13581,46.0
+1371,Spandau,Im Spektefeld 044,13589,45.0
+1372,Spandau,Schuckertdamm 343,13629,85.0
+1373,Spandau,Magistratsweg 069,13591,184.0
+1374,Spandau,Heerstr. 613- 615,13591,48.0
+1375,Spandau,Schulstr. 003,13591,10.0
+1376,Spandau,Gorgasring 015,13599,70.0
+1377,Spandau,Pichelsdorfer Str. 065,13595,41.0
+1378,Spandau,Götelstr. 132- 140,13595,31.0
+1379,Spandau,Mertensstr. 002,13587,25.0
+1380,Spandau,Seegefelder Str. 088,13583,25.0
+1381,Spandau,Rex-Waite-Str. 094,14089,90.0
+1382,Spandau,Am Oberhafen 007,13597,25.0
+1383,Spandau,Ulrikenstr. 007,13581,30.0
+1384,Spandau,Kandeler Weg 003,13583,50.0
+1385,Spandau,Westerwaldstr. 020,13589,61.0
+1386,Spandau,Haberlandweg 006,13591,76.0
+1387,Spandau,Seegefelder Str. 034,13583,25.0
+1388,Spandau,Weißenburger Str. 021,13595,25.0
+1389,Spandau,Am Kiesteich 040,13589,119.0
+1390,Spandau,Seegefelder Weg 381,13591,92.0
+1391,Spandau,Seeburger Str. 065,13581,56.0
+1392,Spandau,Daumstr. 012,13599,15.0
+1393,Steglitz-Zehlend.,Prettauer Pfad 023,12207,
+1394,Steglitz-Zehlend.,Alsenstr. 016,14109,130.0
+1395,Steglitz-Zehlend.,Brittendorfer Weg 016,14167,85.0
+1396,Steglitz-Zehlend.,Wilskistr. 075,14163,200.0
+1397,Steglitz-Zehlend.,Von-der-Trenck-Str. 004,14129,120.0
+1398,Steglitz-Zehlend.,Teltower Damm 095,14167,230.0
+1399,Steglitz-Zehlend.,Königin-Luise-Str. 086,14195,200.0
+1400,Steglitz-Zehlend.,Andréezeile 021,14165,45.0
+1401,Steglitz-Zehlend.,Dubrowplatz 004,14129,55.0
+1402,Steglitz-Zehlend.,Faradayweg 015,14195,62.0
+1403,Steglitz-Zehlend.,Pfeddersheimer Weg 069,14129,90.0
+1404,Steglitz-Zehlend.,Leo-Baeck-Str. 006,14165,70.0
+1405,Steglitz-Zehlend.,Ludwigsfelder Str. 051,14165,85.0
+1406,Steglitz-Zehlend.,Mühlenstr. 047,14167,50.0
+1407,Steglitz-Zehlend.,Teltower Damm 008,14169,65.0
+1408,Steglitz-Zehlend.,Thielallee 001-3,14195,50.0
+1409,Steglitz-Zehlend.,Wilskistr. 053,14163,65.0
+1410,Steglitz-Zehlend.,Clayallee 320,14169,30.0
+1411,Steglitz-Zehlend.,Heimat 067- 69,14165,47.0
+1412,Steglitz-Zehlend.,Tewsstr. 016,14129,50.0
+1413,Steglitz-Zehlend.,Hohenzollernstr. 009,14163,100.0
+1414,Steglitz-Zehlend.,Wasgensteig 005,14129,200.0
+1415,Steglitz-Zehlend.,Chausseestr. 035,14109,29.0
+1416,Steglitz-Zehlend.,Chausseestr. 042,14109,30.0
+1417,Steglitz-Zehlend.,Clayallee 092,14195,28.0
+1418,Steglitz-Zehlend.,Dorotheenstr. 003,14109,12.0
+1419,Steglitz-Zehlend.,Lissabonallee 006,14129,17.0
+1420,Steglitz-Zehlend.,Onkel-Tom-Str. 064A,14169,13.0
+1421,Steglitz-Zehlend.,Pfarrlandstr. 026,14165,20.0
+1422,Steglitz-Zehlend.,Wasgenstr. 075,14129,16.0
+1423,Steglitz-Zehlend.,Ahornstr. 001,14163,67.0
+1424,Steglitz-Zehlend.,Lützelsteiner Weg 023/25,14195,63.0
+1425,Steglitz-Zehlend.,Kaiserstuhlstr. 025,14129,40.0
+1426,Steglitz-Zehlend.,Königstr. 043A,14163,50.0
+1427,Steglitz-Zehlend.,Hohenzollernstr. 0046,14163,95.0
+1428,Steglitz-Zehlend.,Riemeisterstr. 010,14169,20.0
+1429,Steglitz-Zehlend.,Lindenthaler Allee 014,14163,120.0
+1430,Steglitz-Zehlend.,Markgrafenstr. 008,14163,115.0
+1431,Steglitz-Zehlend.,Peter-Lenné-Str. 042,14195,45.0
+1432,Steglitz-Zehlend.,Tietzenweg 013,12203,80.0
+1433,Steglitz-Zehlend.,Mörchinger Str. 041,14169,118.0
+1434,Steglitz-Zehlend.,Taylorstr. 015,14195,22.0
+1435,Steglitz-Zehlend.,Flanaganstr. 045,14195,207.0
+1436,Steglitz-Zehlend.,Lissabonallee 028,14163,135.0
+1437,Steglitz-Zehlend.,Pacelliallee 061,14195,20.0
+1438,Steglitz-Zehlend.,Von-Luck-Str. 024,14129,62.0
+1439,Steglitz-Zehlend.,Normannenstr. 001,14129,20.0
+1440,Steglitz-Zehlend.,Teltower Damm 191,14167,54.0
+1441,Steglitz-Zehlend.,Tom-Sawyer-Weg 005,14169,108.0
+1442,Steglitz-Zehlend.,Brittendorfer Weg 016C,14167,128.0
+1443,Steglitz-Zehlend.,Breitensteinweg 033,14165,110.0
+1444,Steglitz-Zehlend.,Schuchardtweg 005,14109,45.0
+1445,Steglitz-Zehlend.,Clayallee 118,14195,86.0
+1446,Steglitz-Zehlend.,Zum Heckeshorn 033Haus 2,14109,21.0
+1447,Steglitz-Zehlend.,Harry-S.-Truman-Allee 001,14167,150.0
+1448,Steglitz-Zehlend.,Wilskistr. 055,14163,65.0
+1449,Steglitz-Zehlend.,Wilskistr. 036,14169,30.0
+1450,Steglitz-Zehlend.,Harry-S.-Truman-Allee 003A,14167,150.0
+1451,Steglitz-Zehlend.,Wilskistr. 020,14169,22.0
+1452,Steglitz-Zehlend.,Clayallee 328-334,14169,80.0
+1453,Steglitz-Zehlend.,Clayallee 225K,14195,113.0
+1454,Steglitz-Zehlend.,Königstr. 035C,14109,60.0
+1455,Steglitz-Zehlend.,Fischerhüttenstr. 019,14163,45.0
+1456,Steglitz-Zehlend.,Forststr. 004,14163,150.0
+1457,Steglitz-Zehlend.,Teltower Damm 192,14167,35.0
+1458,Steglitz-Zehlend.,Zum Heckeshorn 040,14109,30.0
+1459,Steglitz-Zehlend.,Hechtgraben 006- 8,14195,80.0
+1460,Steglitz-Zehlend.,Clayallee 169,14195,66.0
+1461,Steglitz-Zehlend.,Robert-W.-Kempner-Str. 001,14167,100.0
+1462,Steglitz-Zehlend.,Jeverstr. 010,12157,74.0
+1463,Steglitz-Zehlend.,Steinstr. 014A,12169,65.0
+1464,Steglitz-Zehlend.,Mittelstr. 006,12167,200.0
+1465,Steglitz-Zehlend.,Haydnstr. 017,12203,195.0
+1466,Steglitz-Zehlend.,Forststr. 040,12163,150.0
+1467,Steglitz-Zehlend.,Augustastr. 036,12203,160.0
+1468,Steglitz-Zehlend.,Hindenburgdamm 030,12203,36.0
+1469,Steglitz-Zehlend.,Baseler Str. 067,12205,50.0
+1470,Steglitz-Zehlend.,Buhrowstr. 006-7,12167,140.0
+1471,Steglitz-Zehlend.,Dessauerstr. 014,12249,40.0
+1472,Steglitz-Zehlend.,Friedrichsruher Str. 001-2,12169,50.0
+1473,Steglitz-Zehlend.,Gallwitzallee 002,12249,85.0
+1474,Steglitz-Zehlend.,Hindenburgdamm 101,12203,85.0
+1475,Steglitz-Zehlend.,Lepsiusstr. 025,12163,105.0
+1476,Steglitz-Zehlend.,Liliencronstr. 015,12167,130.0
+1477,Steglitz-Zehlend.,Mittelstr. 033,12167,44.0
+1478,Steglitz-Zehlend.,Unter den Eichen 129A,12203,28.0
+1479,Steglitz-Zehlend.,Morgensternstr. 026,12207,35.0
+1480,Steglitz-Zehlend.,Potsdamer Str. 009,12205,50.0
+1481,Steglitz-Zehlend.,Réaumurstr. 003,12207,180.0
+1482,Steglitz-Zehlend.,Ostpreußendamm 064,12207,83.0
+1483,Steglitz-Zehlend.,Parallelstr. 029,12209,90.0
+1484,Steglitz-Zehlend.,Roonstr. 009,12203,55.0
+1485,Steglitz-Zehlend.,Schützenstr. 032,12165,90.0
+1486,Steglitz-Zehlend.,Wedellstr. 076,12249,102.0
+1487,Steglitz-Zehlend.,Corneliusstr. 031,12247,60.0
+1488,Steglitz-Zehlend.,Gardeschützenweg 017,12203,60.0
+1489,Steglitz-Zehlend.,Kamenzer Damm 066,12249,60.0
+1490,Steglitz-Zehlend.,Kieler Str. 010,12163,70.0
+1491,Steglitz-Zehlend.,Wedellstr. 059,12249,159.0
+1492,Steglitz-Zehlend.,Ruthstr. 006,12247,145.0
+1493,Steglitz-Zehlend.,Kaulbachstr. 050,12247,58.0
+1494,Steglitz-Zehlend.,Kiesstr. 045,12209,60.0
+1495,Steglitz-Zehlend.,Königsberger Str. 011- 12,12207,60.0
+1496,Steglitz-Zehlend.,Sohnreystr. 004,12169,50.0
+1497,Steglitz-Zehlend.,Adolf-Martens-Str. 005,12205,33.0
+1498,Steglitz-Zehlend.,Zimmermannstr. 013,12163,20.0
+1499,Steglitz-Zehlend.,Drakestr. 030,12205,39.0
+1500,Steglitz-Zehlend.,Grunewaldstr. 017,12165,118.0
+1501,Steglitz-Zehlend.,Manteuffelstr. 011-12,12203,224.0
+1502,Steglitz-Zehlend.,Markelstr. 024A,12163,16.0
+1503,Steglitz-Zehlend.,Gritznerstr. 067,12163,15.0
+1504,Steglitz-Zehlend.,Horst-Kohl-Str. 012,12157,15.0
+1505,Steglitz-Zehlend.,Ingridpfad 014,12249,30.0
+1506,Steglitz-Zehlend.,Kommandantenstr. 086,12205,20.0
+1507,Steglitz-Zehlend.,Markelstr. 023,12163,18.0
+1508,Steglitz-Zehlend.,Melanchthonstr. 003,12247,30.0
+1509,Steglitz-Zehlend.,Menckenstr. 001,12169,25.0
+1510,Steglitz-Zehlend.,Haydnstr. 007,12203,20.0
+1511,Steglitz-Zehlend.,Moltkestr. 046A,12203,18.0
+1512,Steglitz-Zehlend.,Moltkestr. 047,12203,25.0
+1513,Steglitz-Zehlend.,Peschkestr. 008,12161,19.0
+1514,Steglitz-Zehlend.,Schillerstr. 024,12207,40.0
+1515,Steglitz-Zehlend.,Berlinickestr. 013,12165,27.0
+1516,Steglitz-Zehlend.,Altmarkstr. 026,12169,15.0
+1517,Steglitz-Zehlend.,Thorwaldsenstr. 029,12157,16.0
+1518,Steglitz-Zehlend.,Sedanstr. 007,12167,25.0
+1519,Steglitz-Zehlend.,Paul-Schneider-Str. 022,12247,18.0
+1520,Steglitz-Zehlend.,Beethovenstr. 034,12247,50.0
+1521,Steglitz-Zehlend.,Rothenburgstr. 012A-13,12165,45.0
+1522,Steglitz-Zehlend.,Fregestr. 053,12161,40.0
+1523,Steglitz-Zehlend.,Hindenburgdamm 028,12203,71.0
+1524,Steglitz-Zehlend.,Prettauer Pfad 02333,12207,140.0
+1525,Steglitz-Zehlend.,Breite Str. 038,12167,22.0
+1526,Steglitz-Zehlend.,Filandastr. 027,12169,50.0
+1527,Steglitz-Zehlend.,Beethovenstr. 034rechts,12247,37.0
+1528,Steglitz-Zehlend.,Frobenstr. 075,12249,195.0
+1529,Steglitz-Zehlend.,Schmidt-Ott-Str. 004,12165,18.0
+1530,Steglitz-Zehlend.,Am Fichtenberg 016,12165,117.0
+1531,Steglitz-Zehlend.,Curtiusstr. 039,12205,55.0
+1532,Steglitz-Zehlend.,Sondershauser Str. 050,12249,20.0
+1533,Steglitz-Zehlend.,Luzerner Str. 010,12205,45.0
+1534,Steglitz-Zehlend.,Sophienstr. 009,12203,30.0
+1535,Steglitz-Zehlend.,Gritznerstr. 033,12163,45.0
+1536,Steglitz-Zehlend.,Schütte-Lanz-Str. 043,12209,104.0
+1537,Steglitz-Zehlend.,Scheelestr. 145,12209,67.0
+1538,Steglitz-Zehlend.,Lorenzstr. 057,12209,45.0
+1539,Steglitz-Zehlend.,Holtheimer Weg 006,12207,135.0
+1540,Steglitz-Zehlend.,Kaulbachstr. 05961,12247,75.0
+1541,Steglitz-Zehlend.,Scheelestr. 045,12209,115.0
+1542,Steglitz-Zehlend.,Lepsiusstr. 053,12163,41.0
+1543,Steglitz-Zehlend.,Baseler Str. 161,12205,100.0
+1544,Steglitz-Zehlend.,Dürerstr. 020,12203,35.0
+1545,Steglitz-Zehlend.,Hindenburgdamm 022,12203,136.0
+1546,Steglitz-Zehlend.,Beethovenstr. 038,12247,28.0
+1547,Steglitz-Zehlend.,Forststr. 010,12163,26.0
+1548,Steglitz-Zehlend.,Gallwitzallee 035,12249,39.0
+1549,Steglitz-Zehlend.,Birkbuschstr. 014,12167,25.0
+1550,Steglitz-Zehlend.,Ursulastr. 012,12249,125.0
+1551,Steglitz-Zehlend.,Plantagenstr. 001,12169,30.0
+1552,Steglitz-Zehlend.,Finckensteinallee 042A,12205,40.0
+1553,Steglitz-Zehlend.,Gritznerstr. 001,12163,27.0
+1554,Steglitz-Zehlend.,Immenweg 013-15,12169,28.0
+1555,Steglitz-Zehlend.,Selerweg 019-21,12169,114.0
+1556,Steglitz-Zehlend.,Kreuznacher Str. 009,14197,20.0
+1557,Steglitz-Zehlend.,Murtener Str. 010,12205,60.0
+1558,Steglitz-Zehlend.,Beselerstr. 001- 3,12249,30.0
+1559,Steglitz-Zehlend.,Unter den Eichen 093,12205,22.0
+1560,Steglitz-Zehlend.,Schützenstr. 041A,12165,30.0
+1561,Steglitz-Zehlend.,Drakestr. 001,12205,66.0
+1562,Steglitz-Zehlend.,Arno-Holz-Str. 010,12165,8.0
+1563,Steglitz-Zehlend.,Goerzallee 190,14167,36.0
+1564,Steglitz-Zehlend.,Giesensdorfer Str. 011,12207,80.0
+1565,Steglitz-Zehlend.,Drakestr. 009B,12205,60.0
+1566,Steglitz-Zehlend.,Malteserstr. 120,12249,90.0
+1567,Steglitz-Zehlend.,Halskestr. 009,12167,28.0
+1568,Steglitz-Zehlend.,Derfflingerstr. 032,12249,65.0
+1569,Steglitz-Zehlend.,Ostpreußendamm 058,12207,41.0
+1570,Steglitz-Zehlend.,Kaiser-Wilhelm-Str. 116,12247,92.0
+1571,Steglitz-Zehlend.,Breite Str. 001,12167,23.0
+1572,Steglitz-Zehlend.,Ahornstr. 020,12163,33.0
+1573,Steglitz-Zehlend.,Grunewaldstr. 046,12165,55.0
+1574,Steglitz-Zehlend.,Saaleckplatz 002,12209,25.0
+1575,Steglitz-Zehlend.,Alt-Lankwitz 015,12247,18.0
+1576,Steglitz-Zehlend.,Gravelottestr. 010,12167,25.0
+1577,Steglitz-Zehlend.,Lankwitzer Str. 010,12209,23.0
+1578,Steglitz-Zehlend.,Steglitzer Damm 069A,12169,76.0
+1579,Steglitz-Zehlend.,Ostpreußendamm 071,12207,40.0
+1580,Steglitz-Zehlend.,Kaiser-Wilhelm-Str. 020/22,12247,37.0
+1581,Steglitz-Zehlend.,Fahrenheitstr. 032- 34,12207,120.0
+1582,Steglitz-Zehlend.,Hindenburgdamm 055,12203,40.0
+1583,Steglitz-Zehlend.,Leydenallee 090,12167,42.0
+1584,Steglitz-Zehlend.,Celsiusstr. 069,12207,101.0
+1585,Steglitz-Zehlend.,Heesestr. 009,12169,25.0
+1586,Steglitz-Zehlend.,Scheelestr. 083,12209,148.0
+1587,Steglitz-Zehlend.,Hildburghauser Str. 116,12209,90.0
+1588,Steglitz-Zehlend.,Dessauerstr. 028,12249,46.0
+1589,Steglitz-Zehlend.,Hindenburgdamm 100,12203,24.0
+1590,Steglitz-Zehlend.,Teltower Damm 188,14167,75.0
+1591,Steglitz-Zehlend.,Hortensienstr. 029,12203,36.0
+1592,Tempelh.-Schöneb.,Freiherr-vom-Stein-Str. 015,10825,200.0
+1593,Tempelh.-Schöneb.,Sponholzstr. 016,12159,180.0
+1594,Tempelh.-Schöneb.,Fregestr. 021-22,12159,140.0
+1595,Tempelh.-Schöneb.,Friedrich-Wilhelm-Platz 012,12161,100.0
+1596,Tempelh.-Schöneb.,Frankenstr. 008,10781,160.0
+1597,Tempelh.-Schöneb.,Hauptstr. 043,10827,65.0
+1598,Tempelh.-Schöneb.,Fehlerstr. 002,12161,150.0
+1599,Tempelh.-Schöneb.,Hochkirchstr. 015-018,10829,95.0
+1600,Tempelh.-Schöneb.,Freiherr-vom-Stein-Str. 013,10825,90.0
+1601,Tempelh.-Schöneb.,Kurmärkische Str. 002-008,10783,134.0
+1602,Tempelh.-Schöneb.,Leberstr. 069-77,10829,155.0
+1603,Tempelh.-Schöneb.,Neue Steinmetzstr. 001,10827,79.0
+1604,Tempelh.-Schöneb.,Prellerweg 005- 7,12157,132.0
+1605,Tempelh.-Schöneb.,Reglinstr. 029,12105,28.0
+1606,Tempelh.-Schöneb.,Rosenheimer Str. 020B,10779,75.0
+1607,Tempelh.-Schöneb.,Vorarlberger Damm 017,12157,100.0
+1608,Tempelh.-Schöneb.,Bülowstr. 035,10783,145.0
+1609,Tempelh.-Schöneb.,Ebersstr. 019,10827,153.0
+1610,Tempelh.-Schöneb.,Vorbergstr. 015,10823,153.0
+1611,Tempelh.-Schöneb.,Barbarossastr. 064,10781,70.0
+1612,Tempelh.-Schöneb.,Belziger Str. 014,10823,106.0
+1613,Tempelh.-Schöneb.,Perelsplatz 005,12159,79.0
+1614,Tempelh.-Schöneb.,Rheingaustr. 028,12161,56.0
+1615,Tempelh.-Schöneb.,Cheruskerstr. 028,10829,90.0
+1616,Tempelh.-Schöneb.,Dominicusstr. 021A,10823,70.0
+1617,Tempelh.-Schöneb.,Goßlerstr. 003,12161,65.0
+1618,Tempelh.-Schöneb.,Grazer Platz 004,12157,78.0
+1619,Tempelh.-Schöneb.,Großgörschenstr. 010,10827,47.0
+1620,Tempelh.-Schöneb.,Klixstr. 002,10823,36.0
+1621,Tempelh.-Schöneb.,Stierstr. 017-019,12159,75.0
+1622,Tempelh.-Schöneb.,Dominicusstr. 019A,10823,45.0
+1623,Tempelh.-Schöneb.,Hohenstaufenstr. 003,10781,90.0
+1624,Tempelh.-Schöneb.,Kolonnenstr. 040,10829,50.0
+1625,Tempelh.-Schöneb.,Rubensstr. 074,12157,50.0
+1626,Tempelh.-Schöneb.,Niedstr. 030,12159,40.0
+1627,Tempelh.-Schöneb.,Sieglindestr. 001,12159,60.0
+1628,Tempelh.-Schöneb.,Bessemerstr. 086,12103,20.0
+1629,Tempelh.-Schöneb.,Crellestr. 016B,10827,133.0
+1630,Tempelh.-Schöneb.,Brunhildstr. 015,10829,65.0
+1631,Tempelh.-Schöneb.,Bülowstr. 052,10783,16.0
+1632,Tempelh.-Schöneb.,Cheruskerstr. 017,10829,15.0
+1633,Tempelh.-Schöneb.,Cranachstr. 039,12157,25.0
+1634,Tempelh.-Schöneb.,Ebersstr. 012,10827,17.0
+1635,Tempelh.-Schöneb.,Ebersstr. 018,10827,24.0
+1636,Tempelh.-Schöneb.,Feurigstr. 053,10827,17.0
+1637,Tempelh.-Schöneb.,Mansteinstr. 006,10783,15.0
+1638,Tempelh.-Schöneb.,Frankenstr. 015,10781,15.0
+1639,Tempelh.-Schöneb.,Gleditschstr. 040,10781,16.0
+1640,Tempelh.-Schöneb.,Goebenstr. 008,10783,15.0
+1641,Tempelh.-Schöneb.,Leuthener Str. 008,10829,20.0
+1642,Tempelh.-Schöneb.,Viktoria-Luise-Platz 001,10777,55.0
+1643,Tempelh.-Schöneb.,Gotenstr. 071,10829,12.0
+1644,Tempelh.-Schöneb.,Sponholzstr. 015,12159,45.0
+1645,Tempelh.-Schöneb.,Gustav-Müller-Platz 002,10829,24.0
+1646,Tempelh.-Schöneb.,Naumannstr. 007,10829,38.0
+1647,Tempelh.-Schöneb.,Geßlerstr. 008,10829,20.0
+1648,Tempelh.-Schöneb.,Peter-Vischer-Str. 012,12157,26.0
+1649,Tempelh.-Schöneb.,Gustav-Müller-Platz 005,10829,17.0
+1650,Tempelh.-Schöneb.,Bundesallee 076A,12161,20.0
+1651,Tempelh.-Schöneb.,Ansbacher Str. 063,10777,18.0
+1652,Tempelh.-Schöneb.,Hedwigstr. 012,12159,16.0
+1653,Tempelh.-Schöneb.,Hertelstr. 001,12161,15.0
+1654,Tempelh.-Schöneb.,Hohenstaufenstr. 010A,10781,38.0
+1655,Tempelh.-Schöneb.,Kyffhäuserstr. 019,10781,20.0
+1656,Tempelh.-Schöneb.,Mainauer Str. 006,12161,16.0
+1657,Tempelh.-Schöneb.,Wartburgstr. 006,10823,25.0
+1658,Tempelh.-Schöneb.,Menzelstr. 026,12157,22.0
+1659,Tempelh.-Schöneb.,Merseburger Str. 004,10823,16.0
+1660,Tempelh.-Schöneb.,Motzstr. 063,10777,14.0
+1661,Tempelh.-Schöneb.,Bundesallee 076,12161,20.0
+1662,Tempelh.-Schöneb.,Perelsplatz 010,12159,15.0
+1663,Tempelh.-Schöneb.,Rosenheimer Str. 028,10781,16.0
+1664,Tempelh.-Schöneb.,Salzburger Str. 007,10825,15.0
+1665,Tempelh.-Schöneb.,Potsdamer Str. 170B,10783,45.0
+1666,Tempelh.-Schöneb.,Schwalbacher Str. 008,12161,15.0
+1667,Tempelh.-Schöneb.,Sieglindestr. 004,12159,15.0
+1668,Tempelh.-Schöneb.,Bundesallee 140,12161,18.0
+1669,Tempelh.-Schöneb.,Vorbergstr. 002,10823,18.0
+1670,Tempelh.-Schöneb.,Münchener Str. 003,10777,17.0
+1671,Tempelh.-Schöneb.,Hedwigstr. 013,12159,60.0
+1672,Tempelh.-Schöneb.,Fuggerstr. 037,10777,40.0
+1673,Tempelh.-Schöneb.,Lauterstr. 030,12159,20.0
+1674,Tempelh.-Schöneb.,Fregestr. 013-14,12159,57.0
+1675,Tempelh.-Schöneb.,Karl-Schrader-Str. 009,10781,75.0
+1676,Tempelh.-Schöneb.,Badensche Str. 050,10825,45.0
+1677,Tempelh.-Schöneb.,Kärntener Str. 027,10827,88.0
+1678,Tempelh.-Schöneb.,Riemenschneiderweg 012,12157,134.0
+1679,Tempelh.-Schöneb.,Monumentenstr. 003,10829,30.0
+1680,Tempelh.-Schöneb.,Fritz-Reuter-Str. 008,10827,36.0
+1681,Tempelh.-Schöneb.,Gustav-Müller-Platz 004,10829,56.0
+1682,Tempelh.-Schöneb.,Ebersstr. 040,10827,20.0
+1683,Tempelh.-Schöneb.,Apostel-Paulus-Str. 033,10823,15.0
+1684,Tempelh.-Schöneb.,Naumannstr. 004,10829,23.0
+1685,Tempelh.-Schöneb.,Schwalbacher Str. 010,12161,21.0
+1686,Tempelh.-Schöneb.,Lauterstr. 040,12159,15.0
+1687,Tempelh.-Schöneb.,Merseburger Str. 005,10823,17.0
+1688,Tempelh.-Schöneb.,Gotenstr. 018,10829,56.0
+1689,Tempelh.-Schöneb.,Holsteinische Str. 033A,12161,12.0
+1690,Tempelh.-Schöneb.,Albertstr. 014-18,10827,62.0
+1691,Tempelh.-Schöneb.,Augsburger Str. 012,10789,165.0
+1692,Tempelh.-Schöneb.,Ansbacher Str. 041,10777,30.0
+1693,Tempelh.-Schöneb.,Schmargendorfer Str. 022,12159,64.0
+1694,Tempelh.-Schöneb.,Motzstr. 033,10777,170.0
+1695,Tempelh.-Schöneb.,Frankenstr. 012,10781,55.0
+1696,Tempelh.-Schöneb.,Wielandstr. 023,12159,28.0
+1697,Tempelh.-Schöneb.,Lauterstr. 026,12159,38.0
+1698,Tempelh.-Schöneb.,Kärntener Str. 011,10827,25.0
+1699,Tempelh.-Schöneb.,Pallasstr. 003,10781,30.0
+1700,Tempelh.-Schöneb.,Kurfürstenstr. 135,10785,90.0
+1701,Tempelh.-Schöneb.,Elßholzstr. 029-25,10781,150.0
+1702,Tempelh.-Schöneb.,Hohenfriedbergstr. 018,10829,23.0
+1703,Tempelh.-Schöneb.,Hähnelstr. 015A,12159,27.0
+1704,Tempelh.-Schöneb.,Wilhelmshöher Str. 009,12161,16.0
+1705,Tempelh.-Schöneb.,Ebersstr. 012A,10827,19.0
+1706,Tempelh.-Schöneb.,Handjerystr. 046,12161,100.0
+1707,Tempelh.-Schöneb.,Handjerystr. 060,12161,35.0
+1708,Tempelh.-Schöneb.,Eisenacher Str. 081,10823,60.0
+1709,Tempelh.-Schöneb.,Holsteinische Str. 030,12161,30.0
+1710,Tempelh.-Schöneb.,Naumannstr. 006,10829,25.0
+1711,Tempelh.-Schöneb.,Ebersstr. 068,10827,16.0
+1712,Tempelh.-Schöneb.,Naumannstr. 007links,10829,20.0
+1713,Tempelh.-Schöneb.,Sponholzstr. 051-52,12159,25.0
+1714,Tempelh.-Schöneb.,Monumentenstr. 013A,10829,65.0
+1715,Tempelh.-Schöneb.,Geisbergstr. 028,10777,32.0
+1716,Tempelh.-Schöneb.,Sponholzstr. 026,12159,20.0
+1717,Tempelh.-Schöneb.,Sieglindestr. 008,12159,15.0
+1718,Tempelh.-Schöneb.,Bamberger Str. 041,10779,25.0
+1719,Tempelh.-Schöneb.,Goßlerstr. 008,12161,70.0
+1720,Tempelh.-Schöneb.,Ceciliengärten 040,12159,25.0
+1721,Tempelh.-Schöneb.,Bautzener Str. 021,10829,33.0
+1722,Tempelh.-Schöneb.,Nollendorfstr. 031,10777,55.0
+1723,Tempelh.-Schöneb.,Boelckestr. 098104,12101,150.0
+1724,Tempelh.-Schöneb.,Bosestr. 012,12103,114.0
+1725,Tempelh.-Schöneb.,Marienhöher Weg 010,12105,61.0
+1726,Tempelh.-Schöneb.,Schwanheimer Str. 1-7,12099,85.0
+1727,Tempelh.-Schöneb.,Mariendorfer Damm 123,12109,170.0
+1728,Tempelh.-Schöneb.,Rathausstr. 084,12105,65.0
+1729,Tempelh.-Schöneb.,Stegerwaldstr. 050,12277,95.0
+1730,Tempelh.-Schöneb.,Domagkstr. 004,12277,117.0
+1731,Tempelh.-Schöneb.,Seelbuschring 019,12105,100.0
+1732,Tempelh.-Schöneb.,Finchleystr. 006,12305,140.0
+1733,Tempelh.-Schöneb.,Albulaweg 015,12107,216.0
+1734,Tempelh.-Schöneb.,Weilburgstr. 011,12309,180.0
+1735,Tempelh.-Schöneb.,Luckeweg 015,12279,206.0
+1736,Tempelh.-Schöneb.,Nahariyastr. 021,12309,190.0
+1737,Tempelh.-Schöneb.,Mariendorfer Damm 115,12109,188.0
+1738,Tempelh.-Schöneb.,Fritz-Werner-Str. 043,12107,190.0
+1739,Tempelh.-Schöneb.,Ringbahnstr. 047,12099,183.0
+1740,Tempelh.-Schöneb.,Albrechtstr. 105- 106,12103,164.0
+1741,Tempelh.-Schöneb.,Alt-Lichtenrade 107,12309,113.0
+1742,Tempelh.-Schöneb.,Badener Ring 027- 29,12101,90.0
+1743,Tempelh.-Schöneb.,Götzstr. 028,12099,70.0
+1744,Tempelh.-Schöneb.,Grimmingweg 001B,12107,69.0
+1745,Tempelh.-Schöneb.,Kirchstr. 031,12277,65.0
+1746,Tempelh.-Schöneb.,Rathausstr. 028,12105,100.0
+1747,Tempelh.-Schöneb.,Rixdorfer Str. 073,12109,160.0
+1748,Tempelh.-Schöneb.,Bäumerplan 023,12101,45.0
+1749,Tempelh.-Schöneb.,Emilienstr. 009,12277,65.0
+1750,Tempelh.-Schöneb.,Kaiserstr. 027/29,12105,50.0
+1751,Tempelh.-Schöneb.,Templerzeile 015,12099,85.0
+1752,Tempelh.-Schöneb.,Tennstedter Str. 002F,12249,135.0
+1753,Tempelh.-Schöneb.,Albrechtstr. 103,12103,90.0
+1754,Tempelh.-Schöneb.,Am Hellespont 002,12109,80.0
+1755,Tempelh.-Schöneb.,Groß-Ziethener Str. 082,12309,28.0
+1756,Tempelh.-Schöneb.,Groß-Ziethener Str. 090,12309,17.0
+1757,Tempelh.-Schöneb.,Groß-Ziethener Str. 096,12309,24.0
+1758,Tempelh.-Schöneb.,Nahariyastr. 045,12309,30.0
+1759,Tempelh.-Schöneb.,Alboinstr. 113,12105,16.0
+1760,Tempelh.-Schöneb.,Tirschenreuther Ring 069,12279,30.0
+1761,Tempelh.-Schöneb.,Friedrich-Wilhelm-Str. 020,12103,25.0
+1762,Tempelh.-Schöneb.,Friedrich-Wilhelm-Str. 087,12099,15.0
+1763,Tempelh.-Schöneb.,Friedrich-Wilhelm-Str. 089,12099,21.0
+1764,Tempelh.-Schöneb.,Lintruper Str. 057,12305,34.0
+1765,Tempelh.-Schöneb.,Homburgstr. 017,12309,21.0
+1766,Tempelh.-Schöneb.,Kurfürstenstr. 114,12105,18.0
+1767,Tempelh.-Schöneb.,Briesingstr. 030,12307,25.0
+1768,Tempelh.-Schöneb.,Großbeerenstr. 005,12107,19.0
+1769,Tempelh.-Schöneb.,Friedenfelser Str. 013,12279,39.0
+1770,Tempelh.-Schöneb.,Podewilsstr. 005,12103,26.0
+1771,Tempelh.-Schöneb.,Viktoriastr. 001,12105,25.0
+1772,Tempelh.-Schöneb.,Waldsassener Str. 050,12279,26.0
+1773,Tempelh.-Schöneb.,Alt-Lichtenrade 097,12309,72.0
+1774,Tempelh.-Schöneb.,Alt-Lichtenrade 100,12309,60.0
+1775,Tempelh.-Schöneb.,Hohenzollernstr. 015,12307,170.0
+1776,Tempelh.-Schöneb.,Platz der Luftbrücke 001Flughafen Tempelhof,12101,50.0
+1777,Tempelh.-Schöneb.,Griembergweg 029,12305,191.0
+1778,Tempelh.-Schöneb.,Lichtenrader Damm 190,12305,120.0
+1779,Tempelh.-Schöneb.,Ahrensdorfer Str. 031,12279,43.0
+1780,Tempelh.-Schöneb.,Goltzstr. 033,12307,28.0
+1781,Tempelh.-Schöneb.,Didostr. 001,12109,16.0
+1782,Tempelh.-Schöneb.,Burgemeisterstr. 030,12103,57.0
+1783,Tempelh.-Schöneb.,Manfred-von-Richthofen-Str. 03100,12101,205.0
+1784,Tempelh.-Schöneb.,Friedrich-Franz-Str. 012,12103,75.0
+1785,Tempelh.-Schöneb.,Ankogelweg 016,12107,100.0
+1786,Tempelh.-Schöneb.,Burgemeisterstr. 076,12103,26.0
+1787,Tempelh.-Schöneb.,Friedrich-Karl-Str. 003,12103,27.0
+1788,Tempelh.-Schöneb.,Pfarrer-Lütkehaus-Platz 001,12307,24.0
+1789,Tempelh.-Schöneb.,Burgemeisterstr. 032,12103,50.0
+1790,Tempelh.-Schöneb.,Rackebüller Weg 064,12305,23.0
+1791,Tempelh.-Schöneb.,Wintgensstr. 004,12101,20.0
+1792,Tempelh.-Schöneb.,Waldsassener Str. 009,12279,105.0
+1793,Tempelh.-Schöneb.,Schönburgstr. 012,12103,25.0
+1794,Tempelh.-Schöneb.,Zeißpfad 025,12305,35.0
+1795,Tempelh.-Schöneb.,Bruno-Möhring-Str. 007-9,12277,137.0
+1796,Tempelh.-Schöneb.,Stierstr. 007,12159,25.0
+1797,Tempelh.-Schöneb.,Titlisweg 060,12107,60.0
+1798,Tempelh.-Schöneb.,Blohmstr. 037,12307,78.0
+1799,Tempelh.-Schöneb.,Podewilsstr. 002,12103,15.0
+1800,Tempelh.-Schöneb.,Nahariyastr. 040,12309,24.0
+1801,Tempelh.-Schöneb.,Friedrich-Wilhelm-Str. 021,12103,25.0
+1802,Tempelh.-Schöneb.,Werderstr. 029,12103,25.0
+1803,Tempelh.-Schöneb.,Werderstr. 017,12105,12.0
+1804,Tempelh.-Schöneb.,Friedrich-Wilhelm-Str. 021,12103,27.0
+1805,Tempelh.-Schöneb.,Alt-Tempelhof 029,12103,60.0
+1806,Tempelh.-Schöneb.,Prühßstr. 030,12105,42.0
+1807,Tempelh.-Schöneb.,Attilastr. 061- 67,12105,30.0
+1808,Tempelh.-Schöneb.,Bäumerplan 026,12101,12.0
+1809,Tempelh.-Schöneb.,Kaiserin-Augusta-Str. 060,12103,40.0
+1810,Tempelh.-Schöneb.,Friedrich-Franz-Str. 039,12103,25.0
+1811,Tempelh.-Schöneb.,An der Dorfkirche 005,12277,68.0
+1812,Tempelh.-Schöneb.,Spirdingseestr. 003,12307,21.0
+1813,Tempelh.-Schöneb.,Machonstr. 054,12105,58.0
+1814,Tempelh.-Schöneb.,Manfred-von-Richthofen-Str. 015,12101,25.0
+1815,Tempelh.-Schöneb.,Bäumerplan 026,12101,30.0
+1816,Tempelh.-Schöneb.,Ringstr. 028,12105,110.0
+1817,Tempelh.-Schöneb.,Burgemeisterstr. 011,12103,227.0
+1818,Tempelh.-Schöneb.,Dudenstr. 017,10965,26.0
+1819,Tempelh.-Schöneb.,Mariendorfer Damm 334-336,12107,103.0
+1820,Tempelh.-Schöneb.,Kaiserin-Augusta-Str. 027,12103,45.0
+1821,Tempelh.-Schöneb.,Borussiastr. 007,12103,19.0
+1822,Tempelh.-Schöneb.,Hoeppnerstr. 104,12101,36.0
+1823,Tempelh.-Schöneb.,Schwebelstr. 022,12305,220.0
+1824,Tempelh.-Schöneb.,Bacharacher Str. 047,12099,71.0
+1825,Tempelh.-Schöneb.,Kunigundenstr. 001,12105,25.0
+1826,Tempelh.-Schöneb.,Machonstr. 030,12105,25.0
+1827,Tempelh.-Schöneb.,Kirchhainer Damm 011,12309,60.0
+1828,Tempelh.-Schöneb.,Friedrich-Karl-Str. 024,12103,27.0
+1829,Tempelh.-Schöneb.,Hildburghauser Str. 073,12279,80.0
+1830,Tempelh.-Schöneb.,Töpchiner Weg 127- 129,12309,136.0
+1831,Tempelh.-Schöneb.,Attilastr. 061- 67,12105,30.0
+1832,Tempelh.-Schöneb.,Friedenfelser Str. 011,12279,75.0
+1833,Tempelh.-Schöneb.,Tempelhofer Damm 096-98,12101,147.0
+1834,Tempelh.-Schöneb.,Alt-Lichtenrade 029,12305,24.0
+1835,Tempelh.-Schöneb.,Marienfelder Allee 203A,12279,70.0
+1836,Tempelh.-Schöneb.,Nuthestr. 018,12307,85.0
+1837,Tempelh.-Schöneb.,Mariendorfer Damm 444,12107,32.0
+1838,Tempelh.-Schöneb.,Alt-Tempelhof 005,12099,100.0
+1839,Tempelh.-Schöneb.,Am Lokdepot 016-18,10965,50.0
+1840,Tempelh.-Schöneb.,Alt-Mariendorf 025,12107,36.0
+1841,Tempelh.-Schöneb.,Steinstr. 011,12307,120.0
+1842,Tempelh.-Schöneb.,Burgemeisterstr. 012,12103,76.0
+1843,Tempelh.-Schöneb.,Ringelnatzstr. 010,12305,60.0
+1844,Tempelh.-Schöneb.,Skarbinastr. 082,12309,23.0
+1845,Tempelh.-Schöneb.,Friedenfelser Str. 035,12279,22.0
+1846,Tempelh.-Schöneb.,Alt-Marienfelde 054,12277,60.0
+1847,Tempelh.-Schöneb.,Körtingstr. 045,12107,15.0
+1848,Tempelh.-Schöneb.,Kirchhainer Damm 074,12309,12.0
+1849,Tempelh.-Schöneb.,Colditzstr. 032,12099,35.0
+1850,Tempelh.-Schöneb.,Kurfürstenstr. 032-33,12105,60.0
+1851,Tempelh.-Schöneb.,Friedrich-Wilhelm-Str. 010-11,12099,48.0
+1852,Tempelh.-Schöneb.,Alt-Mariendorf 047A,12107,20.0
+1853,Tempelh.-Schöneb.,Tirschenreuther Ring 069,12279,40.0
+1854,Tempelh.-Schöneb.,Freiertweg 012,12305,31.0
+1855,Tempelh.-Schöneb.,Töpchiner Weg 127-129,12309,136.0
+1856,Tempelh.-Schöneb.,Kurfürstenstr. 048a,12105,22.0
+1857,Neukölln,Bornsdorfer Str. 037B,12053,99.0
+1858,Neukölln,Bornsdorfer Str. 014,12053,112.0
+1859,Neukölln,Donaustr. 088,12043,130.0
+1860,Neukölln,Drosselbartstr. 006,12057,73.0
+1861,Neukölln,Lichtenrader Str. 006,12049,141.0
+1862,Neukölln,Pflügerstr. 047,12045,137.0
+1863,Neukölln,Uthmannstr. 017,12043,175.0
+1864,Neukölln,Grüner Weg 056,12359,80.0
+1865,Neukölln,Holzmindener Str. 023,12347,168.0
+1866,Neukölln,Wesenberger Ring 013,12359,93.0
+1867,Neukölln,Zwickauer Damm 024,12353,136.0
+1868,Neukölln,Wutzkyallee 090,12353,158.0
+1869,Neukölln,Wildenbruchstr. 025,12045,160.0
+1870,Neukölln,Wildhüterweg 008,12353,105.0
+1871,Neukölln,Flurweg 077,12357,114.0
+1872,Neukölln,Reuterstr. 073,12043,210.0
+1873,Neukölln,Neudecker Weg 084,12355,188.0
+1874,Neukölln,Silbersteinstr. 121,12051,140.0
+1875,Neukölln,Mariendorfer Weg 008,12051,80.0
+1876,Neukölln,Paster-Behrens-Str. 081,12359,115.0
+1877,Neukölln,Hänselstr. 006,12057,184.0
+1878,Neukölln,An den Achterhöfen 001,12349,135.0
+1879,Neukölln,Briesestr. 073-75,12053,280.0
+1880,Neukölln,Rütlistr. 007,12045,106.0
+1881,Neukölln,Böhmische Str. 001,12055,140.0
+1882,Neukölln,Weserstr. 106,12059,125.0
+1883,Neukölln,Riesestr. 002-4,12347,179.0
+1884,Neukölln,Allerstr. 044,12049,31.0
+1885,Neukölln,Allerstr. 033,12049,70.0
+1886,Neukölln,Fulhamer Allee 053,12359,80.0
+1887,Neukölln,Donaustr. 066,12043,85.0
+1888,Neukölln,Fritz-Reuter-Allee 136,12359,90.0
+1889,Neukölln,Fuldastr. 048,12045,50.0
+1890,Neukölln,Martin-Luther-King-Weg 007,12351,150.0
+1891,Neukölln,Bruno-Bauer-Str. 014,12051,90.0
+1892,Neukölln,Karl-Marx-Str. 197,12055,135.0
+1893,Neukölln,Lipschitzallee 023,12351,160.0
+1894,Neukölln,Nansenstr. 027,12047,100.0
+1895,Neukölln,Neudecker Weg 033,12355,140.0
+1896,Neukölln,Sonnenallee 311,12057,115.0
+1897,Neukölln,Alt-Britz 041,12359,50.0
+1898,Neukölln,Alt-Rudow 046,12357,76.0
+1899,Neukölln,Bendastr. 006,12051,30.0
+1900,Neukölln,Bruno-Taut-Ring 009G,12359,30.0
+1901,Neukölln,Kienitzer Str. 018,12053,65.0
+1902,Neukölln,Lipschitzallee 074,12353,62.0
+1903,Neukölln,Nansenstr. 007,12047,75.0
+1904,Neukölln,Schudomastr. 015,12055,75.0
+1905,Neukölln,Korbmacherweg 033,12355,145.0
+1906,Neukölln,Weisestr. 025,12049,45.0
+1907,Neukölln,Weserstr. 198,12045,120.0
+1908,Neukölln,Donaustr. 114,12043,15.0
+1909,Neukölln,Wissmannstr. 045,12049,18.0
+1910,Neukölln,Weichselstr. 021,12045,29.0
+1911,Neukölln,Hanne Nüte 001,12359,22.0
+1912,Neukölln,Friedelstr. 022,12047,15.0
+1913,Neukölln,Mainzer Str. 005,12053,15.0
+1914,Neukölln,Maybachufer 039,12047,20.0
+1915,Neukölln,Schillerpromenade 029,12049,18.0
+1916,Neukölln,Neuköllner Str. 312,12357,49.0
+1917,Neukölln,Kranoldstr. 009,12051,28.0
+1918,Neukölln,Lipschitzallee 038,12353,32.0
+1919,Neukölln,Hobrechtstr. 017,12047,15.0
+1920,Neukölln,Niemetzstr. 011,12055,25.0
+1921,Neukölln,Jansastr. 014,12045,20.0
+1922,Neukölln,Schlierbacher Weg 018,12349,32.0
+1923,Neukölln,Schöneweider Str. 020,12055,28.0
+1924,Neukölln,Erlanger Str. 006,12053,50.0
+1925,Neukölln,Dora-Mendler-Str. 002A,12355,57.0
+1926,Neukölln,Weichselstr. 038,12045,35.0
+1927,Neukölln,Lichtenrader Str. 011,12049,16.0
+1928,Neukölln,Weserstr. 079,12059,15.0
+1929,Neukölln,Wissmannstr. 045,12049,14.0
+1930,Neukölln,Nogatstr. 019,12051,27.0
+1931,Neukölln,Schierker Str. 053,12051,18.0
+1932,Neukölln,Weisestr. 004,12049,21.0
+1933,Neukölln,Warthestr. 056,12051,63.0
+1934,Neukölln,Pannierstr. 006,12047,55.0
+1935,Neukölln,Stubenrauchstr. 115,12357,15.0
+1936,Neukölln,Nogatstr. 024,12051,21.0
+1937,Neukölln,Herrfurthplatz 004,12049,20.0
+1938,Neukölln,Möwenweg 021,12359,36.0
+1939,Neukölln,Weserstr. 026,12045,47.0
+1940,Neukölln,Friedelstr. 035,12047,22.0
+1941,Neukölln,Emser Str. 081-82,12051,170.0
+1942,Neukölln,Nogatstr. 040,12051,40.0
+1943,Neukölln,Wissmannstr. 020,12049,17.0
+1944,Neukölln,Weichselstr. 022,12045,29.0
+1945,Neukölln,Selchower Str. 028,12049,35.0
+1946,Neukölln,Buckower Damm 192,12349,105.0
+1947,Neukölln,Künheimer Weg 007-009,12349,158.0
+1948,Neukölln,Groß-Ziethener Chaussee 144,12355,106.0
+1949,Neukölln,Ortolanweg 094,12359,115.0
+1950,Neukölln,Finowstr. 008,12045,33.0
+1951,Neukölln,Weserstr. 212,12047,20.0
+1952,Neukölln,Kanner Str. 005,12055,16.0
+1953,Neukölln,Mohriner Allee 067,12347,40.0
+1954,Neukölln,Straße 614 024,12347,170.0
+1955,Neukölln,Pannierstr. 010,12047,62.0
+1956,Neukölln,Reuterstr. 081,12053,49.0
+1957,Neukölln,Wissmannstr. 031,12049,25.0
+1958,Neukölln,Boddinstr. 005,12053,22.0
+1959,Neukölln,Kranoldstr. 001,12051,54.0
+1960,Neukölln,Weisestr. 028,12049,62.0
+1961,Neukölln,Weserstr. 155,12045,70.0
+1962,Neukölln,Pflügerstr. 057,12047,25.0
+1963,Neukölln,Innstr. 035,12045,46.0
+1964,Neukölln,Wissmannstr. 033,12049,216.0
+1965,Neukölln,Emser Str. 019,12051,52.0
+1966,Neukölln,Warthestr. 071,12051,30.0
+1967,Neukölln,Zwiestädter Str. 002,12055,28.0
+1968,Neukölln,Mareschstr. 018,12055,34.0
+1969,Neukölln,Karlsgartenstr. 004,12049,36.0
+1970,Neukölln,Jeanette-Wolff-Str. 013,12355,105.0
+1971,Neukölln,Ursulinenstr. 027,12355,100.0
+1972,Neukölln,Buckower Damm 059,12349,20.0
+1973,Neukölln,Fritz-Reuter-Allee 130,12359,15.0
+1974,Neukölln,Marienfelder Chaussee 066,12349,19.0
+1975,Neukölln,Bruno-Bauer-Str. 017,12051,40.0
+1976,Neukölln,Nogatstr. 005,12051,40.0
+1977,Neukölln,Sandsteinweg 025A,12349,32.0
+1978,Neukölln,Fuldastr. 037,12045,22.0
+1979,Neukölln,Kranoldstr. 001A,12051,18.0
+1980,Neukölln,Altenbraker Str. 010,12053,30.0
+1981,Neukölln,Glasower Str. 018,12051,156.0
+1982,Neukölln,Ulrich-von-Hassell-Weg 004,12353,130.0
+1983,Neukölln,Juchaczweg 011,12351,136.0
+1984,Neukölln,Kanner Str. 012,12055,98.0
+1985,Neukölln,Landreiterweg 055,12353,140.0
+1986,Neukölln,Michel-Klinitz-Weg 018,12349,104.0
+1987,Neukölln,Köpenicker Str. 154,12355,155.0
+1988,Neukölln,Knollstr. 073,12355,90.0
+1989,Neukölln,Berthelsdorfer Str. 011,12043,20.0
+1990,Neukölln,Fuldastr. 050,12045,20.0
+1991,Neukölln,Parchimer Allee 002,12359,151.0
+1992,Neukölln,Hermannstr. 135A,12051,115.0
+1993,Neukölln,Böhmische Str. 039,12055,69.0
+1994,Neukölln,Treptower Str. 032A,12059,200.0
+1995,Neukölln,Warthestr. 062A,12051,110.0
+1996,Neukölln,Fulhamer Allee 001,12359,184.0
+1997,Neukölln,Parksiedlung Spruch 111,12349,130.0
+1998,Neukölln,Aronsstr. 134,12057,130.0
+1999,Neukölln,Bohm-Schuch-Weg 009,12351,140.0
+2000,Neukölln,Kirschnerweg 029,12353,105.0
+2001,Neukölln,Drusenheimer Weg 043,12349,129.0
+2002,Neukölln,Joachim-Gottschalk-Weg 041,12353,93.0
+2003,Neukölln,Wederstr. 087-89,12347,30.0
+2004,Neukölln,Kienitzer Str. 104,12049,30.0
+2005,Neukölln,Quarzweg 116,12349,102.0
+2006,Neukölln,Bendastr. 021,12051,30.0
+2007,Neukölln,Wissmannstr. 004,12049,19.0
+2008,Neukölln,Karl-Marx-Str. 146,12043,54.0
+2009,Neukölln,Schandauer Str. 008,12045,24.0
+2010,Neukölln,Nogatstr. 045,12051,20.0
+2011,Neukölln,Mahlower Str. 024,12049,25.0
+2012,Neukölln,Warthestr. 013,12051,20.0
+2013,Neukölln,Michael-Bohnen-Ring 052,12057,80.0
+2014,Neukölln,Jonasstr. 031,12053,39.0
+2015,Neukölln,Weisestr. 026,12049,23.0
+2016,Neukölln,Maybachufer 005,12047,22.0
+2017,Neukölln,Anzengruberstr. 015,12043,20.0
+2018,Neukölln,Elly-Heuss-Knapp-Str. 021,12355,22.0
+2019,Neukölln,Schierker Str. 030,12051,25.0
+2020,Neukölln,Allerstr. 037,12049,44.0
+2021,Neukölln,Emser Str. 085,12051,25.0
+2022,Neukölln,Hobrechtstr. 008,12043,70.0
+2023,Neukölln,Bruno-Bauer-Str. 022,12051,17.0
+2024,Neukölln,Wesenberger Ring 001,12359,50.0
+2025,Neukölln,Mohriner Allee 096,12347,33.0
+2026,Neukölln,Uthmannstr. 018,12043,22.0
+2027,Neukölln,Harzer Str. 003,12059,20.0
+2028,Neukölln,Böhmische Str. 027,12055,25.0
+2029,Neukölln,Reuterstr. 037,12047,20.0
+2030,Neukölln,Neuköllner Str. 226,12357,25.0
+2031,Neukölln,Bruno-Bauer-Str. 022links,12051,26.0
+2032,Neukölln,Lipschitzallee 072,12353,58.0
+2033,Neukölln,Britzer Damm 101,12347,27.0
+2034,Neukölln,Kienitzer Str. 099,12049,22.0
+2035,Neukölln,Germaniapromenade 008,12347,40.0
+2036,Neukölln,Braunschweiger Str. 057,12055,27.0
+2037,Neukölln,Buschkrugallee 031/31A,12359,44.0
+2038,Neukölln,Schierker Str. 057,12051,100.0
+2039,Neukölln,Prierosser Str. 070- 72,12355,90.0
+2040,Neukölln,Alt-Buckow 039,12349,50.0
+2041,Neukölln,Mahlower Str. 023,12049,65.0
+2042,Neukölln,Karl-Marx-Str. 188,12043,122.0
+2043,Neukölln,Buschkrugallee 023,12359,45.0
+2044,Neukölln,Schierker Str. 020,12051,15.0
+2045,Neukölln,Berthelsdorfer Str. 014,12043,40.0
+2046,Neukölln,Delbrückstr. 058,12051,25.0
+2047,Neukölln,Maybachufer 011,12047,20.0
+2048,Neukölln,Warthestr. 015,12051,17.0
+2049,Neukölln,Germaniapromenade 010,12347,80.0
+2050,Neukölln,Weserstr. 162,12045,20.0
+2051,Neukölln,Fritz-Reuter-Allee 173,12359,40.0
+2052,Neukölln,Treptower Str. 068,12059,25.0
+2053,Neukölln,Emser Str. 077,12051,25.0
+2054,Neukölln,Hobrechtstr. 032,12047,90.0
+2055,Neukölln,Jahnstr. 085,12347,32.0
+2056,Neukölln,Mainzer Str. 017,12053,25.0
+2057,Neukölln,Hermannstr. 224,12049,22.0
+2058,Neukölln,Donaustr. 006,12043,20.0
+2059,Neukölln,Schudomastr. 007- 8,12055,25.0
+2060,Neukölln,Innstr. 044,12045,12.0
+2061,Neukölln,Hirtsieferzeile 039,12351,27.0
+2062,Neukölln,Britzer Damm 146,12347,70.0
+2063,Neukölln,Emser Str. 079,12051,25.0
+2064,Neukölln,Kienitzer Str. 016,12053,22.0
+2065,Neukölln,Michael-Bohnen-Ring 018,12057,120.0
+2066,Neukölln,Fritz-Erler-Allee 026- 27,12351,50.0
+2067,Neukölln,Agnes-Straub-Weg 020- 22,12353,65.0
+2068,Neukölln,Johannisthaler Chaussee 392,12351,30.0
+2069,Neukölln,Lieselotte-Berger-Str. 019,12355,28.0
+2070,Neukölln,Joachim-Gottschalk-Weg 003,12353,35.0
+2071,Neukölln,Alt-Rudow 057a,12357,26.0
+2072,Neukölln,Britzer Damm 058,12347,80.0
+2073,Neukölln,Selgenauer Weg 001A,12355,120.0
+2074,Neukölln,Teupitzer Str. 039,12059,60.0
+2075,Neukölln,Kopfstr. 061,12053,20.0
+2076,Neukölln,Glasower Str. 053,12051,25.0
+2077,Neukölln,Thomasstr. 067,12053,18.0
+2078,Neukölln,Donaustr. 120,12043,15.0
+2079,Neukölln,Pätzer Str. 017,12359,20.0
+2080,Neukölln,Maybachufer 037,12047,25.0
+2081,Neukölln,Jonasstr. 032,12053,36.0
+2082,Neukölln,Lenaustr. 012,12047,28.0
+2083,Neukölln,Mainzer Str. 015,12053,23.0
+2084,Neukölln,Bruno-Bauer-Str. 022,12051,12.0
+2085,Neukölln,Haarlemer Str. 089,12359,12.0
+2086,Treptow-Köpenick,Adlergestell 133,12439,40.0
+2087,Treptow-Köpenick,Ortolfstr. 095,12524,30.0
+2088,Treptow-Köpenick,Köpenicker Landstr. 246,12437,30.0
+2089,Treptow-Köpenick,Orionstr. 040,12435,75.0
+2090,Treptow-Köpenick,Am Treptower Park 076/77,12435,180.0
+2091,Treptow-Köpenick,Dornbrunner Str. 017,12437,75.0
+2092,Treptow-Köpenick,Tiburtiusstr. 014,12524,140.0
+2093,Treptow-Köpenick,Engelhardstr. 010,12487,84.0
+2094,Treptow-Köpenick,Martin-Hoffmann-Str. 012,12435,76.0
+2095,Treptow-Köpenick,Helbigstr. 031,12489,50.0
+2096,Treptow-Köpenick,Pfingstberggasse 002,12489,75.0
+2097,Treptow-Köpenick,Am Studio 005,12489,103.0
+2098,Treptow-Köpenick,Regattastr. 130,12527,50.0
+2099,Treptow-Köpenick,Buntzelstr. 098,12526,113.0
+2100,Treptow-Köpenick,Richterstr. 002A,12524,105.0
+2101,Treptow-Köpenick,Köllnische Str. 008,12439,50.0
+2102,Treptow-Köpenick,Sterndamm 214,12487,180.0
+2103,Treptow-Köpenick,Südostallee 214A,12487,266.0
+2104,Treptow-Köpenick,Venusstr. 059,12524,118.0
+2105,Treptow-Köpenick,Puschkinallee 010,12435,240.0
+2106,Treptow-Köpenick,Am Treptower Park 070Postadresse: nur Trägeradresse,12435,26.0
+2107,Treptow-Köpenick,Bouchéstr. 025A,12435,125.0
+2108,Treptow-Köpenick,Johanna-Tesch-Str. 020,12439,90.0
+2109,Treptow-Köpenick,Köpenicker Str. 035,12524,56.0
+2110,Treptow-Köpenick,Teutonenstr. 054,12524,47.0
+2111,Treptow-Köpenick,Uranusstr. 019,12524,180.0
+2112,Treptow-Köpenick,Heidemühler Weg 037/ 39,12437,127.0
+2113,Treptow-Köpenick,Neptunstr. 010,12526,50.0
+2114,Treptow-Köpenick,Johanna-Tesch-Str. 032,12439,55.0
+2115,Treptow-Köpenick,Porzer Str. 123,12524,90.0
+2116,Treptow-Köpenick,Nippeser Str. 020,12524,118.0
+2117,Treptow-Köpenick,Zur Gartenstadt 239,12526,125.0
+2118,Treptow-Köpenick,Müggelseedamm 245,12587,30.0
+2119,Treptow-Köpenick,Dahmestr. 004,12526,31.0
+2120,Treptow-Köpenick,Tulpenweg 039,12524,23.0
+2121,Treptow-Köpenick,Gustelstr. 020E,12524,101.0
+2122,Treptow-Köpenick,Sterndamm 041,12487,62.0
+2123,Treptow-Köpenick,Grimaustr. 035,12439,150.0
+2124,Treptow-Köpenick,Platanenweg 065,12437,90.0
+2125,Treptow-Köpenick,Dammweg 155-157,12437,150.0
+2126,Treptow-Köpenick,Zinsgutstr. 038,12489,70.0
+2127,Treptow-Köpenick,Heidekampweg 103,12437,155.0
+2128,Treptow-Köpenick,Rudower Str. 045,12524,85.0
+2129,Treptow-Köpenick,Springbornstr. 088,12487,91.0
+2130,Treptow-Köpenick,Moosstr. 057,12439,100.0
+2131,Treptow-Köpenick,Büchnerweg 058,12489,200.0
+2132,Treptow-Köpenick,Radickestr. 025,12489,83.0
+2133,Treptow-Köpenick,Puderstr. 021,12435,40.0
+2134,Treptow-Köpenick,Rodelbergweg 002,12437,25.0
+2135,Treptow-Köpenick,Melli-Beese-Str. 030,12487,95.0
+2136,Treptow-Köpenick,Atlantisring 025,12526,50.0
+2137,Treptow-Köpenick,Rudower Str. 054,12524,32.0
+2138,Treptow-Köpenick,Am Treptower Park 037,12435,20.0
+2139,Treptow-Köpenick,Karl-Kunger-Str. 059,12435,20.0
+2140,Treptow-Köpenick,Königsheideweg 285,12487,74.0
+2141,Treptow-Köpenick,Ortolfstr. 164,12524,130.0
+2142,Treptow-Köpenick,Elsenstr. 025,12435,27.0
+2143,Treptow-Köpenick,Kiefholzstr. 269,12437,40.0
+2144,Treptow-Köpenick,Behringstr. 033,12437,35.0
+2145,Treptow-Köpenick,Sterndamm 109,12487,45.0
+2146,Treptow-Köpenick,Am Haselbusch 002,12487,64.0
+2147,Treptow-Köpenick,Semmelweisstr. 010,12524,45.0
+2148,Treptow-Köpenick,Hartriegelstr. 077,12439,45.0
+2149,Treptow-Köpenick,Hans-Schmidt-Str. 014A,12489,100.0
+2150,Treptow-Köpenick,Grünauer Str. 060,12524,33.0
+2151,Treptow-Köpenick,Lindenblütenstr. 026,12526,41.0
+2152,Treptow-Köpenick,Elsenstr. 102A,12435,45.0
+2153,Treptow-Köpenick,Schönefelder Chaussee 187A,12524,180.0
+2154,Treptow-Köpenick,Groß-Berliner Damm 033- 37,12487,35.0
+2155,Treptow-Köpenick,Besenbinderstr. 002,12524,20.0
+2156,Treptow-Köpenick,Ernststr. 004- 8,12437,40.0
+2157,Treptow-Köpenick,Friedenstr. 014,12489,22.0
+2158,Treptow-Köpenick,Abram-Joffe-Str. 018,12489,30.0
+2159,Treptow-Köpenick,Baumschulenstr. 103,12437,30.0
+2160,Treptow-Köpenick,Heidekampweg 045A,12437,40.0
+2161,Treptow-Köpenick,Brückenstr. 024,12439,31.0
+2162,Treptow-Köpenick,Schraderstr. 012,12437,25.0
+2163,Treptow-Köpenick,Mörikestr. 002,12437,18.0
+2164,Treptow-Köpenick,Wildenbruchstr. 041,12435,25.0
+2165,Treptow-Köpenick,Brückenstr. 008,12439,39.0
+2166,Treptow-Köpenick,Elsenstr. 041,12435,25.0
+2167,Treptow-Köpenick,Radickestr. 048,12489,25.0
+2168,Treptow-Köpenick,Straße am Flugplatz 038,12487,129.0
+2169,Treptow-Köpenick,Dörpfeldstr. 027- 29,12489,70.0
+2170,Treptow-Köpenick,Eschenbachstr. 002,12437,22.0
+2171,Treptow-Köpenick,Brückenstr. 004,12439,16.0
+2172,Treptow-Köpenick,Winckelmannstr. 070,12487,29.0
+2173,Treptow-Köpenick,Am Treptower Park 070,12435,18.0
+2174,Treptow-Köpenick,Siriusstr. 017-21,12524,50.0
+2175,Treptow-Köpenick,Lindhorstweg 034,12487,25.0
+2176,Treptow-Köpenick,Goethestr. 008,12526,40.0
+2177,Treptow-Köpenick,Adlergestell 592,12527,80.0
+2178,Treptow-Köpenick,Alfred-Randt-Str. 015/17,12559,170.0
+2179,Treptow-Köpenick,Friedrichshagener Str. 008,12555,137.0
+2180,Treptow-Köpenick,Alt-Müggelheim 010/ Krampenburger Weg 2,12559,90.0
+2181,Treptow-Köpenick,An der Wuhlheide 180/ Ostendstraße 15,12459,128.0
+2182,Treptow-Köpenick,Bölschestr. 029,12587,73.0
+2183,Treptow-Köpenick,Dregerhoffstr. 066,12557,80.0
+2184,Treptow-Köpenick,Friedrichshagener Str. 005,12555,90.0
+2185,Treptow-Köpenick,Zu den sieben Raben 015,12555,16.0
+2186,Treptow-Köpenick,Erknerstr. 046,12589,60.0
+2187,Treptow-Köpenick,Griechische Allee 021/25,12459,183.0
+2188,Treptow-Köpenick,Grüne Trift 138,12557,150.0
+2189,Treptow-Köpenick,Müggelwerderweg 003,12589,44.0
+2190,Treptow-Köpenick,Kaulsdorfer Str. 313/315,12555,155.0
+2191,Treptow-Köpenick,Stellingdamm 006,12555,19.0
+2192,Treptow-Köpenick,Mahlower Str. 005 / 007,12557,135.0
+2193,Treptow-Köpenick,Ostendorfstr. 034,12557,32.0
+2194,Treptow-Köpenick,Otto-Krüger-Zeile 004,12459,132.0
+2195,Treptow-Köpenick,Scharnweberstr. 056,12587,45.0
+2196,Treptow-Köpenick,Ottomar-Geschke-Str. 013-15,12555,200.0
+2197,Treptow-Köpenick,Goethestr. 002,12459,30.0
+2198,Treptow-Köpenick,Ottomar-Geschke-Str. 081,12555,85.0
+2199,Treptow-Köpenick,Pablo-Neruda-Str. 012,12559,152.0
+2200,Treptow-Köpenick,Peter-Hille-Str. 004,12587,75.0
+2201,Treptow-Köpenick,Rudower Str. 060,12557,80.0
+2202,Treptow-Köpenick,Fürstenwalder Allee 178,12589,110.0
+2203,Treptow-Köpenick,Stillerzeile 136-138,12587,220.0
+2204,Treptow-Köpenick,Spitzerstr. 008,12557,76.0
+2205,Treptow-Köpenick,Uhlenhorster Str. 027,12555,95.0
+2206,Treptow-Köpenick,Wassersportallee 004,12527,50.0
+2207,Treptow-Köpenick,Salvador-Allende-Str. 047-49,12559,130.0
+2208,Treptow-Köpenick,Peter-Hille-Str. 099,12587,75.0
+2209,Treptow-Köpenick,Alt-Schmöckwitz 001,12527,35.0
+2210,Treptow-Köpenick,Am Generalshof 001A,12555,40.0
+2211,Treptow-Köpenick,Griechische Allee 059,12459,51.0
+2212,Treptow-Köpenick,Joachimstr. 011,12555,62.0
+2213,Treptow-Köpenick,Püttbergeweg 084,12589,43.0
+2214,Treptow-Köpenick,Rudower Str. 023,12557,28.0
+2215,Treptow-Köpenick,Weiskopffstr. 012-13,12459,130.0
+2216,Treptow-Köpenick,Wattstr. 014,12459,30.0
+2217,Treptow-Köpenick,Emrichstr. 051,12587,76.0
+2218,Treptow-Köpenick,Landjägerstr. 007/9,12555,190.0
+2219,Treptow-Köpenick,Wirsitzer Weg 002-004,12555,200.0
+2220,Treptow-Köpenick,Otto-Krüger-Zeile 006,12459,95.0
+2221,Treptow-Köpenick,Waldstr. 008,12589,50.0
+2222,Treptow-Köpenick,Fürstenwalder Allee 115,12589,54.0
+2223,Treptow-Köpenick,Baderseestr. 001-5,12527,153.0
+2224,Treptow-Köpenick,Drachholzstr. 002,12587,18.0
+2225,Treptow-Köpenick,Adlergestell 776,12527,27.0
+2226,Treptow-Köpenick,Köpenzeile 125,12557,75.0
+2227,Treptow-Köpenick,Peter-Hille-Str. 026,12587,96.0
+2228,Treptow-Köpenick,Karolinenhofweg 003,12527,35.0
+2229,Treptow-Köpenick,Bölschestr. 091A,12587,40.0
+2230,Treptow-Köpenick,Peter-Hille-Str. 030,12587,70.0
+2231,Treptow-Köpenick,Rudower Str. 037-39,12557,67.0
+2232,Treptow-Köpenick,Kietzer Str. 005,12555,30.0
+2233,Treptow-Köpenick,Müggelheimer Str. 045,12555,24.0
+2234,Treptow-Köpenick,Landjägerstr. 011,12555,84.0
+2235,Treptow-Köpenick,Wilhelminenhofstr. 045A/B,12459,28.0
+2236,Treptow-Köpenick,An der Wuhlheide 232B,12459,76.0
+2237,Treptow-Köpenick,Alfred-Randt-Str. 060,12559,20.0
+2238,Treptow-Köpenick,An der Wuhlheide 171,12459,18.0
+2239,Treptow-Köpenick,Fürstenwalder Damm 474,12587,80.0
+2240,Treptow-Köpenick,Mandrellaplatz 009,12555,20.0
+2241,Treptow-Köpenick,Lindenstr. 035,12555,41.0
+2242,Treptow-Köpenick,Köpenicker Str. 325/Haus 216,12555,40.0
+2243,Treptow-Köpenick,Jägerstr. 005,12555,25.0
+2244,Treptow-Köpenick,Lindenstr. 026,12555,24.0
+2245,Treptow-Köpenick,Kaulsdorfer Str. 245,12555,23.0
+2246,Treptow-Köpenick,Edisonstr. 019,12459,45.0
+2247,Treptow-Köpenick,Hämmerlingstr. 101,12555,18.0
+2248,Treptow-Köpenick,Rathenaustr. 015,12459,33.0
+2249,Treptow-Köpenick,Müggellandstr. 008- 10,12559,65.0
+2250,Treptow-Köpenick,Siemensstr. 014,12459,50.0
+2251,Treptow-Köpenick,An der Wuhlheide 173,12459,15.0
+2252,Treptow-Köpenick,Erknerstr. 039,12589,33.0
+2253,Treptow-Köpenick,Puchanstr. 017/19,12555,135.0
+2254,Treptow-Köpenick,Wilhelminenhofstr. 041,12459,28.0
+2255,Treptow-Köpenick,Schönerlinder Str. 001,12557,36.0
+2256,Treptow-Köpenick,Stillerzeile 044,12587,63.0
+2257,Treptow-Köpenick,Wilhelminenhofstr. 021,12459,50.0
+2258,Treptow-Köpenick,Schönblicker Str. 002,12589,27.0
+2259,Treptow-Köpenick,Regattastr. 060,12527,25.0
+2260,Treptow-Köpenick,Triglawstr. 008,12589,45.0
+2261,Treptow-Köpenick,Wilhelminenhofstr. 047B,12459,38.0
+2262,Treptow-Köpenick,Wendenschloßstr. 114,12557,40.0
+2263,Treptow-Köpenick,Müggelheimer Str. 022,12555,27.0
+2264,Treptow-Köpenick,Edisonstr. 019,12459,15.0
+2265,Treptow-Köpenick,Plönzeile 044,12459,32.0
+2266,Treptow-Köpenick,Ludwigshöheweg 018,12559,80.0
+2267,Treptow-Köpenick,Alter Markt 011,12555,55.0
+2268,Treptow-Köpenick,Lindenstr. 007,12555,85.0
+2269,Treptow-Köpenick,Friedenstr. 008,12489,20.0
+2270,Treptow-Köpenick,Teichmummelring 077,12527,75.0
+2271,Treptow-Köpenick,Wendenschloßstr. 143-145,12557,90.0
+2272,Marzahn-Hellersd.,Altlandsberger Platz 004,12685,110.0
+2273,Marzahn-Hellersd.,Krummenseer Str. 013,12685,30.0
+2274,Marzahn-Hellersd.,Allee der Kosmonauten 073,12681,200.0
+2275,Marzahn-Hellersd.,Distelfalterstr. 041,12683,144.0
+2276,Marzahn-Hellersd.,Braunsdorfstr. 011,12683,38.0
+2277,Marzahn-Hellersd.,Bruno-Baum-Str. 058-60,12685,235.0
+2278,Marzahn-Hellersd.,Allee der Kosmonauten 079,12681,36.0
+2279,Marzahn-Hellersd.,Belziger Ring 055,12689,180.0
+2280,Marzahn-Hellersd.,Annenstr. 033,12683,31.0
+2281,Marzahn-Hellersd.,Rosenbecker Str. 025/27,12689,105.0
+2282,Marzahn-Hellersd.,Glambecker Ring 080- 82,12679,155.0
+2283,Marzahn-Hellersd.,Garzauer Str. 029,12683,170.0
+2284,Marzahn-Hellersd.,Beethovenstr. 029,12683,49.0
+2285,Marzahn-Hellersd.,Dessauer Str. 004A,12689,85.0
+2286,Marzahn-Hellersd.,Raoul-Wallenberg-Str. 052,12679,24.0
+2287,Marzahn-Hellersd.,Golliner Str. 004- 6,12689,60.0
+2288,Marzahn-Hellersd.,Grabensprung 051,12683,100.0
+2289,Marzahn-Hellersd.,Brebacher Weg 015Haus 50,12683,80.0
+2290,Marzahn-Hellersd.,Murtzaner Ring 070-72,12681,180.0
+2291,Marzahn-Hellersd.,Elsterwerdaer Platz 001,12683,60.0
+2292,Marzahn-Hellersd.,Sella-Hasse-Str. 019/21,12687,85.0
+2293,Marzahn-Hellersd.,Flämingstr. 014,12689,70.0
+2294,Marzahn-Hellersd.,Marzahner Chaussee 207,12681,120.0
+2295,Marzahn-Hellersd.,Oberfeldstr. 190,12683,65.0
+2296,Marzahn-Hellersd.,Langhoffstr. 017,12681,196.0
+2297,Marzahn-Hellersd.,Schleusinger Str. 008,12687,45.0
+2298,Marzahn-Hellersd.,Wuhletalstr. 070,12687,45.0
+2299,Marzahn-Hellersd.,Märkische Allee 414,12689,30.0
+2300,Marzahn-Hellersd.,Rudolf-Leonhard-Str. 010,12679,107.0
+2301,Marzahn-Hellersd.,Marzahner Promenade 042,12679,53.0
+2302,Marzahn-Hellersd.,Otto-Nagel-Str. 057,12683,15.0
+2303,Marzahn-Hellersd.,Oberfeldstr. 038,12683,45.0
+2304,Marzahn-Hellersd.,Amanlisweg 008,12685,55.0
+2305,Marzahn-Hellersd.,Fridolinweg 066,12683,47.0
+2306,Marzahn-Hellersd.,Jan-Petersen-Str. 018,12679,105.0
+2307,Marzahn-Hellersd.,Blumberger Damm 163/165,12685,15.0
+2308,Marzahn-Hellersd.,Allee der Kosmonauten 067,12681,18.0
+2309,Marzahn-Hellersd.,Irmfriedstr. 064,12683,29.0
+2310,Marzahn-Hellersd.,Marzahner Promenade 041,12679,55.0
+2311,Marzahn-Hellersd.,Prötzeler Ring 031,12679,60.0
+2312,Marzahn-Hellersd.,Havemannstr. 017a,12689,25.0
+2313,Marzahn-Hellersd.,Bitterfelder Str. 011/13,12681,12.0
+2314,Marzahn-Hellersd.,Kienbergstr. 001-3,12685,25.0
+2315,Marzahn-Hellersd.,Paul-Schwenk-Str. 003-21,12681,12.0
+2316,Marzahn-Hellersd.,Schwabenallee 086,12683,56.0
+2317,Marzahn-Hellersd.,Wittenberger Str. 020,12689,195.0
+2318,Marzahn-Hellersd.,Parkweg 008,12683,55.0
+2319,Marzahn-Hellersd.,Hinter der Mühle 005,12685,60.0
+2320,Marzahn-Hellersd.,Basdorfer Str. 002-4,12679,200.0
+2321,Marzahn-Hellersd.,Raoul-Wallenberg-Str. 058- 60,12679,190.0
+2322,Marzahn-Hellersd.,Zum Forsthaus 003,12683,195.0
+2323,Marzahn-Hellersd.,Geraer Ring 050-052,12689,175.0
+2324,Marzahn-Hellersd.,Glambecker Ring 050-52,12679,240.0
+2325,Marzahn-Hellersd.,Schorfheidestr. 048- 50,12689,220.0
+2326,Marzahn-Hellersd.,Rabensteiner Str. 020,12689,100.0
+2327,Marzahn-Hellersd.,Jan-Petersen-Str. 027,12679,205.0
+2328,Marzahn-Hellersd.,Liebensteiner Str. 020-22,12687,195.0
+2329,Marzahn-Hellersd.,Walter-Felsenstein-Str. 039,12687,179.0
+2330,Marzahn-Hellersd.,Marchwitzastr. 049,12681,195.0
+2331,Marzahn-Hellersd.,Oberweißbacher Str. 008,12687,200.0
+2332,Marzahn-Hellersd.,Blumberger Damm 139,12685,170.0
+2333,Marzahn-Hellersd.,Blumberger Damm 227/229,12687,226.0
+2334,Marzahn-Hellersd.,Rabensteiner Str. 022,12689,118.0
+2335,Marzahn-Hellersd.,Salanderweg 027,12685,195.0
+2336,Marzahn-Hellersd.,Zühlsdorfer Str. 018,12679,160.0
+2337,Marzahn-Hellersd.,Rapsweißlingstr. 011,12683,119.0
+2338,Marzahn-Hellersd.,Gadebuscher Str. 021,12619,210.0
+2339,Marzahn-Hellersd.,Teterower Ring 036,12619,230.0
+2340,Marzahn-Hellersd.,Erich-Baron-Weg 118,12623,36.0
+2341,Marzahn-Hellersd.,Lily-Braun-Str. 080,12619,220.0
+2342,Marzahn-Hellersd.,Maxie-Wander-Str. 016,12619,200.0
+2343,Marzahn-Hellersd.,Finkelsteinstr. 006,12619,190.0
+2344,Marzahn-Hellersd.,Suhler Str. 043,12629,165.0
+2345,Marzahn-Hellersd.,Kastanienallee 028-30,12627,180.0
+2346,Marzahn-Hellersd.,Ingolstädter Str. 028,12621,60.0
+2347,Marzahn-Hellersd.,Fercher Str. 010-12,12629,220.0
+2348,Marzahn-Hellersd.,Zossener Str. 053,12629,190.0
+2349,Marzahn-Hellersd.,Schrobsdorffstr. 028,12623,102.0
+2350,Marzahn-Hellersd.,Teupitzer Str. 010/12,12627,210.0
+2351,Marzahn-Hellersd.,Stollberger Str. 025,12627,190.0
+2352,Marzahn-Hellersd.,Bauerwitzer Weg 033,12621,135.0
+2353,Marzahn-Hellersd.,Landréstr. 009,12621,30.0
+2354,Marzahn-Hellersd.,Ulmenstr. 079,12621,45.0
+2355,Marzahn-Hellersd.,Pestalozzistr. 029,12623,48.0
+2356,Marzahn-Hellersd.,Elsenstr. 011-13,12623,205.0
+2357,Marzahn-Hellersd.,Kiekemaler Str. 007,12623,45.0
+2358,Marzahn-Hellersd.,Waldheimer Str. 018-20,12627,190.0
+2359,Marzahn-Hellersd.,Langenbeckstr. 008,12623,75.0
+2360,Marzahn-Hellersd.,Waldheimer Str. 010-12,12627,170.0
+2361,Marzahn-Hellersd.,Adorfer Str. 008,12627,165.0
+2362,Marzahn-Hellersd.,Dorfstr. 012A,12621,56.0
+2363,Marzahn-Hellersd.,Giesestr. 043,12621,33.0
+2364,Marzahn-Hellersd.,Dorfstr. 019A,12621,32.0
+2365,Marzahn-Hellersd.,Weißenfelser Str. 031/33,12627,190.0
+2366,Marzahn-Hellersd.,Zerbster Str. 099101,12627,180.0
+2367,Marzahn-Hellersd.,Albert-Kuntz-Str. 041,12627,179.0
+2368,Marzahn-Hellersd.,Lubminer Str. 037A,12619,25.0
+2369,Marzahn-Hellersd.,Rathener Str. 003und 7 und 18,12627,90.0
+2370,Marzahn-Hellersd.,Kastanienallee 053,12627,70.0
+2371,Marzahn-Hellersd.,Havelländer Ring 032B,12629,135.0
+2372,Marzahn-Hellersd.,Peter-Huchel-Str. 035,12619,110.0
+2373,Marzahn-Hellersd.,Carola-Neher-Str. 013,12619,35.0
+2374,Marzahn-Hellersd.,Ledebourstr. 001,12623,25.0
+2375,Marzahn-Hellersd.,Wurzener Str. 002,12627,50.0
+2376,Marzahn-Hellersd.,Peter-Huchel-Str. 043,12619,121.0
+2377,Marzahn-Hellersd.,Alte Hellersdorfer Str. 134,12629,45.0
+2378,Marzahn-Hellersd.,Mittenwalder Str. 014,12629,58.0
+2379,Marzahn-Hellersd.,Naumburger Ring 025,12627,172.0
+2380,Marzahn-Hellersd.,Riesaer Str. 079A,12627,59.0
+2381,Marzahn-Hellersd.,Torgauer Str. 027- 29,12627,200.0
+2382,Marzahn-Hellersd.,Stollberger Str. 061,12627,54.0
+2383,Marzahn-Hellersd.,Lutherstr. 012,12623,30.0
+2384,Marzahn-Hellersd.,Giesestr. 080,12623,60.0
+2385,Marzahn-Hellersd.,Stralsunder Str. 020,12623,80.0
+2386,Marzahn-Hellersd.,Pfarrhufenanger 089,12623,78.0
+2387,Marzahn-Hellersd.,Heinrich-Grüber-Str. 012,12621,88.0
+2388,Marzahn-Hellersd.,Dahlwitzer Str. 007,12623,35.0
+2389,Marzahn-Hellersd.,Tangermünder Str. 030,12627,23.0
+2390,Marzahn-Hellersd.,Arneburger Str. 008- 10,12627,50.0
+2391,Marzahn-Hellersd.,Rudolf-Leonhard-Str. 015,12679,15.0
+2392,Marzahn-Hellersd.,Wilhelmsmühlenweg 178A,12623,30.0
+2393,Marzahn-Hellersd.,Hellersdorfer Promenade 023und 25,12627,90.0
+2394,Marzahn-Hellersd.,Clara-Zetkin-Weg 010,12619,30.0
+2395,Marzahn-Hellersd.,Bütower Str. 008,12623,60.0
+2396,Marzahn-Hellersd.,Dirschauer Str. 007,12623,100.0
+2397,Marzahn-Hellersd.,Pilgramer Str. 311,12623,150.0
+2398,Marzahn-Hellersd.,Albert-Kuntz-Str. 063,12627,12.0
+2399,Marzahn-Hellersd.,Hultschiner Damm 001,12623,100.0
+2400,Marzahn-Hellersd.,Fritz-Reuter-Str. 011,12623,25.0
+2401,Marzahn-Hellersd.,Hultschiner Damm 027,12623,30.0
+2402,Lichtenberg,Baikalstr. 002,10319,76.0
+2403,Lichtenberg,Balatonstr. 009,10319,90.0
+2404,Lichtenberg,Hauptstr. 006T,10317,97.0
+2405,Lichtenberg,Charlottenstr. 003a/b,10315,180.0
+2406,Lichtenberg,Pfarrstr. 089-91,10317,103.0
+2407,Lichtenberg,Sewanstr. 120,10319,100.0
+2408,Lichtenberg,Gotlindestr. 036/37,10365,236.0
+2409,Lichtenberg,Archenholdstr. 072,10315,42.0
+2410,Lichtenberg,Erieseering 033,10319,300.0
+2411,Lichtenberg,Harnackstr. 007,10365,180.0
+2412,Lichtenberg,Hentigstr. 016,10318,30.0
+2413,Lichtenberg,Sadowastr. 016,10318,30.0
+2414,Lichtenberg,Hönower Str. 031,10318,128.0
+2415,Lichtenberg,Honnefer Str. 025,10318,160.0
+2416,Lichtenberg,Hubertusstr. 005,10365,85.0
+2417,Lichtenberg,John-Sieg-Str. 001- 003,10365,180.0
+2418,Lichtenberg,Karl-Vesper-Str. 011,10369,65.0
+2419,Lichtenberg,Kraetkestr. 018,10315,51.0
+2420,Lichtenberg,Mellenseestr. 065,10319,180.0
+2421,Lichtenberg,Otto-Marquardt-Str. 002-4,10369,181.0
+2422,Lichtenberg,Paul-Junius-Str. 052,10369,240.0
+2423,Lichtenberg,Ribbecker Str. 022,10315,300.0
+2424,Lichtenberg,Römerweg 106,10318,180.0
+2425,Lichtenberg,Rosenfelder Ring 035,10315,180.0
+2426,Lichtenberg,Rudolf-Reusch-Str. 057,10367,185.0
+2427,Lichtenberg,Schulze-Boysen-Str. 022,10365,200.0
+2428,Lichtenberg,Gensinger Str. 058,10315,180.0
+2429,Lichtenberg,Wildensteiner Str. 003,10318,135.0
+2430,Lichtenberg,Wönnichstr. 060,10317,75.0
+2431,Lichtenberg,Schottstr. 006,10365,58.0
+2432,Lichtenberg,Lehndorffstr. 011/15,10318,51.0
+2433,Lichtenberg,Schulze-Boysen-Str. 026,10365,90.0
+2434,Lichtenberg,Nöldnerstr. 043,10317,51.0
+2435,Lichtenberg,Kaskelstr. 041,10317,25.0
+2436,Lichtenberg,Eitelstr. 016,10317,95.0
+2437,Lichtenberg,Bernhard-Bästlein-Str. 044,10367,130.0
+2438,Lichtenberg,Bernhard-Bästlein-Str. 052/54,10367,170.0
+2439,Lichtenberg,Sewanstr. 197-199,10319,201.0
+2440,Lichtenberg,Massower Str. 023,10315,215.0
+2441,Lichtenberg,Paul-Junius-Str. 032,10369,160.0
+2442,Lichtenberg,Plonzstr. 022,10365,240.0
+2443,Lichtenberg,Rudolf-Seiffert-Str. 026/28,10369,180.0
+2444,Lichtenberg,Wönnichstr. 074,10317,200.0
+2445,Lichtenberg,Herzbergstr. 079,10365,95.0
+2446,Lichtenberg,Stühlinger Str. 003,10318,40.0
+2447,Lichtenberg,Üderseestr. 001,10318,10.0
+2448,Lichtenberg,Alfred-Kowalke-Str. 040A,10315,55.0
+2449,Lichtenberg,Georg-Löwenstein-Str. 022,10317,90.0
+2450,Lichtenberg,Tannhäuserstr. 004A,10318,70.0
+2451,Lichtenberg,Lückstr. 065,10317,16.0
+2452,Lichtenberg,Stadthausstr. 003,10317,25.0
+2453,Lichtenberg,Dorotheastr. 027,10318,50.0
+2454,Lichtenberg,Sewanstr. 043,10319,75.0
+2455,Lichtenberg,Rüdigerstr. 076,10365,71.0
+2456,Lichtenberg,Herbert-Tschäpe-Str. 002,10369,60.0
+2457,Lichtenberg,Sophienstr. 008,10317,25.0
+2458,Lichtenberg,Wandlitzstr. 006,10318,33.0
+2459,Lichtenberg,Archenholdstr. 029,10315,28.0
+2460,Lichtenberg,Pfarrstr. 101,10317,30.0
+2461,Lichtenberg,Landsberger Allee 228,10367,60.0
+2462,Lichtenberg,Hagenstr. 049,10365,30.0
+2463,Lichtenberg,Sophienstr. 028A,10317,115.0
+2464,Lichtenberg,Volkradstr. 004,10319,85.0
+2465,Lichtenberg,Türrschmidtstr. 033,10317,30.0
+2466,Lichtenberg,Ehrenfelsstr. 009/10,10318,30.0
+2467,Lichtenberg,Paul-Junius-Str. 064A,10369,80.0
+2468,Lichtenberg,Ehrlichstr. 021,10318,26.0
+2469,Lichtenberg,Franz-Jacob-Str. 004,10369,25.0
+2470,Lichtenberg,Am Carlsgarten 016,10318,150.0
+2471,Lichtenberg,Liepnitzstr. 042,10318,25.0
+2472,Lichtenberg,Franz-Jacob-Str. 016- 18,10369,105.0
+2473,Lichtenberg,Paul-Zobel-Str. 008G,10367,30.0
+2474,Lichtenberg,Hauffstr. 012,10317,29.0
+2475,Lichtenberg,Treskowallee 135,10318,181.0
+2476,Lichtenberg,Bürgerheimstr. 025,10365,25.0
+2477,Lichtenberg,Lückstr. 032,10317,40.0
+2478,Lichtenberg,Rummelsburger Str. 061,10315,80.0
+2479,Lichtenberg,Marie-Curie-Allee 004,10315,25.0
+2480,Lichtenberg,Einbecker Str. 032,10317,35.0
+2481,Lichtenberg,Marksburgstr. 038-40,10318,150.0
+2482,Lichtenberg,Liepnitzstr. 049,10318,25.0
+2483,Lichtenberg,Hönower Str. 035,10318,74.0
+2484,Lichtenberg,Judith-Auer-Str. 006,10369,215.0
+2485,Lichtenberg,Hauptstr. 003,10317,110.0
+2486,Lichtenberg,Paul-Junius-Str. 067,10369,154.0
+2487,Lichtenberg,Bürgerheimstr. 023,10365,15.0
+2488,Lichtenberg,Gundelfinger Str. 039,10318,85.0
+2489,Lichtenberg,Rudolf-Seiffert-Str. 053,10369,25.0
+2490,Lichtenberg,Treskowallee 022- 24,10318,100.0
+2491,Lichtenberg,Paul-Zobel-Str. 009,10367,150.0
+2492,Lichtenberg,Gotlindestr. 054,10365,180.0
+2493,Lichtenberg,Gensinger Str. 060,10315,162.0
+2494,Lichtenberg,Kaskelstr. 003,10317,80.0
+2495,Lichtenberg,Üderseestr. 013,10318,56.0
+2496,Lichtenberg,Scheffelstr. 010,10367,25.0
+2497,Lichtenberg,Eitelstr. 085,10317,39.0
+2498,Lichtenberg,Köpenicker Allee 151,10318,150.0
+2499,Lichtenberg,Weseler Str. 009,10318,30.0
+2500,Lichtenberg,Treskowallee 124,10318,26.0
+2501,Lichtenberg,Gensinger Str. 083,10315,90.0
+2502,Lichtenberg,Giselastr. 026,10317,35.0
+2503,Lichtenberg,Rathausstr. 011-12,10367,102.0
+2504,Lichtenberg,Hohenschönhauser Str. 076,10369,13.0
+2505,Lichtenberg,Paul-Zobel-Str. 010,10367,43.0
+2506,Lichtenberg,Lückstr. 028,10317,25.0
+2507,Lichtenberg,Archenholdstr. 025,10315,72.0
+2508,Lichtenberg,Klara-Weyl-Str. 009,10365,110.0
+2509,Lichtenberg,Heckelberger Ring 003,13055,112.0
+2510,Lichtenberg,Schalkauer Str. 025A,13055,80.0
+2511,Lichtenberg,Ahrenshooper Str. 005,13051,80.0
+2512,Lichtenberg,Dierhagener Str. 001/3,13051,160.0
+2513,Lichtenberg,Am Berl 013,13051,23.0
+2514,Lichtenberg,Wartiner Str. 077,13057,106.0
+2515,Lichtenberg,Dorfstr. 004A,13059,35.0
+2516,Lichtenberg,Dorfstr. 005,13057,51.0
+2517,Lichtenberg,Dorfstr. 037,13051,50.0
+2518,Lichtenberg,Am Berl 008/10,13051,160.0
+2519,Lichtenberg,Heckelberger Ring 001,13055,90.0
+2520,Lichtenberg,Malchower Weg 046,13053,90.0
+2521,Lichtenberg,Neubrandenburger Str. 051/53,13059,250.0
+2522,Lichtenberg,Konrad-Wolf-Str. 045,13055,198.0
+2523,Lichtenberg,Neustrelitzer Str. 032/34,13055,205.0
+2524,Lichtenberg,Roedernstr. 014,13053,49.0
+2525,Lichtenberg,Oberseestr. 077,13053,26.0
+2526,Lichtenberg,Marzahner Str. 014,13053,50.0
+2527,Lichtenberg,Gehrenseestr. 099,13053,115.0
+2528,Lichtenberg,Strausberger Str. 005,13055,160.0
+2529,Lichtenberg,Waldowstr. 040/ Manetstr. 23,13053,165.0
+2530,Lichtenberg,Demminer Str. 004,13059,60.0
+2531,Lichtenberg,Warnitzer Str. 009/11,13057,180.0
+2532,Lichtenberg,Landsberger Allee 217F,13055,44.0
+2533,Lichtenberg,Rüdickenstr. 032,13053,100.0
+2534,Lichtenberg,Nienhagener Str. 021,13051,52.0
+2535,Lichtenberg,Hausvaterweg 021,13057,12.0
+2536,Lichtenberg,Ahrensfelder Chaussee 079- 81,13057,60.0
+2537,Lichtenberg,Birkholzer Weg 076,13059,23.0
+2538,Lichtenberg,Malchower Weg 044,13053,93.0
+2539,Lichtenberg,Randowstr. 041,13057,170.0
+2540,Lichtenberg,Ahrenshooper Str. 003,13051,220.0
+2541,Lichtenberg,Anna-Ebermann-Str. 025,13053,197.0
+2542,Lichtenberg,Berkenbrücker Steig 009/10,13055,180.0
+2543,Lichtenberg,Biesenbrower Str. 061,13057,182.0
+2544,Lichtenberg,Crivitzer Str. 016,13059,207.0
+2545,Lichtenberg,Falkenberger Chaussee 120,13057,180.0
+2546,Lichtenberg,Goeckestr. 025/26,13055,251.0
+2547,Lichtenberg,Hedwigstr. 009,13053,103.0
+2548,Lichtenberg,Matenzeile 0024,13053,170.0
+2549,Lichtenberg,Reriker Str. 020,13051,115.0
+2550,Lichtenberg,Warnemünder Str. 022,13059,190.0
+2551,Lichtenberg,Wiecker Str. 001-003,13051,185.0
+2552,Lichtenberg,Wustrower Str. 039,13051,180.0
+2553,Lichtenberg,Schleizer Str. 062,13055,100.0
+2554,Lichtenberg,Hagenower Ring 047-49,13059,16.0
+2555,Lichtenberg,Wartenberger Str. 120,13053,12.0
+2556,Lichtenberg,Ahrenshooper Str. 005-7,13051,12.0
+2557,Lichtenberg,Genslerstr. 017,13055,50.0
+2558,Lichtenberg,Vincent-van-Gogh-Str. 036,13057,85.0
+2559,Reinickendorf,Eichborndamm 272,13437,103.0
+2560,Reinickendorf,Eichhorster Weg 023,13435,130.0
+2561,Reinickendorf,Rathauspromenade 073,13437,156.0
+2562,Reinickendorf,Rotbuchenweg 018,13403,106.0
+2563,Reinickendorf,Senftenberger Ring 099,13435,160.0
+2564,Reinickendorf,Senftenberger Ring 046A,13435,140.0
+2565,Reinickendorf,Schlitzer Str. 097,13435,160.0
+2566,Reinickendorf,Tornower Weg 008,13439,140.0
+2567,Reinickendorf,Tramper Weg 004,13439,150.0
+2568,Reinickendorf,Treuenbrietzener Str. 026,13439,252.0
+2569,Reinickendorf,Wittenauer Str. 110E,13435,86.0
+2570,Reinickendorf,Alt-Tegel 040,13507,85.0
+2571,Reinickendorf,Erholungsweg 001,13509,105.0
+2572,Reinickendorf,Ernststr. 078-84,13509,123.0
+2573,Reinickendorf,Nimrodstr. 004-14,13469,94.0
+2574,Reinickendorf,Luisenstr. 021,13505,115.0
+2575,Reinickendorf,Neheimer Str. 010,13507,130.0
+2576,Reinickendorf,Rabenstr. 041,13505,39.0
+2577,Reinickendorf,Schramberger Str. 008,13467,100.0
+2578,Reinickendorf,Markgrafenstr. 014,13465,65.0
+2579,Reinickendorf,Seestr. 014,13467,95.0
+2580,Reinickendorf,Fichtestr. 005-9,13467,80.0
+2581,Reinickendorf,Waldshuter Zeile 008,13469,205.0
+2582,Reinickendorf,Friedrich-Wilhelm-Str. 076,13409,145.0
+2583,Reinickendorf,Auguste-Viktoria-Allee 097,13403,100.0
+2584,Reinickendorf,Letteallee 082,13409,210.0
+2585,Reinickendorf,General-Woyna-Str. 048,13403,140.0
+2586,Reinickendorf,Werdohler Weg 081,13507,187.0
+2587,Reinickendorf,Mittelbruchzeile 078-84,13409,200.0
+2588,Reinickendorf,Hennigsdorfer Str. 130,13503,148.0
+2589,Reinickendorf,Frohnauer Str. 067,13467,135.0
+2590,Reinickendorf,Humboldtstr. 001-7,13407,147.0
+2591,Reinickendorf,Oeserstr. 008,13509,55.0
+2592,Reinickendorf,Baseler Str. 018,13407,55.0
+2593,Reinickendorf,Benekendorffstr. 148,13469,56.0
+2594,Reinickendorf,Blunckstr. 014,13437,105.0
+2595,Reinickendorf,Finsterwalder Str. 066,13435,80.0
+2596,Reinickendorf,Hausotterplatz 003,13409,59.0
+2597,Reinickendorf,Klinnerweg 053,13509,90.0
+2598,Reinickendorf,Markgrafenstr. 049,13465,65.0
+2599,Reinickendorf,Schloßstr. 039,13467,100.0
+2600,Reinickendorf,Spießweg 007,13437,46.0
+2601,Reinickendorf,Stegeweg 005,13407,54.0
+2602,Reinickendorf,Sterkrader Str. 047,13507,50.0
+2603,Reinickendorf,Stolpmünder Weg 035,13503,67.0
+2604,Reinickendorf,Titiseestr. 007,13469,64.0
+2605,Reinickendorf,Bernauer Str. 066,13507,53.0
+2606,Reinickendorf,General-Woyna-Str. 056,13403,65.0
+2607,Reinickendorf,Königshorster Str. 002,13439,80.0
+2608,Reinickendorf,Klemkestr. 003,13409,75.0
+2609,Reinickendorf,Liebfrauenweg 013,13509,60.0
+2610,Reinickendorf,Roswithastr. 021,13467,65.0
+2611,Reinickendorf,Senheimer Str. 035,13465,55.0
+2612,Reinickendorf,Techowpromenade 035- 43,13437,50.0
+2613,Reinickendorf,Romanshorner Weg 085,13407,136.0
+2614,Reinickendorf,Zehntwerderweg 173,13469,25.0
+2615,Reinickendorf,Hermsdorfer Damm 192,13467,15.0
+2616,Reinickendorf,Holländerstr. 014,13407,23.0
+2617,Reinickendorf,Am Bärensprung 036,13503,30.0
+2618,Reinickendorf,Am Bärensprung 036,13503,24.0
+2619,Reinickendorf,Königsbacher Zeile 049,13465,16.0
+2620,Reinickendorf,Königshorster Str. 011,13439,16.0
+2621,Reinickendorf,Staehleweg 46,13465,35.0
+2622,Reinickendorf,Gutshofstr. 010,13465,28.0
+2623,Reinickendorf,Berliner Str. 111,13467,20.0
+2624,Reinickendorf,Sandhauser Str. 145,13503,30.0
+2625,Reinickendorf,Schorfheidestr. 015,13439,36.0
+2626,Reinickendorf,Tietzstr. 012,13509,36.0
+2627,Reinickendorf,Walporzheimer Str. 018,13465,36.0
+2628,Reinickendorf,Herbststr. 026,13409,18.0
+2629,Reinickendorf,Gorkistr. 127,13509,30.0
+2630,Reinickendorf,Keilerstr. 023,13503,65.0
+2631,Reinickendorf,Auguste-Viktoria-Str. 004,13467,50.0
+2632,Reinickendorf,Am Bärensprung 042,13503,40.0
+2633,Reinickendorf,Alt-Tegel 037,13507,45.0
+2634,Reinickendorf,Zermatter Str. 019D,13407,22.0
+2635,Reinickendorf,Alt-Heiligensee 045,13503,45.0
+2636,Reinickendorf,Maximiliankorso 035,13465,114.0
+2637,Reinickendorf,Auguste-Viktoria-Allee 051,13403,100.0
+2638,Reinickendorf,Hausotterstr. 053,13409,15.0
+2639,Reinickendorf,Wilhelmsruher Damm 215A,13435,48.0
+2640,Reinickendorf,Schlieperstr. 054,13507,25.0
+2641,Reinickendorf,Olafstr. 016,13467,40.0
+2642,Reinickendorf,Hermsdorfer Str. 018,13469,82.0
+2643,Reinickendorf,Klixstr. 031D,13403,135.0
+2644,Reinickendorf,Karolinenstr. 003,13507,180.0
+2645,Reinickendorf,Schillerring 013,13407,47.0
+2646,Reinickendorf,Amendestr. 041,13409,125.0
+2647,Reinickendorf,Sommerstr. 016,13409,112.0
+2648,Reinickendorf,Beatestr. 029,13505,30.0
+2649,Reinickendorf,Alt-Wittenau 064,13437,20.0
+2650,Reinickendorf,Wilhelmsruher Damm 159A,13439,80.0
+2651,Reinickendorf,An der Mäckeritzbrücke 004,13629,15.0
+2652,Reinickendorf,Bernauer Str. 136,13507,95.0
+2653,Reinickendorf,Schulzendorfer Str. 144A(neben Waldspielplatz),13467,45.0
+2654,Reinickendorf,Lübarser Str. 013,13435,20.0
+2655,Reinickendorf,Wachsmuthstr. 012,13467,35.0
+2656,Reinickendorf,Am Dachsbau 003- 5,13503,38.0
+2657,Reinickendorf,Schillingstr. 016,13403,45.0
+2658,Reinickendorf,Sommerstr. 028,13409,63.0
+2659,Reinickendorf,Wilhelmsruher Damm 192,13435,36.0
+2660,Reinickendorf,Berliner Str. 088A,13467,30.0
+2661,Reinickendorf,Gotthardstr. 037-41,13407,140.0
+2662,Reinickendorf,Schulzendorfer Str. 025,13503,30.0
+2663,Reinickendorf,Waidmannsluster Damm 007C,13507,80.0
+2664,Reinickendorf,Senftenberger Ring 034,13435,133.0
+2665,Reinickendorf,Jostweg 005,13465,25.0
+2666,Reinickendorf,Karmeliterweg 014,13465,35.0
+2667,Reinickendorf,Auguste-Viktoria-Allee 017,13403,100.0
+2668,Reinickendorf,Artemisstr. 038,13469,16.0
+2669,Reinickendorf,Genfer Str. 033,13407,45.0
+2670,Reinickendorf,Zobeltitzstr. 034,13403,35.0
+2671,Reinickendorf,Nimrodstr. 039,13469,34.0
+2672,Reinickendorf,Auguste-Viktoria-Allee 014,13403,140.0
+2673,Reinickendorf,Staehleweg 53,13465,20.0
+2674,Reinickendorf,Waidmannsluster Damm 178,13469,30.0
+2675,Reinickendorf,Alt-Wittenau 089,13437,200.0
+2676,Reinickendorf,Avenue Charles de Gaulle 035A,13469,120.0
+2677,Reinickendorf,Dianastr. 001,13469,92.0
+2678,Reinickendorf,Tornower Weg 006,13439,60.0
+2679,Reinickendorf,Blankestr. 011,13403,33.0
+2680,Reinickendorf,Alt-Reinickendorf 050/51,13407,50.0
+2681,Reinickendorf,Karolinenstr. 021,13507,80.0
+2682,Reinickendorf,Oranienburger Str. 204,13437,25.0
+2683,Reinickendorf,Bernstorffstr. 018,13507,22.0
+2684,Reinickendorf,Aroser Allee 152,13407,24.0
+2685,Reinickendorf,Amendestr. 090,13409,123.0
+2686,Reinickendorf,Holländerstr. 023,13407,29.0
+2687,Reinickendorf,Berliner Str. 050,13467,80.0
+2688,Reinickendorf,Lindauer Allee 004,13407,35.0
+2689,Reinickendorf,Hatzfeldtallee 014,13509,25.0
+2690,Reinickendorf,Antonienstr. 067- 68,13403,70.0
+2691,Reinickendorf,Tile-Brügge-Weg 049,13509,30.0
+2692,Reinickendorf,Scharnweberstr. 050/51,13405,50.0
+2693,Reinickendorf,Fasanerie 010,13469,30.0
+2694,Reinickendorf,Heiligenseestr. 063,13503,90.0
+2695,Reinickendorf,Eichborndamm 039,13403,25.0
+2696,Reinickendorf,Antonienstr. 009,13403,20.0
+2697,Reinickendorf,Dannenwalder Weg 095- 97,13439,69.0
+2698,Reinickendorf,Antonienstr. 050A,13403,50.0
+2699,Reinickendorf,Aroser Allee 151,13407,50.0
+2700,Reinickendorf,Gabrielenstr. 012- 18,13507,45.0
+2701,Reinickendorf,Kögelstr. 004-5,13403,105.0
+2702,Reinickendorf,Oranienburger Str. 063,13437,60.0
+2703,Reinickendorf,Eichborndamm 042- 45,13403,55.0
+2704,Reinickendorf,Schubartstr. 044,13509,30.0
+2705,Reinickendorf,Senftenberger Ring 029,13435,135.0
+2706,Reinickendorf,Blankestr. 005,13403,35.0
+2707,Reinickendorf,Scharnweberstr. 043,13405,60.0
+2708,Reinickendorf,Wittenauer Str. 007,13435,25.0
+2709,Reinickendorf,Aroser Allee 153C,13407,50.0
+2710,Reinickendorf,Artemisstr. 004,13469,30.0
+2711,Reinickendorf,Tietzstr. 025,13509,35.0
+2712,Reinickendorf,Uranusweg 003,13405,60.0
+2713,Reinickendorf,Avenue Charles de Gaulle 007-9,13469,55.0
+2714,Reinickendorf,Senftenberger Ring 037-39,13435,12.0
